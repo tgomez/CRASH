@@ -6,4 +6,5 @@ Ideas:
 <p> -Crime data - https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-Present/y8tr-7khq
 <p> -health
 <p> - Exploratory Analysis - Market Segmentation of Product (eg.beer) customers (demographics).
+<p> - Exploratory Analysis - Entertainment Industry (eg. movies data to demographics). Correlation between genre to demographics contributing to its blockbuster success.
 
