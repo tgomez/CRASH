@@ -7,4 +7,5 @@ Ideas:
 <p> -health
 <p> - Exploratory Analysis - Market Segmentation of Product (eg.beer) customers (demographics).
 <p> - Exploratory Analysis - Entertainment Industry (eg. movies data to demographics). Correlation between genre to demographics contributing to its blockbuster success.
+<p> - Exploratory Analysis - Music Industry Trends. Changes in music industry landscape, like recording DJs' becoming more and more popular than the traditional recording artist. A peek look on the financial side as their fame rises.
 
