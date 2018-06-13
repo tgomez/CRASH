@@ -27,6 +27,7 @@ Place date in SQL DataBase
 
 Dashboard Page
     3 graphs
+        
         Heat map 
             Collision rates by    geography
             Collision rates by sex
