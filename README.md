@@ -11,7 +11,7 @@ Ideas:
 
 6/12/2018 Project 2 Information 
 
-Data cleaning
+Data Wrangling
    
     Columns to delete:
 
