@@ -27,7 +27,7 @@ Data cleaning
     
     Pull additional dataset for cities
 
-Place date in mongodb DataBase
+Place date in SQL LITE DataBase
 
 Dashboard Page
 
