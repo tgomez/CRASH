@@ -27,7 +27,7 @@ Data cleaning
     
     Pull additional dataset for cities
 
-Place date in SQL DataBase
+Place date in mongodb DataBase
 
 Dashboard Page
 
@@ -38,11 +38,19 @@ Dashboard Page
             Collision rates by sex
             etc
         
-        Populations vs city population(Or vs age range of drivers)
+        Accident Particulars vs city population(vs age range of drivers)
         
         Time dependent analysis of accidents 
             Vs time of year
-            Vs time of day
+            Vs time of day 
+            VS day of week
+
+        Add'l ideals
+
+            Leaflets chart to show ????. 
+
+
+            
 
 
 
