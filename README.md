@@ -31,7 +31,9 @@ Dashboard Page
             Collision rates by    geography
             Collision rates by sex
             etc
+        
         Populations vs city population(Or vs age range of drivers)
+        
         Time dependent analysis of accidents 
             Vs time of year
             Vs time of day
