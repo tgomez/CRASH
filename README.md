@@ -12,13 +12,17 @@ Ideas:
 6/12/2018 Project 2 Information 
 
 Data cleaning
-    Columns to delete
-        Premise Code
-        Crime Code Desc
-        Crime Code
-        Area ID
-        Date Reported Dr Number
-    Columns to ADD
+   
+    Columns to delete:
+
+        Premise Code,
+        Crime Code Desc,
+        Crime Code,
+        Area ID,
+        Date Reported Dr Number,
+
+    Columns to ADD:
+
         Day of the week 
     
     Pull additional dataset for cities
@@ -26,6 +30,7 @@ Data cleaning
 Place date in SQL DataBase
 
 Dashboard Page
+
     3 graphs
         
         Heat map 
