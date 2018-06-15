@@ -6,6 +6,7 @@
 ## Overview
 Los Angeles is a large commuter city which inherently lends itself to numerous traffic collisions. 
 Car crashes are one of the leading causes of death in the US(1) and as such they are a candidate for study. Studying a leading cause of death may unveil insights which may help prevent or reduce deaths due to traffic collisions.
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/US_CDC_logo.svg/280px-US_CDC_logo.svg.png)
 
 ## Step 1: Finalize Idea and Logistics
  
