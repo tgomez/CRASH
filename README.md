@@ -1,4 +1,7 @@
 # ProjectTwo
+
+### Members:
+
 ## Step 1: Brainstorm Ideas
 
 Ideas:
@@ -13,7 +16,7 @@ Ideas:
 <br>
 
 ## Step 2: Finalize Idea and hammer out details
-
+Overview: Los Angeles is a large commuter city which inherently lends itseld to numerous traffic collisions. We aim to analyze the different factors related to such instances. 
 Objective: Analyze data from LA County regarding traffic collisions.
 <br<
 We will create a dashboard page with multiple graphs updating from the same data.
