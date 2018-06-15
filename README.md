@@ -14,6 +14,11 @@ Ideas:
 
 ## Step 2: Finalize Idea and hammer out details
 
+Objective: Analyze data from LA County regarding traffic collisions.
+<br>
+Link to data: https://data.lacity.org/A-Safe-City/Traffic-Collision-Data-from-2010-to-Present/d5tf-ez2w
+<br>
+
 Data Wrangling
    
     Columns to delete:
