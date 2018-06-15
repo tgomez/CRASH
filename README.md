@@ -38,23 +38,14 @@ We will utilize SQLite
 ## Step 4: Create Dashboard page with graphs
 Dashboard Page
 
-    3 graphs
-        
-        Heat map 
-            Collision rates by    geography
-            Collision rates by sex
-            etc
+Graph 1: Heat Map: Geography, Sex
+<br>
+Graph 2: Time Series: Different times of the year, Time of day, Day of week
+<br>
+Graph 3: 
         
         Accident Particulars vs city population(vs age range of drivers)
-        
-        Time dependent analysis of accidents 
-            Vs time of year
-            Vs time of day 
-            VS day of week
 
-        Add'l ideals
-
-            Leaflets chart to show ????. 
 ## Step 5: Analyze data
 
             
