@@ -1,6 +1,7 @@
 # ProjectTwo
 
 ### Members:
+<p> Tiffany, Taron, Chris and Clifford.
 
 ## Step 1: Brainstorm Ideas
 
