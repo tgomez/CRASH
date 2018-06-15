@@ -1,7 +1,7 @@
 # Collisions R US
 ![Alt Text](https://cdn.dribbble.com/users/176572/screenshots/1261789/dribbble_14.gif)
 ### Collaboraters:
-<p> Tiffany, Taron, Chris and Clifford.
+<p> Tiffany Gomez, Taron Hakobyan, Chris Newbolt and Clifford Ferraren.
    
 ## Overview
 Los Angeles is a large commuter city which inherently lends itself to numerous traffic collisions. 
