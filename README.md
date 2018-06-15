@@ -2,11 +2,14 @@
 
 ### Cast:
 <p> Tiffany, Taron, Chris and Clifford.
+   
+## Overview
+Los Angeles is a large commuter city which inherently lends itself to numerous traffic collisions. We aim to analyze the different factors related to such instances. 
 
-## Step 1: Finalize Idea and hammer out details
-Overview: Los Angeles is a large commuter city which inherently lends itseld to numerous traffic collisions. We aim to analyze the different factors related to such instances. 
+## Step 1: Finalize Idea and Logistics
+ 
 Objective: Analyze data from LA County regarding traffic collisions.
-<br<
+<br>
 We will create a dashboard page with multiple graphs updating from the same data.
 <br>
 Link to data: https://data.lacity.org/A-Safe-City/Traffic-Collision-Data-from-2010-to-Present/d5tf-ez2w
