@@ -15,10 +15,12 @@ Ideas:
 ## Step 2: Finalize Idea and hammer out details
 
 Objective: Analyze data from LA County regarding traffic collisions.
+<br<
+We will create a dashboard page with multiple graphs updating from the same data.
 <br>
 Link to data: https://data.lacity.org/A-Safe-City/Traffic-Collision-Data-from-2010-to-Present/d5tf-ez2w
 <br>
-
+## Step 3: Data Munging
 Data Wrangling
    
     Columns to delete:
@@ -34,9 +36,10 @@ Data Wrangling
         Day of the week 
     
     Pull additional dataset for cities
+## Step 4: Store data in database
+We will utilize SQLite
 
-Place date in SQL LITE DataBase
-
+## Step 5: Create Dashboard page with graphs
 Dashboard Page
 
     3 graphs
@@ -56,7 +59,7 @@ Dashboard Page
         Add'l ideals
 
             Leaflets chart to show ????. 
-
+## Step 6: Analyze data
 
             
 
