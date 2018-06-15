@@ -14,7 +14,7 @@ Objective: Analyze data from LA County database regarding traffic collisions in 
 <br>
 We will create a dashboard page with multiple graphs updating from the same data. This faciliated visual analyzation of the data.
 <br>
-Link to data: https://data.lacity.org/A-Safe-City/Traffic-Collision-Data-from-2010-to-Present/d5tf-ez2w
+
 <br>
 ## Step 2: Data Munging
 Data Wrangling
