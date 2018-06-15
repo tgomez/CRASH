@@ -1,4 +1,4 @@
-# ProjectTwo
+# Collisions R US
 ![Alt Text](https://cdn.dribbble.com/users/176572/screenshots/1261789/dribbble_14.gif)
 ### Collaboraters:
 <p> Tiffany, Taron, Chris and Clifford.
