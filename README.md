@@ -4,7 +4,8 @@
 <p> Tiffany, Taron, Chris and Clifford.
    
 ## Overview
-Los Angeles is a large commuter city which inherently lends itself to numerous traffic collisions. We aim to analyze the different factors related to such instances. 
+Los Angeles is a large commuter city which inherently lends itself to numerous traffic collisions. 
+Car crashes are one of the leading causes of death in the US(1) and as such 
 
 ## Step 1: Finalize Idea and Logistics
  
@@ -56,6 +57,8 @@ Dashboard Page
 ## Step 5: Analyze data
 
             
+## Refernces
+1) Centers for Disease Control and Prevention, National Center for Injury Prevention and Control. Web-based Injury Statistics Query and Reporting System (WISQARS) Fatal Injury Data. (2017)
 
 
 
