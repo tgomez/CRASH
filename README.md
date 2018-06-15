@@ -1,4 +1,5 @@
 # ProjectTwo
+## Step 1: Brainstorm Ideas
 
 Ideas:
 <br>
@@ -9,7 +10,9 @@ Ideas:
 <p> - Exploratory Analysis - Entertainment Industry (eg. movies data to demographics). Correlation between genre to demographics contributing to its blockbuster success.
 <p> - Exploratory Analysis - Music Industry Trends. Changes in music industry landscape, like recording DJs' becoming more and more popular than the traditional recording artist. A peek look on the financial side as their fame rises.
 
-6/12/2018 Project 2 Information 
+<br>
+
+## Step 2: Finalize Idea and hammer out details
 
 Data Wrangling
    
