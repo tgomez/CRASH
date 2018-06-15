@@ -5,13 +5,13 @@
    
 ## Overview
 Los Angeles is a large commuter city which inherently lends itself to numerous traffic collisions. 
-Car crashes are one of the leading causes of death in the US(1) and as such 
+Car crashes are one of the leading causes of death in the US(1) and as such they are a candidate for study. Studying a leading cause of death may unveil insights which may help prevent or reduce deaths due to traffic collisions.
 
 ## Step 1: Finalize Idea and Logistics
  
-Objective: Analyze data from LA County regarding traffic collisions.
+Objective: Analyze data from LA County database regarding traffic collisions in LA County.
 <br>
-We will create a dashboard page with multiple graphs updating from the same data.
+We will create a dashboard page with multiple graphs updating from the same data. This faciliated visual analyzation of the data.
 <br>
 Link to data: https://data.lacity.org/A-Safe-City/Traffic-Collision-Data-from-2010-to-Present/d5tf-ez2w
 <br>
@@ -57,7 +57,7 @@ Dashboard Page
 ## Step 5: Analyze data
 
             
-## Refernces
+## References
 1) Centers for Disease Control and Prevention, National Center for Injury Prevention and Control. Web-based Injury Statistics Query and Reporting System (WISQARS) Fatal Injury Data. (2017)
 
 
