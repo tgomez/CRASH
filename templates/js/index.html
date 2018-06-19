@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Los Angeles Collision Dashboard</title>
+
+
+  <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/style.css">>
+  <meta name="theme-color" content="#ffffff">
+
+</head>
+
+<body>
+  <html>
+
+  <head>
+    <meta charset="UTF-8">
+    <title>LA Collision Dashboard</title>
+  </head>
+
+  <body>
+
+    <body>
+      <div class="container">
+        <div class="box size100 color1">
+          <h1><strong>LA Collision Statistics</strong></h1>
+        </div>
+        
+        <div class="box size25 color2">
+          <h3>Accident Occurence by Gender</h3>
+          <p><span class="colorBox darkBlue"></span> Male</p>
+          <p><span class="colorBox lightBlue"></span> Female</p>
+          <span id="Gender"></span>
+        </div>
+        <div class="box size25 color2">
+          <h3>Accident Occurence by Day of the Week</h3>
+          <p><span class="colorBox darkBlue"></span> Monday</p>
+          <p><span class="colorBox lightBlue"></span> Tuesday</p>
+          <p><span class="colorBox darkBlue"></span> Wednesday</p>
+          <p><span class="colorBox lightBlue"></span> Thursday</p>
+          <p><span class="colorBox darkBlue"></span> Friday</p>
+          <p><span class="colorBox lightBlue"></span> Saturday</p>
+          <p><span class="colorBox darkBlue"></span> Sunday</p>
+          <span id="Age"></span>
+        </div>
+        <div class="box size25 color2 graphContainer">
+          <h3>Accidents By Month</h3>
+          <svg id="accidentsPerMonth" width="500" height="400"></svg>
+        </div>
+        <div class="main container">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Accidents in 2018</h3>
+            </div>
+            <div class="panel-body">
+              <figure>
+                <iframe width="100%" height="520" frameborder="0" src="https://taronhakobyan.carto.com/builder/5ccb7601-4b19-4ca0-b878-f3d332948be7/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+                <figcaption>
+                  <p>
+                    This map displays locations of reports collisions taken place in 2108 within Los Angeles County.
+                  </p>
+                  </p>
+                  <p>More men are involved in accidents. Highest rate of accidents occur on Fridays. There is a higer rate of accidents around 4 pm. </p>
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </div>
+        <footer class="footer">
+
+    </body>
+
+  </html>
+
+  </body>
+
+</html>
