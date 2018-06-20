@@ -1,23 +1,42 @@
-
-
-
-
-.jumbotron {
-    text-align: center;
-    color: crimson
+body {
+    width: 100%;
+    margin: auto;
+}
+.container {
+    width: 1500px;
+    margin: 0 auto;
 }
 
-.h1 {
-    text-align: center;
+.header {
+    background: grey;
+    width: 100%;
+    top: 0;
+    position: fixed;
 }
 
+.logo {
+    text-align: center;
+    font-family: "Helvetica";
+    font-size: : 15px%;
+}
+
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+li {
+    list-style: none;
+}
 
 .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: crimson;
+    background-color: grey;
     color: white;
     text-align: center;
 }
