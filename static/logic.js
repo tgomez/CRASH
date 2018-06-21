@@ -1,5 +1,5 @@
 
-var vehicleCollision = {{ collisions | tojson | safe}};
+var vehicleCollision = {{ df | tojson }};
 
 var pie = new d3pie("pieChart", {
 	"header": {
@@ -40,6 +40,11 @@ var pie = new d3pie("pieChart", {
 				"label": "Caucasian",
 				"value": 10,
 				"color": "#0600f3"
+			},
+			{
+				"label": "",
+				"value": 8,
+				"color": "#00b109"
 			}
 		]
 	},
@@ -73,7 +78,7 @@ var pie = new d3pie("pieChart", {
 	},
 	"effects": {
 		"load": {
-			"speed": 5000
+			"speed": 3250
 		},
 		"pullOutSegmentOnClick": {
 			"effect": "linear",

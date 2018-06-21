@@ -21,7 +21,7 @@ Base.prepare(engine, reflect=True)
 # Print all of the classes mapped to the Base
 Base.classes.keys()
 
-# Assign the demographics class to a variable called `Demographics`
+# Assign the collision class to a variable called `collision`
 Collision = Base.classes.collision
 
 # Create a session
@@ -42,12 +42,15 @@ app = Flask(__name__)
 # Flask Routes
 @app.route("/")
 def default():
-    return render_template("index.html")
+    stmnt = session.query(Collision).statement
+    df = pd.read_sql_query(stmnt, session.bind)
+    df = df.set_index('id', inplace=True)
+    return render_template("index.html", df = df )
 
 
 @app.route("/data")
 def data_header():
-   # """Return a list of wines."""
+   # """Return a list of collisions."""
 
     stmnt = session.query(Collision).statement
     df = pd.read_sql_query(stmnt, session.bind)
