@@ -2,6 +2,7 @@
 import datetime as dt
 import numpy as np
 import pandas as pd
+import random
 
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
@@ -42,10 +43,7 @@ app = Flask(__name__)
 # Flask Routes
 @app.route("/")
 def default():
-    stmnt = session.query(Collision).statement
-    df = pd.read_sql_query(stmnt, session.bind)
-    df = df.set_index('id', inplace=True)
-    return render_template("index.html", df = df )
+    return render_template("index.html")
 
 
 @app.route("/data")
@@ -53,6 +51,7 @@ def data_header():
    # """Return a list of collisions."""
 
     stmnt = session.query(Collision).statement
+    
     df = pd.read_sql_query(stmnt, session.bind)
     df.set_index('id', inplace=True)
 

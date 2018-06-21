@@ -2,7 +2,10 @@
 :root {
     --jumbotron-padding-y: 1rem;
 }
-
+.axis .domain {
+    display: none;
+  }
+  
 /* Jumbotron margin, background-color, and radius to make it corners square */
 .jumbotron {
     padding-top: var(--jumbotron-padding-y);
