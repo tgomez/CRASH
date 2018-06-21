@@ -1,5 +1,5 @@
 
-//var myGeocode = {{ geocode|tojson }}
+var vehicleCollision = {{ collisions | tojson | safe}};
 
 var pie = new d3pie("pieChart", {
 	"header": {
@@ -21,7 +21,7 @@ var pie = new d3pie("pieChart", {
 		"color": "#999999",
 		"fontSize": 10,
 		"font": "open sans",
-		"location": "bottom-left"
+		"location": "bottom-center"
 	},
 	"size": {
 		"canvasWidth": 590,
@@ -32,79 +32,14 @@ var pie = new d3pie("pieChart", {
 		"sortOrder": "random",
 		"content": [
 			{
-				"label": "Spiders",
+				"label": "Asian",
 				"value": 2,
 				"color": "#f30000"
 			},
 			{
-				"label": "Mother-in-laws",
+				"label": "Caucasian",
 				"value": 10,
 				"color": "#0600f3"
-			},
-			{
-				"label": "Sharks",
-				"value": 8,
-				"color": "#00b109"
-			},
-			{
-				"label": "Alien invasion",
-				"value": 8,
-				"color": "#14e4b4"
-			},
-			{
-				"label": "Learning Objective-C",
-				"value": 5,
-				"color": "#0fe7fb"
-			},
-			{
-				"label": "Public speaking",
-				"value": 3,
-				"color": "#67f200"
-			},
-			{
-				"label": "Donald Trump",
-				"value": 4,
-				"color": "#ff7e00"
-			},
-			{
-				"label": "The Zombie Apocalypse",
-				"value": 4,
-				"color": "#8fe4fa"
-			},
-			{
-				"label": "The City of Winnipeg *",
-				"value": 3,
-				"color": "#ff5300"
-			},
-			{
-				"label": "IE 6",
-				"value": 2,
-				"color": "#640000"
-			},
-			{
-				"label": "Planes with/out snakes",
-				"value": 5,
-				"color": "#3854d1"
-			},
-			{
-				"label": "Off-by-one errors",
-				"value": 3,
-				"color": "#d00ed8"
-			},
-			{
-				"label": "Chickadees",
-				"value": 4,
-				"color": "#7890ff"
-			},
-			{
-				"label": "Owning a cat",
-				"value": 1,
-				"color": "#01664d"
-			},
-			{
-				"label": "Canada",
-				"value": 4,
-				"color": "#04231b"
 			}
 		]
 	},
@@ -138,7 +73,7 @@ var pie = new d3pie("pieChart", {
 	},
 	"effects": {
 		"load": {
-			"speed": 100
+			"speed": 5000
 		},
 		"pullOutSegmentOnClick": {
 			"effect": "linear",
