@@ -1,241 +1,134 @@
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Open Sans'), local('OpenSans'), url(../fonts/opensans.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
-}
-@font-face {
-  font-family: 'Open Sans';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Open Sans Bold'), local('OpenSans-Bold'), url(../fonts/opensans-bold.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
-}
-* {
-  -webkit-box-sizing: border-box;
-  -ms-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
 }
 
-html {
-  margin: 0;
-  padding: 0;
-  background: #f7f3f0;
-  color: #222221;
-  font-family: "Open Sans", sans-serif;
-  text-align: center;
-}
+.navbar {
+  padding: .8rem;
 
-h1 {
-  margin: 0;
-  font-size: 4em;
 }
 
 a {
-  color: #567897;
+  color: black;
 }
 
-.darkBlue {
-    background-color: #3A4853;
+.navbar-nav li {
+  padding-right:20px; 
 }
 
-.lightBlue {
-  background-color: #567897;
+.nav-link {
+  font-size: 1.1em !important;
 }
 
-.colorBox {
-  height: 1em;
-  width: 1em;
-  display: inline-block;
-}
-
-#severity {
-  margin: 0 auto;
-  top: 0;
-  position: abosulte;
-}
-
-.container {
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flex;
-  display: flex;
-  -webkit-flex-flow: row wrap;
-  -moz-flex-flow: row wrap;
-  -ms-flex-flow: row wrap;
-  flex-flow: row wrap;
-  -webkit-justify-content: space-around;
-  -moz-justify-content: space-around;
-  -ms-justify-content: space-around;
-  justify-content: space-around;
-  -webkit-align-items: stretch;
-  -moz-align-items: stretch;
-  -ms-align-items: stretch;
-  align-items: stretch;
+.carousel-inner img {
   width: 100%;
-  height: auto;
+  height: 100%;
 }
 
-.mapContainer {
-  padding: 2em;
+.carousel-caption {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%)
 }
 
-.box {
-  margin: .5em;
-  position: relative;
+.carousel-caption h1 {
+  font-size: 500%;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 5 #000;
 }
 
-.size100 {
-  -webkit-flex: 1 100%;
-  -moz-flex: 1 100%;
-  -ms-flex: 1 100%;
-  flex: 1 100%;
+.carousel-caption h3 {
+  font-size: 200%;
+  font-weight: 500;
+  text-shadow: 1px 1px 10px #000;
 }
 
-.size75 {
-  -webkit-flex: 1 75%;
-  -moz-flex: 1 75%;
-  -ms-flex: 1 75%;
-  flex: 1 75%;
+.jumbotron {
+  padding: 1rem;
+  border-radius: 0;
 }
 
-.size66 {
-  -webkit-flex: 1 66%;
-  -moz-flex: 1 66%;
-  -ms-flex: 1 66%;
-  flex: 1 66%;
+.padding {
+  padding.bottom: 2rem;
 }
 
-.size50 {
-  -webkit-flex: 1 50%;
-  -moz-flex: 1 50%;
-  -ms-flex: 1 50%;
-  flex: 1 50%;
+h1 {
+  color: black
 }
-
-.size33 {
-  -webkit-flex: 1 33%;
-  -moz-flex: 1 33%;
-  -ms-flex: 1 33%;
-  flex: 1 33%;
+h2 {
+  color:orangered ;
 }
-
-.size25 {
-  -webkit-flex: 1 25%;
-  -moz-flex: 1 25%;
-  -ms-flex: 1 25%;
-  flex: 1 25%;
+/*---Firefox Bug Fix --*/
+.carousel-item {
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
 }
-
-.color1 {
-  background: #f7f3f0;
-}
-
-.color2 {
-  background: #e9e8e4;
-}
-
-.color3 {
-  background: #dadada;
-}
-
-#container {
-  width: 100%;
-  margin: 0 auto;
-  overflow: hidden;
-}
-
-#svg-container {
+/*--- Fixed Background Image --*/
+figure {
   position: relative;
   width: 100%;
-  overflow: hidden;
-  padding-bottom: 50%;
+  height: 60%;
+  margin: 0!important;
 }
-
-#svg-content-responsive {
+.fixed-wrap {
+  clip: rect(0, auto, auto, 0);
   position: absolute;
   top: 0;
   left: 0;
+  width: 100%;
+  height: 100%;
 }
-
-.tooltip {
-  position: absolute;
-  text-align: center;
-  padding: 0.5em 1em;
-  background: #E3DDAF;
-  border-radius: 8px;
-  pointer-events: none;
-  max-width: 210px;
+#fixed {
+  background-image: url('img/mac.png');
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
+  will-change: transform;
 }
-
-circle {
-  fill: #567897;
-  cursor: pointer;
-}
-
-.subunit {
-  fill: #c8c7c3;
-  stroke: #e9e8e4;
-  stroke-width: 0.4;
-}
-
-.foldable {
-    margin: 0;
-    position: relative;
-    border: 1px solid #000;
-    border-radius: 6px;  
-    background: #567897;
-    font-size: 300%;
-    color: #eee;
-    letter-spacing:1px;
-    text-transform: uppercase;
-    text-shadow: 0 -1px 0 #000;
-    display:inline-block;
-    padding: .2em;
-    box-shadow: 1px 0 0 rgba(255,255,255,.05), -1px 0 0 rgba(255,255,255,.05) inset; 
-}
-
-/* cut */
-
-.foldable:before {
-    position: absolute;
-    content: "";
-    height: 1px;
-    top: 50%;
-    left: 0;
-    right: 0;
-    background: rgba(0,0,0,.5);
-    box-shadow: 0 1px 0 rgba(255,255,255,.1); 
-}
-
-select {
-  font-size: 1.5em;
-  color: #567897;
-  margin: .5em;
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
 }
 
 
-.axis path, .axis line
-{
-  fill: none;
-  stroke: #567897;
-  shape-rendering: crispEdges;
-}
 
-.axis text
-{
-  fill: #567897;
-}
 
-.tick
-{
-  stroke-width: 0;
-}
-.bar
-{
-  fill: #567897;
-  opacity: 0.5;
-}
-        
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/
+
+
+
+
+
+
+
+

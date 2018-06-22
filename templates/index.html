@@ -1,81 +1,296 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>CRASH</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+        <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+        <link href="/static/style.css" rel="stylesheet">
 
-<head>
-  <meta charset="UTF-8">
-  <title>Los Angeles Collision Dashboard</title>
-
-
-  <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link href="http://getbootstrap.com/examples/jumbotron-narrow/jumbotron-narrow.css" rel="stylesheet">
-  <link rel="stylesheet" href="normalize.css" href="{{ url_for('static', filename='normalize.css') }}">
-  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">>
-  <meta name="theme-color" content="#ffffff">
-
-</head>
-
-<body>
-  <html>
-
-  <head>
-    <meta charset="UTF-8">
-    <title>LA Collision Dashboard</title>
-  </head>
-
-  <body>
-
+        <!--D3 cdn-->
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js'></script>
+        <script src='https://d3js.org/d3.v4.min.js'></script>
+        <script src='/static/d3pie.min.js'></script>
+    </head>
     <body>
-      <div class="container">
-        <div class="box size100 color1">
-          <h1><strong>LA Collision Statistics</strong></h1>
+        <!-- Navigation -->
+        <nav class = "navbar navbar-expand-md navbar-light bg-light sticky-top">
+            <div class = "container-fluid">
+                <a class = "navabar-brand" href="#"> <h2> CRASH</h2></a>
+                <button class = "navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#home">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#overview">Overview</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#gender">Gender</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#age">Age</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="#demographic">Demographics</a>
+                        </li>
+                        <li class="nav-item">
+                                <a href="#weekly">Weekly</a>
+                            </li>
+                    </ul>
+                </div>
+            </nav>
+            <!-- Fun Fact Carousel to catch attenshun-->
+            <div id="home"><a href="home"></a></div>
+            <div id="slides" class="carousel slide" data-ride="carousel">
+                <ul class="carousel-indicators">
+                    <li data-target ="#slides" data-slide-to="0" class="active"></li>
+                    <li data-target ="#slides" data-slide-to="1"></li>
+                    <li data-target ="#slides" data-slide-to="2"></li>
+                </ul>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="/static/img/background.png" alt="" style="  width: 100%; height: 100% "/>
+                        <div class="carousel-caption">
+                            <h1 class="display-2">Los Angeles County Traffic Collisions Analysis</h1>
+                            <h3>EXPLORE BELOW</h3>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/static/img/background2.png" alt="" style="  width: 100%; height: 100% "/>
+                        <div class="carousel-caption">
+                            <h1 class="display-2">On Average 3,287 people die each DAY just from car collisions.</h1>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <img src="/static/img/background3.png" alt="" style="  width: 100%; height: 100% "/>
+                        <div class="carousel-caption">
+                            <h1 class="display-2">Men participate in more collisions than females in LA County</h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--- Jumbotron -->
+            <div class="container-fluid">
+                <div class="row jumbotron">
+                    <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
+                        <p class="lead">Traffic collisions are one of the leading causes of death in the United States. </p>
+                        <p>For this reason traffic collisions are a great candidate for study.
+                            By analyzing different factors involved in traffic collisions, we may unveil invaluable insights about these occurances.
+                            We chose to analyze traffic collissions in Los Angeles County (LA), as it is a large commuter city.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!--- Accidents in 2018 -->
+            <div id="overview"><a href="overview"></a></div>
+            <div class="main container">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Overview of Accidents in 2018</h3>
+                    </div>
+                    <div class="panel-body">
+                        <figure>
+                            <iframe width="100%" height="520" frameborder="0" src="https://taronhakobyan.carto.com/builder/5ccb7601-4b19-4ca0-b878-f3d332948be7/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+                            <figcaption>
+                            <p>
+                                This map displays locations of reports collisions taken place in 2108 within Los Angeles County.
+                            </p>
+                        </p>
+                        <p>More men are involved in accidents. Highest rate of accidents occur on Fridays. There is a higer rate of accidents around 4 pm. </p>
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
         </div>
-        
-        <div class="box size25 color2">
-          <h3>Accident Occurence by Gender</h3>
-          <p><span class="colorBox darkBlue"></span> Male</p>
-          <p><span class="colorBox lightBlue"></span> Female</p>
-          <span id="Gender"></span>
-        </div>
-        <div class="box size25 color2">
-          <h3>Accident Occurence by Day of the Week</h3>
-          <p><span class="colorBox darkBlue"></span> Monday</p>
-          <p><span class="colorBox lightBlue"></span> Tuesday</p>
-          <p><span class="colorBox darkBlue"></span> Wednesday</p>
-          <p><span class="colorBox lightBlue"></span> Thursday</p>
-          <p><span class="colorBox darkBlue"></span> Friday</p>
-          <p><span class="colorBox lightBlue"></span> Saturday</p>
-          <p><span class="colorBox darkBlue"></span> Sunday</p>
-          <span id="Age"></span>
-        </div>
-        <div class="box size25 color2 graphContainer">
-          <h3>Accidents By Month</h3>
-          <svg id="accidentsPerMonth" width="500" height="400"></svg>
-        </div>
+
+
+
+        <!--- GENDER ANALYSIS-->
+ <div id="gender"><a href="gender"></a></div>
+
         <div class="main container">
-          <div class="panel panel-default">
-            <div class="panel-heading">
-              <h3 class="panel-title">Accidents in 2018</h3>
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Gender Analysis</h3>
+                </div>
+                <div class="panel-body">
+                    <figure>
+                            <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~taronh/7.embed"></iframe>
+                        <figcaption>
+                        <p>
+                            Men are terrible. This translates into thier driving. Lets get them off the roads.
+                        </p>
+                    </p>
+                    <p></p>
+                    </figcaption>
+                </figure>
             </div>
-            <div class="panel-body">
-              <figure>
-                <iframe width="100%" height="520" frameborder="0" src="https://taronhakobyan.carto.com/builder/5ccb7601-4b19-4ca0-b878-f3d332948be7/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-                <figcaption>
-                  <p>
-                    This map displays locations of reports collisions taken place in 2108 within Los Angeles County.
-                  </p>
-                  </p>
-                  <p>More men are involved in accidents. Highest rate of accidents occur on Fridays. There is a higer rate of accidents around 4 pm. </p>
-                </figcaption>
-              </figure>
-            </div>
-          </div>
         </div>
-        <footer class="footer">
+    </div>
 
+
+
+
+
+        
+        <!--- Age -->
+
+<div id="age"><a href="age"></a></div>
+        <div class="main container">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Age Analysis</h3>
+                </div>
+                <div class="panel-body">
+                    <figure>
+                            <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~taronh/5.embed"></iframe>
+                        <figcaption>
+                        <p>
+                            Not surprisingly, new drivers have high collision rates as do people between 23 and 36.
+                        </p>
+                    </p>
+                    <p></p>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+    </div>
+
+
+<br></br>
+        <!--- Demographic -->
+        <!-- Clifford-->
+<div id="demographic"><a href="demographic"></a></div>
+        <div class="container-fluid padding">
+        <div class="row padding">
+            
+                <div class="col-lg-6">
+                    <h3>
+                    Demographic Analysis
+                    <br></br>
+                    Herein is an illustration of the demographics of people who participated in car accidents.
+                    <br></br>
+                    The Hispanic/Latino population accounted for 39% of accidents. This may be due to the large Hispanic/Latino population in Los ANgeles.
+                    </h3>
+                </div>
+
+                <div class="col-lg-6">
+                    <div id='pieChart'></div>
+                        <script type='text/javascript' src="{{ url_for('static', filename = 'logic.js') }}"></script>
+                    </div>
+                </div>
+        </div>
+        </div>
+
+
+
+
+<!-- Weekly Anaysis-->
+<div id="weekly"><a href="weekly"></a></div>
+        <div class="main container">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Week Analysis</h3>
+                </div>
+                <div class="panel-body">
+                    <figure>
+                            <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~taronh/3.embed"></iframe>
+                        <figcaption>
+                        <p>
+                            People have a tendency to get into trouble on Fridays.
+                        </p>
+                    </p>
+                    <p></p>
+                    </figcaption>
+                </figure>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+        <!--- Coworkers -->
+        <div class="container-fluid padding">
+            <div class="row welcome text-center">
+                <div class="col-12">
+                    <h1 class="display-4">Meet the Team</h1>
+                </div>
+            </div>
+        </div>
+
+
+
+        <!--- Boxes W info -->
+        <div class"container-fluid padding">
+            <div class="row padding">
+                <div class="col-md-3">
+                    <div class="card">
+                        <img class="card-img-top" src="/static/img/cliff.jpg">
+                        <div class="card-body">
+                            <h4 class="card-title"></h4> Clifford Ferraren </h4>
+                            <br></br>
+                            <p class="card-text">Clifford has over 11 years of progressive experience in the Research & Development/ Quality field. Over the last 2 years he has been actively transitioning from a technical individual contributor role to a technical analytical  role providing businesses with insights delivering the highest business value.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card">
+                        <img class="card-img-top" src="/static/img/bolt.jpeg">
+                        <div class="card-body">
+                            <h4 class="card-title"></h4> Christopher Newbolt </h4>
+                            <br></br>
+                            <p class="card-text">Currently a lead for the Boeing R&D division, Chris specializes in mechanical parts and assemblies. He is currently improving his understanding of data analytics to compliment and leverage his understanding of mechanical applications and development as well as acquire tools to efficiently tackle large data. </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card">
+                        <img class="card-img-top" src="/static/img/tiff.jpg">
+                        <div class="card-body">
+                            <h4 class="card-title"></h4> Tiffany Gomez  </h4>
+                            <br></br>
+                            <p class="card-text">Always striving to learn and grow, Tiffany is cultivating analytic skills to bolster her abilities as a scientist. After all there is always room for improvement and to learn and grow.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card">
+                        <img class="card-img-top" src="/static/img/taron.jpeg">
+                        <div class="card-body">
+                            <h4 class="card-title"></h4> Taron Hakobyan </h4>
+                            <br></br>
+                            <p class="card-text">No stranger to adversity, Taron is an incredibly hard working individual willing to take on any challenge. His strengths include problem solving, logic and persistence. He is always trying.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!--- Footer -->
+        <footer>
+            <div class="container-fluid padding">
+                <div class="row text-center">
+                    <div class="col-md-12">
+                        <hr class="light">
+                        <h2> &copy; CRASH 2018</h2>
+                        </hr>
+                    </div>
+                    ]
+                </div>
+            </div>
+        </footer>
     </body>
-
-  </html>
-
-  </body>
-
 </html>

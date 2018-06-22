@@ -1,0 +1,1001 @@
+age,descent,sex,area,location,intersection,geojson,date,day_of_week,time,reporting_district,lon,lat
+55.0,B,M,Central,ALAMEDA,2ND,"-118.2381, 34.0455",2010-04-20,Tuesday,1235,138,34.0455,-118.2381
+37.0,B,M,Wilshire,PICO,RIMPAU,"-118.337, 34.0488",2010-12-21,Tuesday,2218,758,34.0488,-118.337
+29.0,H,M,Central,5TH,BROADWAY,"-118.2507, 34.0481",2010-06-04,Friday,2310,153,34.0481,-118.2507
+43.0,B,F,Central,4TH,SAN PEDRO,"-118.2422, 34.0454",2010-03-22,Monday,1325,148,34.0454,-118.2422
+34.0,O,M,Newton,HILL,ADAMS,"-118.2708, 34.0258",2010-01-12,Tuesday,1800,1321,34.0258,-118.2708
+77.0,B,F,West LA,PICO,CARDIFF,"-118.3918, 34.0553",2010-09-20,Monday,1635,857,34.0553,-118.3918
+74.0,H,F,Harbor,WEYMOUTH,9TH,"-118.3097, 33.7361",2010-11-19,Friday,1529,561,33.7361,-118.3097
+22.0,H,M,Mission,ORION,CABRITO,"-118.4721, 34.2185",2010-07-25,Sunday,800,1991,34.2185,-118.4721
+54.0,W,M,Hollywood,LAUREL CANYON                BL,MULHOLLAND                   DR,"-118.3753, 34.1236",2010-10-14,Thursday,1030,621,34.1236,-118.3753
+30.0,O,F,Olympic,WESTERN                      AV,6TH                          ST,"-118.3091, 34.0635",2010-03-13,Saturday,2355,2022,34.0635,-118.3091
+34.0,W,M,West LA,MONTANA                      AV,BUNDY                        DR,"-118.4726, 34.0506",2010-06-20,Sunday,1200,831,34.0506,-118.4726
+35.0,W,M,West LA,WILSHIRE                     BL,BUNDY                        DR,"-118.4675, 34.0441",2010-10-04,Monday,1840,847,34.0441,-118.4675
+68.0,W,M,Northeast,HOLLYWOOD                    BL,EDGEMONT,"-118.2962, 34.1018",2010-07-21,Wednesday,1600,1151,34.1018,-118.2962
+52.0,W,M,West LA,WILSHIRE                     BL,VETERAN                      AV,"-118.4478, 34.0578",2010-02-25,Thursday,555,817,34.0578,-118.4478
+38.0,H,M,Olympic,OLYMPIC,VERMONT,"-118.2916, 34.0526",2010-11-29,Monday,2055,2069,34.0526,-118.2916
+17.0,H,M,Topanga,CORBIN                       AV,KITTRIDGE                    ST,"-118.5622, 34.192",2010-04-30,Friday,720,2149,34.192,-118.5622
+26.0,H,F,Hollenbeck,MONTEREY                     RD,S  AVENUE 60,"-118.1842, 34.1055",2010-12-25,Saturday,25,404,34.1055,-118.1842
+35.0,H,M,Southeast,GARDENA                      BL,MENLO                        AV,"-118.2891, 33.8817",2010-11-22,Monday,1245,1891,33.8817,-118.2891
+41.0,H,F,N Hollywood,TUJUNGA                      AV,VALERIO                      ST,"-118.379, 34.2048",2010-08-16,Monday,1220,1505,34.2048,-118.379
+38.0,W,F,N Hollywood,TUJUNGA,VENTURA,"-118.379, 34.1546",2010-05-27,Thursday,1030,1563,34.1546,-118.379
+26.0,O,M,Wilshire,3RD,FAIRFAX,"-118.3614, 34.0716",2010-01-24,Sunday,1830,734,34.0716,-118.3614
+25.0,W,F,Topanga,VENTURA,SHOUP,"-118.6145, 34.1688",2010-07-28,Wednesday,1200,2175,34.1688,-118.6145
+40.0,H,M,Wilshire,LUCERNE,11TH,"-118.3295, 34.0525",2010-04-23,Friday,15,758,34.0525,-118.3295
+45.0,W,F,West LA,PICO,COTNER,"-118.4367, 34.0362",2010-11-11,Thursday,1415,883,34.0362,-118.4367
+27.0,A,F,Southwest,FAIRFAX,ADAMS,"-118.3708, 34.0325",2010-03-14,Sunday,1322,311,34.0325,-118.3708
+45.0,H,M,Harbor,ALAMEDA,COLON,"-118.2403, 33.7927",2010-11-19,Friday,630,519,33.7927,-118.2403
+82.0,A,F,Rampart,TEMPLE                       ST,PARK VIEW                    ST,"-118.2719, 34.0716",2010-11-21,Sunday,1135,235,34.0716,-118.2719
+51.0,B,F,Wilshire,PICO                         BL,LA CIENEGA                   BL,"-118.3762, 34.0534",2010-06-05,Saturday,15,762,34.0534,-118.3762
+57.0,O,M,West LA,WILSHIRE                     BL,BUNDY                        DR,"-118.4675, 34.0441",2010-01-30,Saturday,2230,831,34.0441,-118.4675
+34.0,W,F,N Hollywood,WHITSETT                     AV,VICTORY                      BL,"-118.4052, 34.1867",2010-01-20,Wednesday,1530,1532,34.1867,-118.4052
+35.0,H,M,N Hollywood,CAHUENGA                     BL,OTSEGO                       ST,"-118.3615, 34.1631",2010-05-01,Saturday,310,1559,34.1631,-118.3615
+52.0,W,F,Olympic,MANHATTAN                    PL,4TH                          ST,"-118.3104, 34.0672",2010-12-09,Thursday,920,2022,34.0672,-118.3104
+37.0,H,M,77th Street,FIGUEROA,SLAUSON,"-118.2827, 33.9892",2010-05-04,Tuesday,625,1239,33.9892,-118.2827
+37.0,H,F,Central,8TH                          ST,WALL                         ST,"-118.2496, 34.0394",2010-03-31,Wednesday,1730,176,34.0394,-118.2496
+52.0,H,M,Topanga,7200    LOMA VERDE                   AV,,"-118.5896, 34.2011",2010-12-15,Wednesday,1740,2137,34.2011,-118.5896
+55.0,W,F,West Valley,ALONZO                       AV,S  SANTA RITA,"-118.5203, 34.1618",2010-01-08,Friday,2145,1035,34.1618,-118.5203
+59.0,A,M,Rampart,8TH,UNION,"-118.2722, 34.0523",2010-08-04,Wednesday,1500,245,34.0523,-118.2722
+19.0,H,F,N Hollywood,VICTORY                      BL,WHITSETT                     AV,"-118.4052, 34.1867",2010-02-14,Sunday,1750,1532,34.1867,-118.4052
+28.0,W,F,West LA,BUNDY                        DR,OLYMPIC                      BL,"-118.4537, 34.0324",2010-10-10,Sunday,1535,881,34.0324,-118.4537
+53.0,K,M,Olympic,WESTERN                      AV,MAPLEWOOD                    AV,"-118.3091, 34.0799",2010-08-14,Saturday,2140,2002,34.0799,-118.3091
+38.0,W,F,Hollywood,CAHUENGA                     BL,MULHOLLAND                   DR,"-118.3421, 34.1231",2010-12-09,Thursday,945,625,34.1231,-118.3421
+61.0,O,M,Southeast,AVALON,111TH,"-118.2652, 33.9348",2010-12-04,Saturday,555,1844,33.9348,-118.2652
+48.0,B,M,Van Nuys,VAN NUYS                     BL,VICTORY                      BL,"-118.4487, 34.1867",2010-04-21,Wednesday,1945,935,34.1867,-118.4487
+68.0,W,F,West LA,ROBERTSON                    BL,GUTHRIE                      AV,"-118.3867, 34.0423",2010-10-19,Tuesday,140,889,34.0423,-118.3867
+27.0,H,M,Newton,MAIN                         ST,38TH                         ST,"-118.274, 34.0131",2010-01-18,Monday,900,1342,34.0131,-118.274
+40.0,B,M,Devonshire,TAMPA                        AV,RINALDI                      ST,"-118.5566, 34.2748",2010-05-02,Sunday,7,1701,34.2748,-118.5566
+32.0,W,M,Rampart,SPRING,7TH,"-118.2523, 34.0445",2010-06-29,Tuesday,1600,249,34.0445,-118.2523
+35.0,H,M,Newton,MAPLE                        AV,32ND                         ST,"-118.2684, 34.0188",2010-05-07,Friday,2235,1333,34.0188,-118.2684
+52.0,H,M,Harbor,BAYPOINT                     AV,PROCTOR                      ST,"-118.2588, 33.795",2010-11-13,Saturday,600,518,33.795,-118.2588
+44.0,H,F,Van Nuys,RAYMER,SEPULVEDA,"-118.4674, 34.2149",2010-02-04,Thursday,1740,901,34.2149,-118.4674
+21.0,A,M,Wilshire,LA CIENEGA                   BL,3RD                          ST,"-118.3765, 34.073",2010-06-02,Wednesday,1325,711,34.073,-118.3765
+19.0,H,M,Hollenbeck,MISSION                      RD,LINCOLN PARK                 AV,"-118.2024, 34.0678",2010-10-28,Thursday,1015,424,34.0678,-118.2024
+67.0,A,F,Central,ALISO,ALAMEDA,"-118.2379, 34.0537",2010-03-21,Sunday,850,127,34.0537,-118.2379
+28.0,B,F,Southwest,ADAMS                        BL,10TH                         AV,"-118.3284, 34.0326",2010-06-16,Wednesday,850,314,34.0326,-118.3284
+52.0,H,M,Hollywood,YUCCA                        ST,LABAIG                       AV,"-118.3206, 34.104",2010-12-12,Sunday,700,637,34.104,-118.3206
+45.0,H,M,Newton,WASHINGTON                   BL,ALAMEDA                      ST,"-118.2333, 34.019",2010-02-23,Tuesday,1145,1309,34.019,-118.2333
+46.0,X,M,Southwest,3700 S  HARVARD                      BL,,"-118.3062, 34.02",2010-10-05,Tuesday,800,356,34.02,-118.3062
+36.0,W,F,Van Nuys,SHERMAN                      WY,HAZELTINE                    AV,"-118.44, 34.2012",2010-02-25,Thursday,1940,904,34.2012,-118.44
+24.0,H,M,Rampart,NORMANDIE                    AV,LEMON GROVE                  AV,"-118.3005, 34.0863",2010-11-14,Sunday,1715,201,34.0863,-118.3005
+27.0,H,F,Pacific,CENTINELA,CULVER,"-118.4153, 33.9866",2010-02-11,Thursday,2100,1457,33.9866,-118.4153
+60.0,W,M,Devonshire,BALBOA,NORDHOFF,"-118.5025, 34.2358",2010-09-14,Tuesday,1230,1788,34.2358,-118.5025
+24.0,H,M,Central,1ST,BROADWAY,"-118.2455, 34.0537",2010-06-23,Wednesday,1545,123,34.0537,-118.2455
+29.0,H,M,West LA,SUNSET                       BL,CHURCH                       LN,"-118.4674, 34.0724",2010-03-26,Friday,1500,814,34.0724,-118.4674
+41.0,H,F,Southwest,LA BREA,RODEO,"-118.3556, 34.0183",2010-01-03,Sunday,835,361,34.0183,-118.3556
+29.0,W,M,Van Nuys,DICKENS                      ST,VAN NOORD                    AV,"-118.4147, 34.1441",2010-11-17,Wednesday,1230,998,34.1441,-118.4147
+61.0,H,M,Rampart,VENICE                       BL,BONNIE BRAE                  ST,"-118.2819, 34.0429",2010-09-13,Monday,1730,295,34.0429,-118.2819
+59.0,O,M,Foothill,PINNEY                       ST,PALA                         AV,"-118.4201, 34.269",2010-11-12,Friday,1605,1612,34.269,-118.4201
+19.0,H,F,Harbor,PACIFIC COAST                HY,FRIGATE                      AV,"-118.2777, 33.7904",2010-12-21,Tuesday,2330,513,33.7904,-118.2777
+30.0,W,M,Pacific,OVERLAND                     AV,ROSE                         AV,"-118.4133, 34.0269",2010-02-22,Monday,1030,1406,34.0269,-118.4133
+56.0,B,M,Harbor,PACIFIC                      AV,17TH                         ST,"-118.288, 33.7288",2010-04-18,Sunday,1150,567,33.7288,-118.288
+54.0,W,F,Rampart,ALVARADO                     ST,BELLEVUE                     ST,"-118.2664, 34.0729",2010-10-02,Saturday,1420,217,34.0729,-118.2664
+53.0,H,M,Van Nuys,SEPULVEDA                    BL,SHERMAN                      BL,"-118.4662, 34.2012",2010-01-25,Monday,1120,911,34.2012,-118.4662
+27.0,H,F,N Hollywood,BECK                         AV,ERWIN                        ST,"-118.3834, 34.1831",2010-06-20,Sunday,2315,1526,34.1831,-118.3834
+20.0,H,M,Van Nuys,KESTER                       AV,VALERIO                      ST,"-118.4575, 34.2048",2010-02-12,Friday,1600,905,34.2048,-118.4575
+22.0,H,F,Southwest,JEFFERSON,KING                         BL,"-118.3108, 34.0073",2010-05-28,Friday,2100,395,34.0073,-118.3108
+28.0,B,F,77th Street,VAN NESS,59TH                         ST,"-118.3177, 33.9873",2010-06-01,Tuesday,1820,1232,33.9873,-118.3177
+74.0,W,F,Northeast,ANNAN,FIGUEROA,"-118.1834, 34.1303",2010-05-19,Wednesday,810,1119,34.1303,-118.1834
+38.0,H,M,Wilshire,WILSHIRE,CLOVERDALE,"-118.3462, 34.0623",2010-04-22,Thursday,1340,734,34.0623,-118.3462
+34.0,B,M,Central,5TH                          ST,BROADWAY,"-118.2507, 34.0481",2010-05-06,Thursday,705,153,34.0481,-118.2507
+38.0,O,M,Rampart,3RD                          ST,RAMPART                      BL,"-118.2789, 34.0663",2010-04-22,Thursday,930,251,34.0663,-118.2789
+59.0,H,M,Rampart,UNION                        AV,PICO                         BL,"-118.2769, 34.0446",2010-05-04,Tuesday,1130,289,34.0446,-118.2769
+49.0,H,F,77th Street,CENTRAL                      AV,FLORENCE                     AV,"-118.2564, 33.9748",2010-06-11,Friday,1400,1259,33.9748,-118.2564
+23.0,H,M,Devonshire,NORDHOFF,ZELZAH,"-118.5231, 34.2357",2010-10-08,Friday,2130,1785,34.2357,-118.5231
+29.0,W,M,Rampart,GLENDALE                     BL,TEMPLE                       ST,"-118.2609, 34.0682",2010-10-27,Wednesday,1120,237,34.0682,-118.2609
+21.0,W,F,Harbor,13TH                         ST,GAFFEY                       ST,"-118.2924, 33.7324",2010-08-31,Tuesday,1800,563,33.7324,-118.2924
+41.0,H,M,Northeast,RIVERSIDE                    DR,STADIUM                      WY,"-118.2446, 34.0957",2010-10-25,Monday,1240,1145,34.0957,-118.2446
+18.0,W,M,Devonshire,LASSEN                       ST,BALBOA                       BL,"-118.5024, 34.2503",2010-12-01,Wednesday,1200,1768,34.2503,-118.5024
+27.0,W,M,N Hollywood,LANKERSHIM                   BL,VICTORY                      BL,"-118.3877, 34.1867",2010-09-03,Friday,1435,1525,34.1867,-118.3877
+26.0,W,M,N Hollywood,SHERMAN                      WY,LAUREL CANYON                BL,"-118.3965, 34.2006",2010-10-15,Friday,1440,1503,34.2006,-118.3965
+35.0,H,M,Hollywood,SUNSET                       BL,CHEROKEE                     AV,"-118.3353, 34.098",2010-08-15,Sunday,1845,646,34.098,-118.3353
+34.0,H,M,West Valley,VENTURA,RUBIO,"-118.4945, 34.1579",2010-07-16,Friday,845,1088,34.1579,-118.4945
+22.0,H,M,Hollenbeck,BREED                        ST,4TH                          ST,"-118.213, 34.0412",2010-03-28,Sunday,2115,461,34.0412,-118.213
+36.0,B,M,Southwest,WESTERN                      AV,EXPOSITION                   BL,"-118.3089, 34.0183",2010-06-08,Tuesday,930,356,34.0183,-118.3089
+38.0,H,M,Newton,PICO                         BL,CENTRAL                      AV,"-118.246, 34.0294",2010-06-18,Friday,815,1317,34.0294,-118.246
+24.0,H,M,Southeast,109TH                        ST,CENTRAL                      AV,"-118.2542, 33.9368",2010-08-12,Thursday,1400,1839,33.9368,-118.2542
+99.0,W,M,Olympic,ARLINGTON                    AV,OLYMPIC                      BL,"-118.3163, 34.0526",2010-08-28,Saturday,30,2041,34.0526,-118.3163
+41.0,W,M,Wilshire,LA CIENEGA,CLIFTON,"-118.3763, 34.0694",2010-09-27,Monday,1440,722,34.0694,-118.3763
+26.0,W,F,Pacific,NATIONAL,SAWTELLE,"-118.4314, 34.0263",2010-05-27,Thursday,1510,1402,34.0263,-118.4314
+53.0,H,F,Hollenbeck,SOTO                         ST,4TH                          ST,"-118.2117, 34.0406",2010-12-02,Thursday,1610,467,34.0406,-118.2117
+44.0,W,M,N Hollywood,VENTURA                      BL,W  COLFAX                       AV,"-118.3877, 34.1413",2010-08-10,Tuesday,1610,1595,34.1413,-118.3877
+58.0,K,F,West LA,LA CIENEGA                   BL,PICKFORD                     PL,"-118.3762, 34.0482",2010-12-18,Saturday,1030,859,34.0482,-118.3762
+24.0,H,M,Topanga,SHERMAN                      WY,CARLSON                      CI,"-118.6129, 34.201",2010-09-01,Wednesday,1700,2134,34.201,-118.6129
+60.0,B,F,Pacific,MANCHESTER                   AV,WILEY POST                   AV,"-118.3872, 33.9599",2010-04-17,Saturday,120,1487,33.9599,-118.3872
+32.0,O,F,N Hollywood,OXNARD                       ST,LEMP                         AV,"-118.3746, 34.1849",2010-08-12,Thursday,1645,1527,34.1849,-118.3746
+42.0,W,M,Topanga,CANOGA                       AV,SCHOENBORN                   ST,"-118.5976, 34.221",2010-06-21,Monday,1615,2105,34.221,-118.5976
+46.0,B,F,Southeast,MANCHESTER                   BL,WALL                         ST,"-118.2717, 33.9601",2010-09-26,Sunday,1300,1802,33.9601,-118.2717
+19.0,B,F,Northeast,YOSEMITE,EAGLE ROCK                   BL,"-118.2153, 34.1351",2010-02-16,Tuesday,2000,1115,34.1351,-118.2153
+42.0,B,F,77th Street,MANCHESTER,MAIN                         ST,"-118.2739, 33.9601",2010-08-22,Sunday,2230,1268,33.9601,-118.2739
+46.0,H,M,Mission,OSBORNE                      ST,ARLETA                       AV,"-118.4261, 34.2421",2010-06-15,Tuesday,1345,1969,34.2421,-118.4261
+19.0,H,M,Rampart,2ND                          ST,BEAUDRY                      AV,"-118.2553, 34.0579",2010-12-20,Monday,1355,239,34.0579,-118.2553
+27.0,H,M,Newton,3400 S  CENTRAL                      AV,,"-118.2565, 34.0128",2010-10-01,Friday,2000,1345,34.0128,-118.2565
+31.0,C,M,Wilshire,LA BREA,23RD,"-118.3495, 34.0359",2010-10-07,Thursday,2130,784,34.0359,-118.3495
+64.0,B,M,Southwest,LA BREA,RODEO                        RD,"-118.3556, 34.0183",2010-11-04,Thursday,1215,361,34.0183,-118.3556
+39.0,W,M,Southwest,VAN NESS                     AV,EXPOSITION                   BL,"-118.3166, 34.0187",2010-01-01,Friday,1150,355,34.0187,-118.3166
+23.0,H,M,Olympic,SAINT ANDREWS                PL,ROSEWOOD                     AV,"-118.3113, 34.0793",2010-11-22,Monday,1635,2002,34.0793,-118.3113
+40.0,H,F,Olympic,ARAPAHOE,WASHINGTON,"-118.2852, 34.0401",2010-03-06,Saturday,1505,2088,34.0401,-118.2852
+43.0,B,M,Southwest,CRENSHAW                     BL,KING                         BL,"-118.3403, 34.0126",2010-04-13,Tuesday,1315,363,34.0126,-118.3403
+47.0,W,M,Van Nuys,VENTURA                      BL,COLDWATER CANYON             AV,"-118.4137, 34.1451",2010-01-22,Friday,2330,998,34.1451,-118.4137
+49.0,H,M,Olympic,NORMANDIE,4TH,"-118.3004, 34.0672",2010-08-05,Thursday,1540,2025,34.0672,-118.3004
+30.0,O,F,Olympic,HOBART,7TH,"-118.3053, 34.0597",2010-11-30,Tuesday,2300,2033,34.0597,-118.3053
+30.0,W,M,Hollywood,1700 N  CAHUENGA                     BL,,"-118.3295, 34.1016",2010-05-16,Sunday,330,636,34.1016,-118.3295
+18.0,H,M,77th Street,FIGUEROA                     ST,82ND                         ST,"-118.2827, 33.9644",2010-01-22,Friday,1900,1267,33.9644,-118.2827
+31.0,B,M,Van Nuys,WOODMAN                      AV,WOODMAN                      PL,"-118.4312, 34.2072",2010-07-29,Thursday,1440,909,34.2072,-118.4312
+83.0,W,M,West Valley,RESEDA                       BL,CLARK                        ST,"-118.536, 34.1698",2010-08-31,Tuesday,1800,1063,34.1698,-118.536
+18.0,B,F,Pacific,MINDANAO                     WY,GLENCOE                      AV,"-118.4373, 33.9855",2010-05-29,Saturday,1,1454,33.9855,-118.4373
+53.0,H,F,Van Nuys,VAN NUYS,ADDISON,"-118.4486, 34.1613",2010-10-16,Saturday,1845,963,34.1613,-118.4486
+37.0,H,M,West LA,WILSHIRE                     BL,BEVERLY GLEN                 BL,"-118.4288, 34.0669",2010-01-14,Thursday,712,829,34.0669,-118.4288
+55.0,H,M,Rampart,3RD                          ST,CARONDELET                   ST,"-118.2768, 34.0651",2010-02-03,Wednesday,940,245,34.0651,-118.2768
+53.0,C,F,West Valley,WHITE OAK                    BL,VICTORY                      BL,"-118.5185, 34.1866",2010-12-16,Thursday,1858,1035,34.1866,-118.5185
+52.0,W,M,West Valley,ODESSA,KITTRIDGE,"-118.4902, 34.1903",2010-09-03,Friday,2335,1008,34.1903,-118.4902
+21.0,H,F,Devonshire,NORDHOFF                     ST,LINDLEY                      AV,"-118.5274, 34.2355",2010-08-24,Tuesday,2050,1787,34.2355,-118.5274
+32.0,W,F,Pacific,CENTURY                      BL,SEPULVEDA                    BL,"-118.3961, 33.9447",2010-04-12,Monday,755,1494,33.9447,-118.3961
+59.0,H,M,Pacific,MINDANAO,MARINA,"-118.438, 33.983",2010-09-07,Tuesday,1555,1454,33.983,-118.438
+53.0,W,F,Topanga,TOPANGA CANYON,CLARENDON                    ST,"-118.6058, 34.1697",2010-11-27,Saturday,1815,2175,34.1697,-118.6058
+31.0,H,M,Newton,HUNTER                       ST,ALAMEDA                      ST,"-118.2369, 34.0279",2010-12-18,Saturday,1430,1307,34.0279,-118.2369
+30.0,W,M,West LA,OVERLAND                     AV,PICO                         BL,"-118.4247, 34.0419",2010-11-22,Monday,2000,847,34.0419,-118.4247
+58.0,W,M,Central,GRAND,3RD ST,"-118.1481, 33.7681",2010-07-02,Friday,1820,122,33.7681,-118.1481
+59.0,W,M,Devonshire,PARTHENIA,WOODLEY,"-118.4851, 34.2284",2010-12-16,Thursday,1200,1797,34.2284,-118.4851
+28.0,H,F,Southeast,CENTURY                      BL,FIGUEROA                     ST,"-118.2826, 33.9456",2010-08-10,Tuesday,950,1822,33.9456,-118.2826
+58.0,A,F,Hollywood,WILTON                       PL,HAROLD                       WY,"-118.3136, 34.0993",2010-05-10,Monday,1825,648,34.0993,-118.3136
+40.0,B,F,Harbor,ANAHEIM,WESTERN,"-118.3078, 33.7871",2010-12-21,Tuesday,1429,531,33.7871,-118.3078
+62.0,O,F,Van Nuys,WOODMAN                      AV,CHANDLER                     BL,"-118.4312, 34.1684",2010-06-17,Thursday,2340,966,34.1684,-118.4312
+35.0,C,M,Central,COLLEGE                      ST,ADOBE                        ST,"-118.2412, 34.0653",2010-06-11,Friday,1110,111,34.0653,-118.2412
+19.0,H,M,Van Nuys,HAZELTINE                    AV,VANOWEN                      ST,"-118.44, 34.1939",2010-11-28,Sunday,1215,909,34.1939,-118.44
+48.0,B,M,Southeast,COMPTON                      AV,106TH                        ST,"-118.2462, 33.9397",2010-11-28,Sunday,930,1837,33.9397,-118.2462
+57.0,W,F,Topanga,FALLBROOK,VANOWEN,"-118.6234, 34.1937",2010-11-04,Thursday,1645,2143,34.1937,-118.6234
+35.0,H,M,N Hollywood,RADFORD                      AV,VANOWEN                      ST,"-118.3921, 34.194",2010-07-19,Monday,155,1514,34.194,-118.3921
+50.0,O,M,Northeast,BRUNSWICK,LOS FELIZ,"-118.2656, 34.125",2010-07-02,Friday,1740,1123,34.125,-118.2656
+24.0,A,F,Southwest,24TH                         ST,HOOVER                       ST,"-118.284, 34.0343",2010-09-22,Wednesday,1920,308,34.0343,-118.284
+60.0,B,M,77th Street,DENKER,82ND,"-118.3046, 33.9646",2010-02-14,Sunday,1955,1265,33.9646,-118.3046
+22.0,W,F,Hollywood,FRANKLIN,WILCOX,"-118.331, 34.1053",2010-03-16,Tuesday,1300,636,34.1053,-118.331
+84.0,W,F,Topanga,ROSCOE,FALLBROOK,"-118.6255, 34.2194",2010-07-19,Monday,1020,2102,34.2194,-118.6255
+43.0,H,F,Southwest,VERMONT,29TH,"-118.2915, 34.0284",2010-11-23,Tuesday,1145,325,34.0284,-118.2915
+75.0,O,M,Southwest,CLEMSON                      ST,CARMONA                      AV,"-118.3669, 34.0239",2010-12-16,Thursday,1720,321,34.0239,-118.3669
+47.0,A,M,N Hollywood,SATICOY                      ST,W  ETHEL                        AV,"-118.4182, 34.2074",2010-09-14,Tuesday,1410,1501,34.2074,-118.4182
+60.0,W,F,Harbor,S  LAKME                        AV,E  249TH                        ST,"-118.2604, 33.798",2010-03-12,Friday,2350,518,33.798,-118.2604
+36.0,A,F,N Hollywood,LAUREL CANYON                BL,VALLEYHEART                  DR,"-118.396, 34.1456",2010-05-22,Saturday,500,1583,34.1456,-118.396
+40.0,W,M,Wilshire,CRESCENT HEIGHTS             BL,PICO                         BL,"-118.3722, 34.0521",2010-01-04,Monday,1450,762,34.0521,-118.3722
+39.0,B,M,77th Street,48TH                         ST,WESTERN                      AV,"-118.3089, 34.0001",2010-11-09,Tuesday,1300,1203,34.0001,-118.3089
+37.0,H,M,Hollywood,CAHUENGA                     BL,ODIN                         DR,"-118.3325, 34.111",2010-03-20,Saturday,230,635,34.111,-118.3325
+50.0,H,M,Harbor,MIRAFLORES                   AV,CABRILLO                     AV,"-118.2956, 33.7529",2010-12-29,Wednesday,845,555,33.7529,-118.2956
+58.0,H,M,N Hollywood,RIVERSIDE                    DR,COLFAX                       AV,"-118.3877, 34.1577",2010-05-11,Tuesday,725,1553,34.1577,-118.3877
+58.0,B,M,77th Street,SLAUSON                      AV,VICTORIA,"-118.3322, 33.989",2010-08-28,Saturday,2000,1251,33.989,-118.3322
+24.0,W,F,Hollywood,HILLSIDE                     AV,LA BREA                      AV,"-118.3489, 34.1047",2010-06-26,Saturday,1100,622,34.1047,-118.3489
+19.0,O,F,West LA,WILSHIRE                     BL,GAYLEY                       AV,"-118.4455, 34.0584",2010-09-21,Tuesday,2315,833,34.0584,-118.4455
+55.0,W,F,Hollywood,WESTERN                      AV,VIRGINIA                     AV,"-118.3092, 34.0919",2010-01-21,Thursday,1905,659,34.0919,-118.3092
+34.0,H,M,Hollenbeck,1ST                          ST,MOTT                         ST,"-118.206, 34.0421",2010-05-02,Sunday,100,466,34.0421,-118.206
+59.0,W,M,Rampart,7TH                          ST,BIXEL                        ST,"-118.2642, 34.0509",2010-02-07,Sunday,1600,269,34.0509,-118.2642
+23.0,W,M,Central,3RD                          ST,FLOWER                       ST,"-118.2535, 34.0544",2010-07-01,Thursday,915,132,34.0544,-118.2535
+40.0,W,M,Van Nuys,SEPULVEDA                    BL,VOSE                         ST,"-118.4662, 34.1985",2010-06-07,Monday,1258,914,34.1985,-118.4662
+40.0,H,M,Rampart,3RD                          ST,BIXEL                        ST,"-118.2598, 34.0576",2010-04-18,Sunday,130,237,34.0576,-118.2598
+64.0,H,M,Topanga,MANTON                       AV,HATTERAS                     ST,"-118.6408, 34.1755",2010-03-04,Thursday,730,2162,34.1755,-118.6408
+34.0,A,F,Pacific,WORLD                        WY,CENTER                       WY,"-118.3974, 33.9442",2010-01-01,Friday,1145,1494,33.9442,-118.3974
+31.0,W,F,West Valley,HAYVENHURST,SATICOY,"-118.4925, 34.2084",2010-07-21,Wednesday,1325,1008,34.2084,-118.4925
+79.0,W,F,West Valley,TAMPA                        AV,MIRANDA                      ST,"-118.5535, 34.1749",2010-08-06,Friday,1100,1041,34.1749,-118.5535
+31.0,A,M,Central,7TH,FLOWER,"-118.2588, 34.0487",2010-10-26,Tuesday,1715,162,34.0487,-118.2588
+47.0,W,M,Hollenbeck,SAN PABLO                    ST,ZONAL                        AV,"-118.2035, 34.0613",2010-09-08,Wednesday,1130,443,34.0613,-118.2035
+33.0,A,M,Hollywood,WESTERN                      AV,FERNWOOD                     AV,"-118.3092, 34.0958",2010-02-01,Monday,2039,659,34.0958,-118.3092
+70.0,W,M,Northeast,EAGLE ROCK                   BL,CORLISS                      ST,"-118.2179, 34.1275",2010-06-02,Wednesday,1615,1117,34.1275,-118.2179
+78.0,O,F,Van Nuys,VANOWEN,CEDROS,"-118.4531, 34.1939",2010-06-05,Saturday,1820,923,34.1939,-118.4531
+52.0,B,F,Pacific,S  LA CIENEGA                   BL,CENTINELA                    BL,"-118.3701, 33.9773",2010-07-01,Thursday,2130,1469,33.9773,-118.3701
+20.0,H,F,Central,7TH                          ST,LAWRENCE                     ST,"-118.2362, 34.0348",2010-11-04,Thursday,1345,159,34.0348,-118.2362
+60.0,H,F,Van Nuys,VALERIO                      ST,WOODMAN                      AV,"-118.4313, 34.2049",2010-12-23,Thursday,1300,909,34.2049,-118.4313
+33.0,O,M,Harbor,CAPITOL                      DR,BARRYWOOD                    AV,"-118.2951, 33.7588",2010-10-19,Tuesday,2220,521,33.7588,-118.2951
+19.0,H,M,N Hollywood,COLDWATER CANYON,SHERMAN                      WY,"-118.4138, 34.2012",2010-02-03,Wednesday,735,1511,34.2012,-118.4138
+61.0,H,F,Foothill,LA TUNA CANYON               BL,MORNING GLOW                 WY,"-118.3457, 34.2349",2010-05-03,Monday,1200,1667,34.2349,-118.3457
+55.0,O,M,Hollywood,KINGSLEY,HOLLYWOOD,"-118.3035, 34.1018",2010-07-24,Saturday,300,639,34.1018,-118.3035
+34.0,A,M,Olympic,BEVERLY                      BL,NEW HAMPSHIRE                AV,"-118.293, 34.0763",2010-03-06,Saturday,1520,2015,34.0763,-118.293
+58.0,W,M,West LA,CENTINELA                    AV,NEBRASKA,"-118.4615, 34.0333",2010-11-14,Sunday,1630,851,34.0333,-118.4615
+31.0,O,M,Pacific,LA TIJERA                    BL,WILEY POST                   AV,"-118.3881, 33.9629",2010-08-23,Monday,730,1477,33.9629,-118.3881
+39.0,O,M,Olympic,W  3RD                          ST,WESTMORELAND                 AV,"-118.2879, 34.069",2010-05-01,Saturday,1,2019,34.069,-118.2879
+47.0,H,M,Pacific,LINCOLN,VERNON,"-118.4645, 33.9997",2010-08-15,Sunday,1750,1415,33.9997,-118.4645
+37.0,H,F,Mission,SEPULVEDA                    BL,PLUMMER                      ST,"-118.4675, 34.2428",2010-05-18,Tuesday,1435,1962,34.2428,-118.4675
+50.0,B,M,77th Street,VERMONT                      AV,66TH                         ST,"-118.2914, 33.9792",2010-03-26,Friday,2200,1248,33.9792,-118.2914
+99.0,O,M,Devonshire,NORDHOFF,LURLINE,"-118.5842, 34.2355",2010-07-17,Saturday,25,1781,34.2355,-118.5842
+46.0,H,F,Olympic,4TH                          ST,HOOVER                       ST,"-118.2843, 34.0667",2010-09-15,Wednesday,1425,2029,34.0667,-118.2843
+30.0,W,M,Hollywood,FRANKLIN,FULLER,"-118.3489, 34.1035",2010-09-11,Saturday,1020,643,34.1035,-118.3489
+22.0,W,F,Northeast,SUNSET                       BL,VIRGIL                       AV,"-118.2862, 34.0976",2010-10-21,Thursday,2315,1162,34.0976,-118.2862
+57.0,K,M,Southwest,ARLINGTON                    AV,MONTCLAIR,"-118.3177, 34.0297",2010-07-28,Wednesday,740,336,34.0297,-118.3177
+40.0,H,F,Mission,VAN NUYS,ARMINTA,"-118.4488, 34.2143",2010-09-08,Wednesday,1400,1998,34.2143,-118.4488
+61.0,W,F,West LA,SUNSET,THURSTON,"-118.4631, 34.0737",2010-10-04,Monday,1100,815,34.0737,-118.4631
+68.0,W,M,West Valley,VENTURA                      BL,CORBIN,"-118.5622, 34.1726",2010-10-12,Tuesday,1010,1061,34.1726,-118.5622
+20.0,B,F,77th Street,VAN NESS                     AV,80TH                         ST,"-118.3177, 33.9664",2010-07-22,Thursday,1500,1263,33.9664,-118.3177
+15.0,W,M,Devonshire,SAN FERNANDO                 BL,WOODLEY                      AV,"-118.4863, 34.2537",2010-03-15,Monday,1830,1758,34.2537,-118.4863
+32.0,W,M,West Valley,SHERMAN                      WY,GLORIA                       AV,"-118.4793, 34.2012",2010-06-03,Thursday,1930,1018,34.2012,-118.4793
+44.0,H,F,Hollenbeck,N  HUNTINGTON                   DR,TOPAZ                        ST,"-118.1891, 34.083",2010-08-20,Friday,1135,407,34.083,-118.1891
+17.0,O,M,Central,HILL,BERNARD,"-118.2372, 34.0673",2010-11-19,Friday,2245,111,34.0673,-118.2372
+34.0,B,F,Wilshire,LA CIENEGA                   BL,18TH                         ST,"-118.3764, 34.0445",2010-02-19,Friday,2130,782,34.0445,-118.3764
+19.0,H,M,N Hollywood,VICTORY                      BL,TROOST                       AV,"-118.3865, 34.1867",2010-06-10,Thursday,1500,1526,34.1867,-118.3865
+34.0,H,F,Foothill,8800    SUNLAND                      BL,,"-118.3663, 34.2287",2010-09-10,Friday,1730,1676,34.2287,-118.3663
+63.0,W,M,Harbor,1100 W  M                            ST,,"-118.2764, 33.7887",2010-08-14,Saturday,1630,514,33.7887,-118.2764
+27.0,H,M,Hollywood,WARING                       AV,CAHUENGA                     BL,"-118.3288, 34.0853",2010-11-17,Wednesday,1050,676,34.0853,-118.3288
+42.0,O,M,Devonshire,PARTHENIA,INDEPENDENCE,"-118.5907, 34.2282",2010-04-24,Saturday,1955,1791,34.2282,-118.5907
+45.0,W,F,Foothill,9600    SUNLAND                      BL,,"-118.3622, 34.246",2010-09-02,Thursday,1520,1667,34.246,-118.3622
+58.0,H,M,West LA,BARRINGTON                   AV,NEBRASKA                     AV,"-118.4528, 34.04",2010-10-21,Thursday,2000,852,34.04,-118.4528
+57.0,B,M,77th Street,SLAUSON,RUTHELEN,"-118.3126, 33.9891",2010-02-16,Tuesday,1900,1233,33.9891,-118.3126
+54.0,H,F,Central,SANTA FE                     AV,PALMETTO                     ST,"-118.2307, 34.0394",2010-05-28,Friday,1110,159,34.0394,-118.2307
+29.0,H,M,Hollywood,SANTA MONICA                 BL,SAINT ANDREWS                PL,"-118.3114, 34.0908",2010-06-19,Saturday,155,657,34.0908,-118.3114
+44.0,W,M,Wilshire,3RD                          ST,COCHRAN                      AV,"-118.3472, 34.0692",2010-10-12,Tuesday,1920,726,34.0692,-118.3472
+39.0,B,M,Southwest,CRENSHAW                     BL,29TH                         ST,"-118.3351, 34.0295",2010-05-08,Saturday,215,392,34.0295,-118.3351
+21.0,W,M,Van Nuys,VICTORY                      BL,ETHEL                        AV,"-118.4181, 34.1867",2010-01-04,Monday,1100,939,34.1867,-118.4181
+26.0,O,F,Van Nuys,SHERMAN,LOUISE,"-118.5099, 34.2012",2010-09-18,Saturday,1515,904,34.2012,-118.5099
+51.0,B,F,Wilshire,FAIRFAX,WILSHIRE,"-118.3619, 34.062",2010-06-26,Saturday,2105,743,34.062,-118.3619
+37.0,H,M,Devonshire,CHATSWORTH                   ST,OWENSMOUTH                   AV,"-118.6017, 34.2645",2010-10-12,Tuesday,1245,1721,34.2645,-118.6017
+30.0,H,M,Newton,FLORENCE                     AV,TOWNE                        AV,"-118.2674, 33.9747",2010-09-26,Sunday,1150,1395,33.9747,-118.2674
+20.0,A,M,Hollywood,WESTERN                      AV,HOLLYWOOD                    BL,"-118.3093, 34.1017",2010-08-08,Sunday,2300,648,34.1017,-118.3093
+85.0,B,M,Wilshire,OGDEN                        DR,SATURN,"-118.365, 34.0493",2010-11-28,Sunday,1745,763,34.0493,-118.365
+62.0,H,M,Hollenbeck,MATHEWS,WHITTIER,"-118.2141, 34.0337",2010-12-15,Wednesday,1520,477,34.0337,-118.2141
+19.0,W,M,Devonshire,DARBY                        AV,DEARBORN                     ST,"-118.5338, 34.2373",2010-02-21,Sunday,1820,1785,34.2373,-118.5338
+38.0,H,F,Rampart,EMERALD                      DR,LUCAS                        AV,"-118.2607, 34.0598",2010-07-16,Friday,1720,237,34.0598,-118.2607
+61.0,O,M,Southwest,WESTERN,22ND,"-118.309, 34.0363",2010-07-09,Friday,735,329,34.0363,-118.309
+21.0,H,F,Olympic,3RD                          ST,NORMANDIE                    AV,"-118.3004, 34.069",2010-03-31,Wednesday,30,2023,34.069,-118.3004
+45.0,W,M,West LA,VIA DE LA PAZ,FRIENDS                      ST,"-118.5294, 34.0382",2010-08-30,Monday,1000,823,34.0382,-118.5294
+25.0,W,F,Pacific,ELLIS                        AV,VENICE                       BL,"-118.3893, 34.0289",2010-01-29,Friday,800,1409,34.0289,-118.3893
+20.0,H,M,Mission,GLENOAKS,ROXFORD,"-118.4637, 34.3184",2010-05-16,Sunday,150,1913,34.3184,-118.4637
+51.0,W,M,Rampart,WILSHIRE                     BL,CORONADO                     ST,"-118.2823, 34.0609",2010-10-10,Sunday,1250,251,34.0609,-118.2823
+41.0,O,M,Rampart,HOOVER,8TH                          ST,"-118.2842, 34.0578",2010-06-24,Thursday,1435,216,34.0578,-118.2842
+71.0,H,M,Hollenbeck,OPAL                         ST,LORENA                       ST,"-118.2019, 34.0213",2010-10-07,Thursday,1455,488,34.0213,-118.2019
+25.0,H,M,Olympic,IROLO                        ST,7TH                          ST,"-118.3009, 34.0598",2010-01-24,Sunday,1930,2034,34.0598,-118.3009
+29.0,H,M,Hollywood,SUNSET                       BL,SCHRADER                     BL,"-118.3324, 34.098",2010-08-02,Monday,1055,646,34.098,-118.3324
+59.0,W,M,Olympic,VERMONT                      AV,LEEWARD,"-118.2916, 34.0587",2010-09-14,Tuesday,1300,2049,34.0587,-118.2916
+35.0,B,F,Central,6TH,LOS ANGELES,"-118.249, 34.0446",2010-01-04,Monday,210,164,34.0446,-118.249
+51.0,O,M,Mission,BRADLEY                      AV,SAYRE                        ST,"-118.4485, 34.2968",2010-04-18,Sunday,200,1925,34.2968,-118.4485
+43.0,B,F,77th Street,MAIN                         ST,83RD                         ST,"-118.2739, 33.9642",2010-02-14,Sunday,2030,1268,33.9642,-118.2739
+12.0,B,M,Wilshire,LONGWOOD                     AV,SATURN                       ST,"-118.3436, 34.0446",2010-07-07,Wednesday,1630,775,34.0446,-118.3436
+23.0,W,F,Mission,RANGOON,BEACHY,"-118.423, 34.2305",2010-12-27,Monday,145,1988,34.2305,-118.423
+70.0,K,F,Olympic,PICO                         BL,HOBART                       BL,"-118.3052, 34.0472",2010-05-07,Friday,1120,2063,34.0472,-118.3052
+82.0,W,M,N Hollywood,LAUREL CANYON                BL,VANOWEN                      ST,"-118.3965, 34.194",2010-05-18,Tuesday,700,1503,34.194,-118.3965
+37.0,H,F,Central,6TH                          ST,MATEO                        ST,"-118.2327, 34.0383",2010-02-05,Friday,1200,159,34.0383,-118.2327
+20.0,H,M,Northeast,AVENUE 54,FIGUEROA,"-118.1968, 34.1076",2010-07-19,Monday,300,1169,34.1076,-118.1968
+49.0,O,F,Newton,SLAUSON                      AV,BROADWAY,"-118.2783, 33.9892",2010-11-28,Sunday,815,1381,33.9892,-118.2783
+52.0,H,M,Foothill,GLENOAKS                     BL,MERCER                       ST,"-118.4073, 34.2816",2010-07-17,Saturday,1730,1602,34.2816,-118.4073
+35.0,W,M,Pacific,PERSHING                     DR,WORLD WAY,"-118.4343, 33.9406",2010-05-01,Saturday,1925,1492,33.9406,-118.4343
+50.0,W,F,Hollywood,SANTA MONICA                 BL,WESTERN                      AV,"-118.3092, 34.0908",2010-12-23,Thursday,915,668,34.0908,-118.3092
+28.0,H,M,Olympic,NORMANDIE                    AV,2ND                          ST,"-118.3004, 34.0712",2010-04-27,Tuesday,645,2016,34.0712,-118.3004
+20.0,W,M,West LA,VETERAN                      AV,OPHIR                        AV,"-118.4547, 34.0668",2010-11-29,Monday,1730,815,34.0668,-118.4547
+21.0,H,M,Devonshire,BALBOA                       BL,ROSCOE                       BL,"-118.5027, 34.2212",2010-03-20,Saturday,1320,1795,34.2212,-118.5027
+27.0,H,M,Mission,FOOTHILL,SAYRE,"-118.4373, 34.3129",2010-03-09,Tuesday,1725,1917,34.3129,-118.4373
+31.0,W,F,Wilshire,CITRUS                       ST,MELROSE                      AV,"-118.3397, 34.0835",2010-05-11,Tuesday,1030,719,34.0835,-118.3397
+99.0,O,M,Hollenbeck,BROADWAY,EASTLAKE,"-118.2078, 34.0738",2010-10-17,Sunday,720,416,34.0738,-118.2078
+46.0,W,F,Central,SPRING,SOTELLO,"-118.2291, 34.0688",2010-05-24,Monday,630,118,34.0688,-118.2291
+35.0,W,M,Hollywood,SANTA MONICA                 BL,ARDMORE                      AV,"-118.3012, 34.0908",2010-08-04,Wednesday,1500,679,34.0908,-118.3012
+40.0,H,M,Foothill,LAUREL CANYON                BL,SHELDON                      ST,"-118.4037, 34.232",2010-10-01,Friday,2140,1663,34.232,-118.4037
+33.0,W,M,West Valley,VANOWEN,LINDLEY,"-118.5273, 34.1939",2010-01-29,Friday,1730,1025,34.1939,-118.5273
+67.0,B,M,Southeast,97TH,LAUREL,"-118.2306, 33.9483",2010-02-08,Monday,955,1829,33.9483,-118.2306
+34.0,X,M,N Hollywood,5600    RIVERTON                     AV,,"-118.3659, 34.1722",2010-03-14,Sunday,2130,1539,34.1722,-118.3659
+22.0,B,M,Topanga,TOPANGA CANYON               BL,COLLINS                      ST,"-118.6058, 34.1746",2010-10-27,Wednesday,2240,2175,34.1746,-118.6058
+19.0,H,F,Wilshire,VENICE                       BL,REDONDO                      BL,"-118.3504, 34.0451",2010-11-27,Saturday,1340,774,34.0451,-118.3504
+42.0,H,F,Topanga,VENTURA                      BL,TOPANGA CANYON               BL,"-118.6058, 34.1685",2010-07-17,Saturday,910,2187,34.1685,-118.6058
+19.0,H,F,77th Street,NORMANDIE                    AV,GAGE                         AV,"-118.3003, 33.9824",2010-07-29,Thursday,1600,1245,33.9824,-118.3003
+24.0,W,F,N Hollywood,MOORPARK,COLFAX,"-118.3877, 34.1504",2010-07-16,Friday,1740,1563,34.1504,-118.3877
+57.0,W,F,Southwest,JEFFERSON,BRONSON,"-118.3338, 34.0256",2010-07-20,Tuesday,1625,334,34.0256,-118.3338
+90.0,W,F,Van Nuys,VANOWEN                      ST,FIRMAMENT                    AV,"-118.4729, 34.1939",2010-07-09,Friday,1355,911,34.1939,-118.4729
+20.0,H,F,77th Street,VAN NESS                     AV,VERNON                       AV,"-118.3171, 34.0037",2010-08-25,Wednesday,1650,1203,34.0037,-118.3171
+21.0,B,F,Southwest,LA BREA                      AV,DON LORENZO                  AV,"-118.359, 34.0009",2010-08-20,Friday,1000,391,34.0009,-118.359
+43.0,W,M,Hollywood,HOLLYWOOD                    BL,BRONSON                      AV,"-118.318, 34.1017",2010-01-30,Saturday,230,637,34.1017,-118.318
+43.0,H,M,Hollywood,SUNSET                       BL,EL CENTRO                    AV,"-118.3237, 34.098",2010-07-11,Sunday,805,647,34.098,-118.3237
+60.0,O,M,West LA,ROBERTSON,NATIONAL,"-118.3911, 34.0309",2010-08-21,Saturday,2200,897,34.0309,-118.3911
+35.0,W,F,West LA,SELBY                        AV,OHIO                         AV,"-118.4372, 34.0563",2010-05-18,Tuesday,1600,834,34.0563,-118.4372
+19.0,H,F,Hollenbeck,LORENA                       ST,ATLANTIC,"-118.2029, 34.0247",2010-10-02,Saturday,310,478,34.0247,-118.2029
+32.0,H,M,Northeast,FIGUEROA                     ST,AVENUE 26,"-118.2212, 34.0848",2010-08-20,Friday,15,1177,34.0848,-118.2212
+26.0,X,M,Hollywood,RIDGEWOOD,MELROSE,"-118.3146, 34.0835",2010-10-04,Monday,2120,677,34.0835,-118.3146
+41.0,H,F,Hollywood,VINE                         AV,HOLLYWOOD                    BL,"-118.3267, 34.1016",2010-02-13,Saturday,1820,646,34.1016,-118.3267
+72.0,W,M,Van Nuys,VENTURA                      BL,VAN NUYS                     BL,"-118.4487, 34.1509",2010-04-20,Tuesday,1320,974,34.1509,-118.4487
+99.0,W,M,Devonshire,RINALDI                      ST,CHIMINEAS                    AV,"-118.5302, 34.278",2010-03-14,Sunday,2230,1714,34.278,-118.5302
+51.0,K,F,Central,CESAR E CHAVEZ               AV,VIGNES                       ST,"-118.2319, 34.0566",2010-12-05,Sunday,1750,119,34.0566,-118.2319
+19.0,W,M,Devonshire,BALBOA                       BL,JOLETTE                      ST,"-118.5022, 34.2932",2010-03-21,Sunday,130,1716,34.2932,-118.5022
+40.0,H,M,Olympic,KENMORE,3RD                          ST,"-118.2967, 34.0691",2010-02-07,Sunday,2100,2017,34.0691,-118.2967
+27.0,W,M,West LA,TENNESSEE                    AV,SEPULVEDA                    BL,"-118.4366, 34.0387",2010-12-10,Friday,1000,884,34.0387,-118.4366
+19.0,H,F,Newton,CENTRAL,41ST,"-118.2565, 34.0092",2010-01-26,Tuesday,1315,1345,34.0092,-118.2565
+24.0,B,M,Southeast,102ND                        ST,MAIN                         ST,"-118.2739, 33.9438",2010-04-23,Friday,145,1822,33.9438,-118.2739
+29.0,B,F,77th Street,FLORENCE                     AV,NORMANDIE,"-118.3003, 33.9746",2010-10-06,Wednesday,1150,1255,33.9746,-118.3003
+27.0,W,F,Topanga,BOX CANYON                   RD,VALLEY CIRCLE                BL,"-118.6273, 34.2331",2010-08-01,Sunday,155,2101,34.2331,-118.6273
+52.0,B,F,77th Street,VAN NESS,60TH                         ST,"-118.3177, 33.9855",2010-08-27,Friday,2243,1242,33.9855,-118.3177
+48.0,O,F,Pacific,SEPULVEDA,VENICE,"-118.4173, 34.013",2010-02-27,Saturday,1430,1437,34.013,-118.4173
+62.0,H,M,Northeast,ALVARADO                     ST,GLENDALE                     BL,"-118.26, 34.0835",2010-03-17,Wednesday,1045,1183,34.0835,-118.26
+32.0,H,M,77th Street,56TH,VERMONT,"-118.2915, 33.9914",2010-02-22,Monday,1600,1218,33.9914,-118.2915
+25.0,W,M,Wilshire,GRACIE ALLEN                 DR,GEORGE BURNS                 RD,"-118.3816, 34.0753",2010-03-10,Wednesday,1900,721,34.0753,-118.3816
+23.0,H,F,Newton,SLAUSON                      AV,BROADWAY,"-118.2783, 33.9892",2010-01-09,Saturday,255,1383,33.9892,-118.2783
+30.0,B,F,Southwest,CRENSHAW                     BL,W  STOCKER                      ST,"-118.3351, 34.0085",2010-05-26,Wednesday,1225,393,34.0085,-118.3351
+33.0,W,M,West LA,SUNSET,ALLENFORD,"-118.5005, 34.0529",2010-05-26,Wednesday,1030,824,34.0529,-118.5005
+19.0,H,M,Pacific,SEPULVEDA                    BL,77TH                         ST,"-118.3949, 33.9717",2010-08-22,Sunday,1940,1467,33.9717,-118.3949
+53.0,O,M,West Valley,BALBOA                       BL,VANOWEN                      ST,"-118.5011, 34.1939",2010-02-27,Saturday,940,1028,34.1939,-118.5011
+31.0,B,F,77th Street,66TH                         ST,GRAMERCY                     PL,"-118.3133, 33.9791",2010-06-16,Wednesday,1720,1243,33.9791,-118.3133
+49.0,H,M,Harbor,WESTERN                      AV,215TH                        ST,"-118.3091, 33.8335",2010-09-26,Sunday,645,506,33.8335,-118.3091
+41.0,H,M,Wilshire,REDONDO                      BL,PICKFORD                     AV,"-118.3513, 34.0436",2010-10-23,Saturday,1045,774,34.0436,-118.3513
+24.0,W,M,West Valley,VICTORY                      BL,WOODLEY                      AV,"-118.4836, 34.1867",2010-06-16,Wednesday,1555,1049,34.1867,-118.4836
+20.0,W,F,West Valley,YOLANDA                      ST,SATICOY                      AV,"-118.5405, 34.2084",2010-12-07,Tuesday,1100,1011,34.2084,-118.5405
+29.0,H,F,Northeast,ALDAMA,AVENUE 52,"-118.203, 34.1131",2010-04-17,Saturday,1130,1137,34.1131,-118.203
+58.0,H,F,Harbor,AVALON                       BL,E                            ST,"-118.2621, 33.7756",2010-02-08,Monday,2300,525,33.7756,-118.2621
+48.0,H,M,Van Nuys,SHERMAN                      WY,WOODMAN                      AV,"-118.4313, 34.2012",2010-12-12,Sunday,340,919,34.2012,-118.4313
+64.0,X,M,77th Street,SLAUSON                      AV,VERMONT                      AV,"-118.2915, 33.9892",2010-07-13,Tuesday,1430,1239,33.9892,-118.2915
+38.0,W,F,West Valley,CORBIN                       AV,VENTURA                      BL,"-118.5622, 34.1734",2010-10-10,Sunday,1700,1061,34.1734,-118.5622
+40.0,H,F,Mission,SAYRE                        ST,DRONFIELD                    AV,"-118.4368, 34.3075",2010-04-30,Friday,2145,1918,34.3075,-118.4368
+22.0,W,F,Van Nuys,VICTORY,VESPER,"-118.4509, 34.1867",2010-05-01,Saturday,1730,923,34.1867,-118.4509
+42.0,W,F,West LA,WILSHIRE                     BL,WESTWOOD                     BL,"-118.4439, 34.0588",2010-01-30,Saturday,2250,833,34.0588,-118.4439
+42.0,W,M,Devonshire,DEVONSHIRE                   ST,LURLINE                      AV,"-118.5842, 34.2573",2010-05-21,Friday,930,1723,34.2573,-118.5842
+68.0,B,M,Southwest,LA CIENEGA,CORBETT,"-118.3722, 34.0251",2010-07-15,Thursday,1430,321,34.0251,-118.3722
+30.0,W,M,Central,SUNSET,BEAUDRY,"-118.2492, 34.0652",2010-01-14,Thursday,1800,101,34.0652,-118.2492
+30.0,W,F,Hollywood,CRESCENT HEIGHTS             BL,SELMA                        AV,"-118.3654, 34.0998",2010-05-01,Saturday,1235,632,34.0998,-118.3654
+27.0,H,F,Wilshire,VENICE                       BL,VICTORIA,"-118.4569, 33.9921",2010-10-19,Tuesday,745,775,33.9921,-118.4569
+99.0,O,M,Newton,51ST,COMPTON,"-118.2478, 33.9967",2010-07-27,Tuesday,1825,1365,33.9967,-118.2478
+21.0,H,M,Southwest,JEFFERSON,11TH                         AV,"-118.3293, 34.0256",2010-12-10,Friday,730,334,34.0256,-118.3293
+35.0,H,M,Newton,CENTRAL,8TH,"-118.2433, 34.0336",2010-01-07,Thursday,1730,1307,34.0336,-118.2433
+23.0,A,F,Olympic,WESTERN                      AV,8TH                          ST,"-118.3091, 34.0581",2010-12-16,Thursday,2200,2033,34.0581,-118.3091
+40.0,H,M,Olympic,BEVERLY                      BL,BERENDO,"-118.2942, 34.0763",2010-07-27,Tuesday,2300,2015,34.0763,-118.2942
+32.0,W,F,Devonshire,WESTBURY                     ST,BALBOA                       BL,"-118.5033, 34.299",2010-09-23,Thursday,730,1707,34.299,-118.5033
+31.0,O,F,Mission,NORDHOFF                     ST,CEDROS                       AV,"-118.4536, 34.2355",2010-08-07,Saturday,1740,1974,34.2355,-118.4536
+50.0,H,F,Devonshire,RESEDA                       BL,BRYANT                       ST,"-118.5361, 34.2274",2010-08-07,Saturday,1525,1794,34.2274,-118.5361
+36.0,H,F,Rampart,PARK VIEW,WILSHIRE,"-118.2795, 34.0597",2010-08-10,Tuesday,955,245,34.0597,-118.2795
+37.0,H,M,Newton,32ND                         ST,MAIN                         ST,"-118.2729, 34.0206",2010-01-14,Thursday,730,1331,34.0206,-118.2729
+49.0,O,F,Devonshire,LASSEN                       ST,OWENSMOUTH                   AV,"-118.6017, 34.25",2010-03-11,Thursday,1710,1751,34.25,-118.6017
+67.0,X,M,77th Street,45TH,NORMANDIE,"-118.3002, 34.0027",2010-12-20,Monday,1630,1204,34.0027,-118.3002
+53.0,K,F,Central,OLIVE                        ST,7TH                          ST,"-118.2569, 34.0452",2010-06-21,Monday,1415,162,34.0452,-118.2569
+44.0,W,F,Central,WILSHIRE                     BL,FLOWER                       ST,"-118.2581, 34.0494",2010-09-18,Saturday,915,152,34.0494,-118.2581
+24.0,H,M,Topanga,20900    VANOWEN                      ST,,"-118.5884, 34.1938",2010-04-25,Sunday,205,2157,34.1938,-118.5884
+26.0,H,F,Northeast,AVENUE 28,GAY                          ST,"-118.2238, 34.0882",2010-02-10,Wednesday,1440,1177,34.0882,-118.2238
+50.0,W,M,Devonshire,DEVONSHIRE                   ST,RESEDA                       BL,"-118.5361, 34.2573",2010-04-21,Wednesday,1600,1743,34.2573,-118.5361
+24.0,H,M,Pacific,CENTINELA                    AV,GREEN VALLEY                 CR,"-118.3878, 33.9733",2010-03-16,Tuesday,820,1467,33.9733,-118.3878
+63.0,W,M,Pacific,ROSE,NATIONAL,"-118.4123, 34.0284",2010-05-13,Thursday,1600,1406,34.0284,-118.4123
+31.0,A,F,Rampart,8TH                          ST,LAKE                         ST,"-118.2789, 34.0554",2010-05-26,Wednesday,1020,265,34.0554,-118.2789
+63.0,H,M,Harbor,HARRY BRIDGES,FIGUEROA,"-118.2787, 33.7703",2010-08-31,Tuesday,2300,527,33.7703,-118.2787
+29.0,W,M,West LA,MIDVALE                      AV,ROCHESTER,"-118.4426, 34.0548",2010-07-20,Tuesday,2000,835,34.0548,-118.4426
+46.0,W,M,Topanga,TOPANGA CANYON               BL,BASSETT                      ST,"-118.6059, 34.1956",2010-04-09,Friday,1245,2146,34.1956,-118.6059
+35.0,B,F,77th Street,47TH                         ST,NORMANDIE                    AV,"-118.3002, 34.0007",2010-02-20,Saturday,1640,1204,34.0007,-118.3002
+23.0,H,M,Northeast,LILAC                        TR,STADIUM                      WY,"-118.2456, 34.071",2010-06-26,Saturday,1925,1195,34.071,-118.2456
+20.0,W,M,Southwest,ADAMS                        BL,PORTLAND                     AV,"-118.2821, 34.0309",2010-01-28,Thursday,1300,328,34.0309,-118.2821
+50.0,H,M,Pacific,MANCHESTER,SARAN,"-118.4326, 33.9598",2010-09-18,Saturday,915,1473,33.9598,-118.4326
+15.0,H,M,Mission,WOODMAN                      AV,ROSCOE                       BL,"-118.4328, 34.2217",2010-11-22,Monday,1120,1999,34.2217,-118.4328
+46.0,W,M,77th Street,BROADWAY,77TH                         ST,"-118.2783, 33.9699",2010-06-17,Thursday,935,1258,33.9699,-118.2783
+60.0,A,F,West LA,PACIFIC COAST,ENTRADA,"-118.5188, 34.0279",2010-02-07,Sunday,1650,872,34.0279,-118.5188
+30.0,H,M,Foothill,LAUREL CANYON,WEIDNER,"-118.4369, 34.2633",2010-11-14,Sunday,1720,1621,34.2633,-118.4369
+16.0,B,F,Olympic,OLYMPIC,FEDORA,"-118.2979, 34.0526",2010-07-06,Tuesday,1645,2055,34.0526,-118.2979
+20.0,H,M,Newton,43RD                         PL,AVALON                       BL,"-118.2652, 34.0048",2010-12-27,Monday,1430,1353,34.0048,-118.2652
+27.0,W,M,Olympic,OLYMPIC                      BL,WESTCHESTER                  PL,"-118.3164, 34.0525",2010-11-17,Wednesday,2015,2041,34.0525,-118.3164
+44.0,B,M,Southeast,92ND                         ST,VERMONT                      AV,"-118.2915, 33.9528",2010-12-22,Wednesday,1250,1801,33.9528,-118.2915
+36.0,W,M,Rampart,1ST                          ST,BEAUDRY                      AV,"-118.2542, 34.0591",2010-02-03,Wednesday,800,239,34.0591,-118.2542
+40.0,H,F,Foothill,KESWICK                      ST,BONNER                       AV,"-118.3736, 34.2103",2010-02-17,Wednesday,350,1695,34.2103,-118.3736
+45.0,B,F,Northeast,FERN DELL                    DR,LOS FELIZ                    BL,"-118.3075, 34.1093",2010-12-01,Wednesday,835,1153,34.1093,-118.3075
+25.0,O,M,Southwest,MC CLINTOCK                  AV,37TH                         PL,"-118.2868, 34.0215",2010-03-24,Wednesday,1010,358,34.0215,-118.2868
+25.0,H,F,Northeast,5500 N  FIGUEROA                     ST,,"-118.1956, 34.1082",2010-01-25,Monday,1700,1149,34.1082,-118.1956
+34.0,H,M,Olympic,MELROSE                      AV,WINDSOR                      BL,"-118.3196, 34.0835",2010-01-27,Wednesday,2225,2001,34.0835,-118.3196
+72.0,O,M,Topanga,TOPANGA CANYON               AV,VANOWEN                      ST,"-118.6059, 34.1938",2010-10-22,Friday,1340,2145,34.1938,-118.6059
+81.0,J,M,Hollenbeck,WABASH                       AV,MOTT                         ST,"-118.198, 34.0505",2010-05-18,Tuesday,1600,449,34.0505,-118.198
+31.0,H,F,Newton,16TH                         ST,CENTRAL                      AV,"-118.2488, 34.0264",2010-08-05,Thursday,1320,1313,34.0264,-118.2488
+44.0,H,M,West Valley,VANOWEN,HAYVENHURST,"-118.4924, 34.1939",2010-12-18,Saturday,1815,1008,34.1939,-118.4924
+36.0,H,F,Central,HILL                         ST,OLYMPIC                      BL,"-118.2584, 34.0416",2010-05-15,Saturday,1740,185,34.0416,-118.2584
+52.0,F,F,Wilshire,VENICE                       BL,LA BREA                      AV,"-118.3453, 34.046",2010-12-19,Sunday,1530,774,34.046,-118.3453
+30.0,H,M,Mission,PARTHENIA                    ST,LANGDON                      AV,"-118.4699, 34.2283",2010-04-19,Monday,830,1981,34.2283,-118.4699
+36.0,W,M,Devonshire,ROSCOE,BALBOA,"-118.5055, 34.2212",2010-12-20,Monday,2320,1795,34.2212,-118.5055
+49.0,H,F,Harbor,7TH,LELAND,"-118.3012, 33.7379",2010-11-19,Friday,740,563,33.7379,-118.3012
+41.0,H,M,Rampart,3RD                          ST,OCCIDENTAL                   BL,"-118.2821, 34.0677",2010-03-16,Tuesday,2226,241,34.0677,-118.2821
+20.0,H,M,77th Street,GAGE,WESTERN,"-118.309, 33.9824",2010-04-07,Wednesday,1220,1243,33.9824,-118.309
+46.0,W,F,Hollenbeck,DRUID                        ST,RICHELIEU                    AV,"-118.1835, 34.07",2010-12-18,Saturday,1715,437,34.07,-118.1835
+61.0,B,M,Wilshire,SAN VICENTE,GENESEE                      AV,"-118.3611, 34.0571",2010-01-25,Monday,825,753,34.0571,-118.3611
+81.0,B,F,Southeast,111TH                        PL,BROADWAY,"-118.2781, 33.9339",2010-05-06,Thursday,1200,1841,33.9339,-118.2781
+33.0,B,M,77th Street,WESTERN                      AV,60TH                         ST,"-118.3089, 33.9859",2010-02-23,Tuesday,1056,1233,33.9859,-118.3089
+52.0,O,F,Newton,ALAMEDA,BAY,"-118.2388, 34.0318",2010-03-15,Monday,730,1309,34.0318,-118.2388
+60.0,W,F,Pacific,MOTOR,REGENT,"-118.4043, 34.021",2010-02-18,Thursday,1650,1407,34.021,-118.4043
+30.0,B,F,77th Street,MANCHESTER                   AV,NORMANDIE                    AV,"-118.3003, 33.96",2010-10-07,Thursday,1330,1265,33.96,-118.3003
+22.0,W,F,Southwest,28TH                         ST,UNIVERSITY                   WY,"-118.281, 34.0278",2010-09-23,Thursday,2320,328,34.0278,-118.281
+27.0,O,F,Hollywood,CAHUENGA                     BL,PILGRIMAGE,"-118.3331, 34.1121",2010-05-23,Sunday,1400,615,34.1121,-118.3331
+37.0,H,M,Southwest,FIGUEROA,42ND,"-118.2827, 34.0074",2010-06-04,Friday,1525,399,34.0074,-118.2827
+51.0,H,F,Van Nuys,WOODMAN                      AV,VALERIO                      ST,"-118.4313, 34.2049",2010-07-09,Friday,1805,909,34.2049,-118.4313
+33.0,O,F,77th Street,54TH                         ST,VERMONT                      AV,"-118.2915, 33.9932",2010-03-17,Wednesday,730,1215,33.9932,-118.2915
+20.0,H,F,West Valley,RESEDA,CLARK,"-118.536, 34.1698",2010-07-23,Friday,10,1063,34.1698,-118.536
+47.0,H,M,Southwest,RODEO                        RD,7TH                          AV,"-118.3252, 34.0191",2010-09-18,Saturday,855,374,34.0191,-118.3252
+20.0,B,F,Wilshire,VENICE                       BL,SAN VICENTE                  BL,"-118.3358, 34.047",2010-02-27,Saturday,905,765,34.047,-118.3358
+47.0,H,M,Mission,WOODMAN,CHASE,"-118.4344, 34.228",2010-09-18,Saturday,2245,1987,34.228,-118.4344
+25.0,H,F,Central,HILL,TEMPLE,"-118.2435, 34.0571",2010-01-17,Sunday,1410,112,34.0571,-118.2435
+46.0,H,F,Olympic,S  EDGEMONT                     ST,1ST                          ST,"-118.2975, 34.0728",2010-12-06,Monday,430,2016,34.0728,-118.2975
+33.0,W,M,West LA,MONTANA,BRISTOL,"-118.4811, 34.0454",2010-07-04,Sunday,15,831,34.0454,-118.4811
+32.0,O,F,West LA,LA CIENEGA                   BL,PICO                         BL,"-118.3762, 34.0534",2010-10-28,Thursday,2230,849,34.0534,-118.3762
+34.0,H,F,Newton,45TH                         ST,HOOPER                       ST,"-118.2521, 34.003",2010-01-02,Saturday,2120,1365,34.003,-118.2521
+55.0,B,F,Rampart,VERMONT,NORMAL,"-118.2917, 34.0867",2010-09-07,Tuesday,830,201,34.0867,-118.2917
+17.0,W,F,Topanga,VENTURA                      BL,WINNETKA                     AV,"-118.5709, 34.171",2010-11-10,Wednesday,1625,2189,34.171,-118.5709
+63.0,W,M,Wilshire,ALFRED                       ST,WHITWORTH                    DR,"-118.3749, 34.0571",2010-01-28,Thursday,2030,762,34.0571,-118.3749
+73.0,A,F,Olympic,OXFORD                       AV,7TH                          ST,"-118.3078, 34.0597",2010-06-01,Tuesday,1505,2033,34.0597,-118.3078
+32.0,W,M,Hollywood,HOLLYWOOD                    BL,VISTA                        ST,"-118.3519, 34.1017",2010-03-28,Sunday,2300,643,34.1017,-118.3519
+72.0,A,F,Central,2ND                          ST,N  LOS ANGELES                  ST,"-118.2418, 34.0493",2010-05-05,Wednesday,1630,128,34.0493,-118.2418
+43.0,O,M,Olympic,SAN MARINO                   ST,IROLO                        ST,"-118.3009, 34.0545",2010-06-26,Saturday,1115,2044,34.0545,-118.3009
+56.0,A,M,Central,OMAR                         AV,BOYD                         ST,"-118.2417, 34.046",2010-04-06,Tuesday,1420,138,34.046,-118.2417
+81.0,W,F,West LA,WILSHIRE,FEDERAL,"-118.4592, 34.0508",2010-05-10,Monday,1305,832,34.0508,-118.4592
+45.0,O,F,Devonshire,NORDHOFF,CORBIN,"-118.5623, 34.2355",2010-03-18,Thursday,1330,1764,34.2355,-118.5623
+43.0,W,M,West LA,OVERLAND                     AV,NATIONAL                     BL,"-118.4176, 34.0325",2010-07-26,Monday,1440,893,34.0325,-118.4176
+56.0,B,M,N Hollywood,WHITSETT                     AV,OXNARD                       ST,"-118.4052, 34.1794",2010-01-12,Tuesday,1939,1531,34.1794,-118.4052
+20.0,H,M,Hollenbeck,CESAR E CHAVEZ,N  MOTT                         ST,"-118.2041, 34.0452",2010-07-09,Friday,530,457,34.0452,-118.2041
+60.0,H,M,Southeast,108TH                        ST,GRAND                        AV,"-118.2805, 33.9383",2010-05-25,Tuesday,805,1842,33.9383,-118.2805
+44.0,B,F,Wilshire,PICO                         BL,SAN VICENTE                  BL,"-118.3392, 34.0485",2010-02-19,Friday,1425,765,34.0485,-118.3392
+45.0,O,F,West Valley,YARMOUTH                     AV,MARGATE                      ST,"-118.5203, 34.1686",2010-09-05,Sunday,1120,1065,34.1686,-118.5203
+52.0,W,M,West Valley,VANOWEN                      ST,HAYVENHURST                  AV,"-118.4924, 34.1939",2010-01-19,Tuesday,1600,1028,34.1939,-118.4924
+21.0,O,M,West LA,2400 S  SEPULVEDA                    BL,,"-118.4314, 34.0316",2010-03-12,Friday,1045,893,34.0316,-118.4314
+25.0,B,M,Olympic,MARIPOSA                     ST,SAN MARINO                   AV,"-118.2987, 34.0545",2010-02-14,Sunday,2230,2045,34.0545,-118.2987
+22.0,H,M,77th Street,78TH,WADSWORTH,"-118.2586, 33.9685",2010-08-02,Monday,630,1259,33.9685,-118.2586
+47.0,W,F,Harbor,ANAHEIM                      ST,AVALON                       BL,"-118.2618, 33.78",2010-05-28,Friday,725,529,33.78,-118.2618
+29.0,B,F,Wilshire,3RD                          ST,ORLANDO                      AV,"-118.3731, 34.073",2010-06-18,Friday,200,723,34.073,-118.3731
+21.0,H,M,Pacific,VENICE                       BL,MARCASEL                     AV,"-118.4284, 34.0065",2010-10-06,Wednesday,2250,1449,34.0065,-118.4284
+45.0,H,M,Hollenbeck,MARTIN                       ST,BULLARD                      AV,"-118.1674, 34.0802",2010-07-16,Friday,1535,438,34.0802,-118.1674
+56.0,W,M,Rampart,7TH,BIXEL,"-118.2642, 34.0509",2010-10-31,Sunday,1840,269,34.0509,-118.2642
+17.0,O,M,N Hollywood,VANOWEN                      ST,AGNES                        AV,"-118.3954, 34.194",2010-11-12,Friday,1515,1514,34.194,-118.3954
+26.0,B,M,77th Street,81ST                         ST,DENKER                       AV,"-118.3046, 33.9655",2010-12-25,Saturday,1220,1265,33.9655,-118.3046
+42.0,B,M,Newton,CENTRAL,16TH,"-118.2488, 34.0264",2010-05-07,Friday,720,1317,34.0264,-118.2488
+25.0,W,M,Harbor,PACIFIC COAST                HY,VERMONT                      AV,"-118.2917, 33.791",2010-12-13,Monday,920,513,33.791,-118.2917
+60.0,H,M,Devonshire,RESEDA                       BL,NORDHOFF                     ST,"-118.5361, 34.2355",2010-07-29,Thursday,1145,1785,34.2355,-118.5361
+30.0,H,M,N Hollywood,MAGNOLIA                     BL,VINELAND                     AV,"-118.3704, 34.1649",2010-08-20,Friday,1650,1557,34.1649,-118.3704
+26.0,H,F,77th Street,SLAUSON,VICTORIA,"-118.3322, 33.989",2010-05-30,Sunday,1755,1232,33.989,-118.3322
+27.0,H,M,Rampart,MARATHON,LUCILE,"-118.2836, 34.0839",2010-07-12,Monday,1645,204,34.0839,-118.2836
+50.0,W,M,Wilshire,LA CIENEGA                   BL,CULLEN                       ST,"-118.377, 34.0342",2010-10-04,Monday,1015,782,34.0342,-118.377
+40.0,W,M,Hollywood,LA BREA                      AV,HIGHLAND                     AV,"-118.3494, 34.1007",2010-05-23,Sunday,1905,643,34.1007,-118.3494
+45.0,O,M,West LA,SUNSET                       BL,BUNDY                        DR,"-118.4759, 34.0603",2010-01-09,Saturday,1130,826,34.0603,-118.4759
+32.0,H,M,Northeast,SUNSET                       BL,NORMANDIE                    AV,"-118.3005, 34.0981",2010-11-14,Sunday,250,1151,34.0981,-118.3005
+59.0,B,F,West LA,SEPULVEDA                    BL,SKIRBALL CENTER              DR,"-118.4793, 34.123",2010-01-27,Wednesday,1810,804,34.123,-118.4793
+42.0,K,M,Olympic,WILSHIRE                     BL,ARDMORE                      AV,"-118.3016, 34.0618",2010-04-28,Wednesday,745,2034,34.0618,-118.3016
+39.0,O,M,West LA,WELLESLEY,WILSHIRE,"-118.4692, 34.0427",2010-03-23,Tuesday,2300,831,34.0427,-118.4692
+25.0,H,M,Olympic,SAN MARINO,CATALINA,"-118.2947, 34.0545",2010-02-23,Tuesday,1810,2056,34.0545,-118.2947
+23.0,H,M,Olympic,NORMANDIE                    AV,OAKWOOD                      AV,"-118.3004, 34.0777",2010-06-24,Thursday,1625,2005,34.0777,-118.3004
+75.0,W,M,West LA,BEVERLY GLEN                 DR,ILONA                        AV,"-118.4177, 34.0471",2010-03-31,Wednesday,1005,847,34.0471,-118.4177
+20.0,H,M,Foothill,OSBORNE                      ST,GLENOAKS                     BL,"-118.4019, 34.2647",2010-10-04,Monday,1330,1633,34.2647,-118.4019
+22.0,W,F,N Hollywood,LANKERSHIM                   BL,MAGNOLIA                     BL,"-118.375, 34.1649",2010-07-11,Sunday,950,1548,34.1649,-118.375
+36.0,W,M,Central,BROADWAY,ARCADIA                      ST,"-118.2422, 34.0572",2010-07-27,Tuesday,115,112,34.0572,-118.2422
+24.0,O,M,Topanga,DARNOCH                      WY,CANDLEWOOD                   WY,"-118.6444, 34.2039",2010-05-01,Saturday,40,2132,34.2039,-118.6444
+27.0,O,F,Olympic,WILSHIRE                     BL,NEW HAMPSHIRE                AV,"-118.2929, 34.0618",2010-10-15,Friday,1000,2036,34.0618,-118.2929
+30.0,W,F,Topanga,WINNETKA                     AV,VALERIO                      ST,"-118.571, 34.2047",2010-09-13,Monday,1100,2139,34.2047,-118.571
+45.0,B,F,Hollenbeck,ZONAL                        AV,CUMMINGS                     ST,"-118.2046, 34.0594",2010-12-14,Tuesday,650,443,34.0594,-118.2046
+41.0,A,F,Devonshire,WINNETKA,LONDELIUS,"-118.571, 34.2292",2010-01-29,Friday,1205,1782,34.2292,-118.571
+18.0,H,M,Hollenbeck,EASTERN                      AV,GAMBIER                      ST,"-118.178, 34.081",2010-08-02,Monday,1350,427,34.081,-118.178
+48.0,H,F,77th Street,BUDLONG                      AV,57TH                         ST,"-118.2958, 33.9905",2010-02-06,Saturday,1540,1215,33.9905,-118.2958
+60.0,W,M,Foothill,SAN FERNANDO                 RD,PENROSE                      ST,"-118.3774, 34.2248",2010-08-06,Friday,2100,1687,34.2248,-118.3774
+81.0,O,M,West Valley,VICTORY                      BL,WHITE OAK,"-118.5185, 34.1866",2010-02-09,Tuesday,1505,1035,34.1866,-118.5185
+44.0,O,F,Hollenbeck,BIGGY                        ST,EASTLAKE                     AV,"-118.205, 34.0624",2010-01-25,Monday,1330,443,34.0624,-118.205
+46.0,W,F,Harbor,WESTERN                      AV,9TH                          ST,"-118.3091, 34.0559",2010-09-15,Wednesday,1615,541,34.0559,-118.3091
+31.0,B,F,77th Street,54TH                         ST,3RD                          AV,"-118.3203, 33.9932",2010-08-10,Tuesday,1900,1211,33.9932,-118.3203
+59.0,W,M,Topanga,PLATT                        AV,VICTORY                      BL,"-118.6426, 34.1898",2010-04-14,Wednesday,2100,2142,34.1898,-118.6426
+37.0,A,F,Hollenbeck,8TH                          ST,SOTO                         ST,"-118.2194, 34.0281",2010-04-06,Tuesday,945,491,34.0281,-118.2194
+64.0,W,M,Wilshire,LACIENEGAA                   BL,VENICE                       BL,"-118.3717, 34.0387",2010-05-30,Sunday,1945,782,34.0387,-118.3717
+33.0,O,M,West LA,SEPULVEDA                    BL,NABRASKA                     AV,"-118.4451, 34.0469",2010-05-29,Saturday,930,854,34.0469,-118.4451
+46.0,H,F,Olympic,14TH                         ST,MAGNOLIA                     AV,"-118.2864, 34.0463",2010-05-19,Wednesday,1400,2079,34.0463,-118.2864
+50.0,B,F,77th Street,CRENSHAW                     BL,63RD                         ST,"-118.3309, 33.9829",2010-09-03,Friday,955,1241,33.9829,-118.3309
+19.0,B,M,Southwest,KING                         BL,BRIGHTON                     AV,"-118.298, 34.0073",2010-11-01,Monday,1915,397,34.0073,-118.298
+19.0,H,F,West LA,LA CIENEGA,18TH,"-118.3768, 34.0445",2010-04-29,Thursday,1210,849,34.0445,-118.3768
+35.0,O,M,Topanga,20100    SHERMAN                      WY,,"-118.571, 34.201",2010-05-24,Monday,1420,2139,34.201,-118.571
+12.0,W,M,Wilshire,GARDNER                      ST,ROSEWOOD                     AV,"-118.3532, 34.0803",2010-12-27,Monday,1355,702,34.0803,-118.3532
+25.0,W,M,Mission,ROXFORD                      ST,FOOTHILL                     BL,"-118.4602, 34.3218",2010-07-07,Wednesday,1630,1902,34.3218,-118.4602
+50.0,W,F,Van Nuys,SUTTON                       ST,SEPULVEDA                    BL,"-118.4674, 34.15",2010-10-30,Saturday,1220,981,34.15,-118.4674
+26.0,W,M,Hollywood,WESTERN,LELAND,"-118.3124, 34.0888",2010-12-11,Saturday,1140,657,34.0888,-118.3124
+51.0,B,M,Hollenbeck,BROADWAY,DALY                         ST,"-118.2156, 34.0736",2010-06-25,Friday,955,412,34.0736,-118.2156
+19.0,H,M,Pacific,SAWTELLE                     BL,BIONA                        DR,"-118.4203, 34.0122",2010-09-06,Monday,1945,1435,34.0122,-118.4203
+61.0,B,F,77th Street,CRENSHAW                     BL,74TH                         ST,"-118.3309, 33.9727",2010-10-27,Wednesday,1910,1251,33.9727,-118.3309
+47.0,A,M,Devonshire,WILBUR,LABRADOR,"-118.5448, 34.249",2010-11-24,Wednesday,1805,1766,34.249,-118.5448
+41.0,B,M,Southwest,MARTIN LUTHER KING JR        BL,HARBOR                       FY,"-118.2808, 34.0111",2010-09-19,Sunday,2330,359,34.0111,-118.2808
+84.0,W,M,Wilshire,FAIRFAX,PICO,"-118.3667, 34.0515",2010-02-15,Monday,1030,752,34.0515,-118.3667
+19.0,H,M,Topanga,SHERMAN                      WY,KELVIN                       AV,"-118.5863, 34.2011",2010-06-23,Wednesday,945,2147,34.2011,-118.5863
+59.0,O,F,Wilshire,3RD                          ST,GARDNER                      ST,"-118.3532, 34.0704",2010-08-28,Saturday,1730,734,34.0704,-118.3532
+39.0,A,F,Rampart,SUNSET                       BL,LUCILE                       AV,"-118.2788, 34.091",2010-08-18,Wednesday,1800,204,34.091,-118.2788
+21.0,W,M,Topanga,VALLEY                       CI,PLUMMER,"-118.6273, 34.2331",2010-04-09,Friday,1615,2101,34.2331,-118.6273
+24.0,W,F,Northeast,FLETCHER                     DR,SAN FERNANDO                 RD,"-118.2441, 34.1161",2010-01-23,Saturday,800,1124,34.1161,-118.2441
+19.0,W,F,West Valley,18200    VENTURA                      BL,,"-118.5289, 34.166",2010-02-03,Wednesday,1230,1075,34.166,-118.5289
+52.0,W,M,N Hollywood,11900    VENTURA                      BL,,"-118.3908, 34.1427",2010-06-14,Monday,1140,1595,34.1427,-118.3908
+58.0,B,M,Southwest,LA BREA,ADAMS,"-118.3519, 34.0325",2010-06-30,Wednesday,1050,331,34.0325,-118.3519
+52.0,O,M,Hollenbeck,MOULTON,MAIN,"-118.2189, 34.066",2010-03-16,Tuesday,1110,421,34.066,-118.2189
+22.0,H,F,Newton,MAIN                         ST,36TH                         ST,"-118.2736, 34.0171",2010-02-05,Friday,1900,1342,34.0171,-118.2736
+42.0,W,M,Hollywood,LA BREA                      AV,DE LONGPRE                   AV,"-118.3441, 34.0962",2010-09-26,Sunday,1915,645,34.0962,-118.3441
+64.0,H,M,Harbor,AVALON                       BL,ANAHEIM                      ST,"-118.2618, 33.78",2010-02-02,Tuesday,710,525,33.78,-118.2618
+78.0,H,M,Harbor,300 W  PACIFIC COAST                HY,,"-118.2657, 33.791",2010-07-18,Sunday,900,515,33.791,-118.2657
+54.0,H,M,Newton,VERNON,WADSWORTH,"-118.2588, 34.0039",2010-10-22,Friday,1515,1353,34.0039,-118.2588
+47.0,H,M,77th Street,NORMANDIE                    AV,GAGE                         AV,"-118.3003, 33.9824",2010-03-28,Sunday,1645,1245,33.9824,-118.3003
+19.0,B,M,Topanga,GRESHAM                      ST,TOPANGA CANYON               BL,"-118.6029, 34.2315",2010-12-19,Sunday,1130,2103,34.2315,-118.6029
+30.0,O,M,N Hollywood,GAULT                        ST,ETHEL                        AV,"-118.4181, 34.1993",2010-07-27,Tuesday,2230,1521,34.1993,-118.4181
+48.0,B,F,77th Street,BROADWAY,85TH,"-118.2782, 33.9616",2010-05-13,Thursday,1450,1268,33.9616,-118.2782
+55.0,W,M,Topanga,TOPANGA CANYON               BL,CLARENDON                    ST,"-118.6058, 34.1697",2010-08-15,Sunday,1255,2185,34.1697,-118.6058
+65.0,W,M,Foothill,SHELDON                      ST,SAN FERNANDO                 RD,"-118.3938, 34.2393",2010-05-05,Wednesday,620,1663,34.2393,-118.3938
+26.0,B,F,Southeast,103RD                        ST,CENTRAL                      AV,"-118.2541, 33.9433",2010-03-05,Friday,1345,1824,33.9433,-118.2541
+65.0,B,F,77th Street,FIGUEROA                     ST,46TH                         ST,"-118.2827, 34.002",2010-11-11,Thursday,1800,1208,34.002,-118.2827
+18.0,H,M,Harbor,BROAD                        AV,PACIFIC COAST                HY,"-118.2616, 33.7913",2010-05-06,Thursday,1255,518,33.7913,-118.2616
+29.0,W,M,N Hollywood,SHERMAN                      WY,BELLAIRE                     AV,"-118.4094, 34.2012",2010-12-05,Sunday,1810,1512,34.2012,-118.4094
+20.0,H,M,Southeast,120TH,BROADWAY,"-118.2782, 33.9237",2010-02-08,Monday,2115,1862,33.9237,-118.2782
+37.0,O,F,Wilshire,OLYMPIC                      BL,HAUSER                       BL,"-118.3547, 34.0574",2010-05-08,Saturday,1920,743,34.0574,-118.3547
+32.0,H,M,Northeast,EAGLE ROCK                   BL,AVENUE 41,"-118.2271, 34.121",2010-08-10,Tuesday,1100,1136,34.121,-118.2271
+71.0,O,M,N Hollywood,WHITSETT                     AV,CHANDLER                     BL,"-118.4052, 34.1684",2010-08-24,Tuesday,1715,1541,34.1684,-118.4052
+38.0,H,M,Newton,E  48TH                         ST,COMPTON                      AV,"-118.2478, 34.0002",2010-04-17,Saturday,1730,1367,34.0002,-118.2478
+38.0,H,F,Hollenbeck,LORENA                       ST,ATLANTIC                     ST,"-118.2029, 34.0247",2010-10-04,Monday,1820,478,34.0247,-118.2029
+37.0,H,M,Southeast,COLDEN                       AV,BROADWAY,"-118.2781, 33.9492",2010-07-04,Sunday,2200,1822,33.9492,-118.2781
+50.0,B,M,77th Street,FLORENCE                     AV,MCKINLEY,"-118.2608, 33.9748",2010-01-12,Tuesday,1500,1259,33.9748,-118.2608
+22.0,O,M,Wilshire,ARLINGTON                    AV,WASHINGTON                   BL,"-118.3177, 34.0399",2010-03-07,Sunday,1745,779,34.0399,-118.3177
+47.0,W,F,Van Nuys,WOODMAN                      AV,MAGNOLIA                     BL,"-118.4312, 34.1649",2010-09-18,Saturday,1925,964,34.1649,-118.4312
+62.0,H,F,Newton,SAN PEDRO,43RD,"-118.2715, 34.0057",2010-01-28,Thursday,645,1354,34.0057,-118.2715
+24.0,H,F,Van Nuys,WOODMAN                      AV,VALLEYHEART                  DR,"-118.4312, 34.1553",2010-04-11,Sunday,100,976,34.1553,-118.4312
+32.0,H,M,Mission,VAN NUYS                     BL,WOODMAN                      AV,"-118.4482, 34.2471",2010-11-02,Tuesday,1110,1958,34.2471,-118.4482
+24.0,B,F,Rampart,3RD                          ST,BOYLSTON                     AV,"-118.2578, 34.0568",2010-05-09,Sunday,140,249,34.0568,-118.2578
+39.0,H,M,Foothill,BRANFORD                     ST,HADDON                       AV,"-118.4116, 34.2421",2010-11-17,Wednesday,1715,1651,34.2421,-118.4116
+25.0,H,F,Devonshire,ETIWANDA                     AV,ROSCOE                       BL,"-118.5317, 34.2219",2010-03-17,Wednesday,1845,1794,34.2219,-118.5317
+57.0,O,M,N Hollywood,SHERMAN                      WY,BELLAIRE                     AV,"-118.4094, 34.2012",2010-06-29,Tuesday,1220,1512,34.2012,-118.4094
+36.0,W,F,Harbor,PACIFIC COAST                HY,BIXBY                        AV,"-118.2908, 33.791",2010-11-24,Wednesday,1505,532,33.791,-118.2908
+46.0,H,M,Southwest,FIGUEROA                     ST,MARTIN LUTHER KING JR        BL,"-118.2827, 34.0106",2010-02-24,Wednesday,1650,398,34.0106,-118.2827
+47.0,W,F,Harbor,WESTERN                      AV,WESTMONT                     DR,"-118.3116, 33.7631",2010-10-27,Wednesday,521,521,33.7631,-118.3116
+43.0,O,M,Mission,8400    CEDROS                       AV,,"-118.4535, 34.2231",2010-01-31,Sunday,2130,1984,34.2231,-118.4535
+29.0,W,M,Northeast,FIGUEROA,ARROYO GLEN,"-118.1862, 34.1136",2010-04-23,Friday,1800,1138,34.1136,-118.1862
+44.0,B,M,Harbor,18TH                         ST,MESA                         ST,"-118.2858, 33.7279",2010-06-15,Tuesday,345,567,33.7279,-118.2858
+72.0,H,F,N Hollywood,LAUREL CANYON                BL,VANOWEN                      ST,"-118.3965, 34.194",2010-08-12,Thursday,1905,1503,34.194,-118.3965
+33.0,W,M,Van Nuys,VENTURA                      BL,LEMONA                       AV,"-118.4596, 34.1527",2010-02-05,Friday,1425,985,34.1527,-118.4596
+39.0,B,F,Southeast,PACE                         AV,104TH                        ST,"-118.2529, 33.9424",2010-07-14,Wednesday,1220,1835,33.9424,-118.2529
+33.0,W,F,N Hollywood,VENTURA                      BL,RIDGEMOOR                    DR,"-118.3817, 34.1397",2010-01-03,Sunday,130,1595,34.1397,-118.3817
+38.0,W,M,Van Nuys,SEPULVEDA,BURBANK,"-118.4662, 34.1721",2010-09-15,Wednesday,1720,952,34.1721,-118.4662
+24.0,H,F,Foothill,LAUREL CANYON                BL,ROSCOE                       BL,"-118.3965, 34.2217",2010-02-05,Friday,1745,1691,34.2217,-118.3965
+29.0,H,M,West LA,SUNSET                       BL,THURSTON                     AV,"-118.4631, 34.0737",2010-02-27,Saturday,840,815,34.0737,-118.4631
+17.0,H,M,Northeast,PIEDMONT                     ST,SUMTER                       DR,"-118.1884, 34.1134",2010-08-19,Thursday,2115,1138,34.1134,-118.1884
+56.0,H,M,Harbor,254TH                        ST,WESTERN                      AV,"-118.3076, 33.7938",2010-12-17,Friday,1300,511,33.7938,-118.3076
+46.0,B,M,Rampart,VERMONT                      AV,SANTA MONICA                 BL,"-118.2917, 34.0909",2010-07-20,Tuesday,1230,201,34.0909,-118.2917
+21.0,H,M,Southwest,MARTIN LUTHER KING JR        BL,NORMANDIE                    AV,"-118.3002, 34.0109",2010-02-03,Wednesday,1530,395,34.0109,-118.3002
+60.0,A,F,Foothill,TUXFORD,GLENOAKS,"-118.3713, 34.2345",2010-03-12,Friday,1145,1675,34.2345,-118.3713
+30.0,W,M,77th Street,98TH                         ST,WESTERN                      AV,"-118.309, 33.947",2010-07-16,Friday,1410,1283,33.947,-118.309
+25.0,H,F,Newton,E  VERNON                       AV,HOOPER                       AV,"-118.2521, 34.0039",2010-12-04,Saturday,1410,1346,34.0039,-118.2521
+40.0,H,M,Wilshire,VENICE                       BL,CRENSHAW                     BL,"-118.3284, 34.0447",2010-06-03,Thursday,720,752,34.0447,-118.3284
+44.0,B,M,Southwest,42ND                         PL,WESTERN                      AV,"-118.3089, 34.0064",2010-09-12,Sunday,25,395,34.0064,-118.3089
+12.0,H,F,Newton,MAIN,57TH,"-118.2739, 33.9907",2010-10-29,Friday,1400,1371,33.9907,-118.2739
+26.0,A,M,Olympic,WILSHIRE                     BL,VERMONT                      AV,"-118.2916, 34.0618",2010-11-25,Thursday,200,2038,34.0618,-118.2916
+69.0,W,M,West LA,ROBERTSON,PICO,"-118.3838, 34.0543",2010-10-16,Saturday,1135,859,34.0543,-118.3838
+28.0,H,M,Mission,MCLAUGHLIN                   AV,MATTESON,"-118.4215, 34.0048",2010-07-10,Saturday,1900,1935,34.0048,-118.4215
+70.0,H,M,Newton,15TH                         ST,ALAMEDA                      ST,"-118.2393, 34.0224",2010-01-14,Thursday,1050,1309,34.0224,-118.2393
+66.0,H,M,Southwest,JEFFERSON                    BL,7TH                          AV,"-118.3248, 34.0256",2010-11-21,Sunday,1250,354,34.0256,-118.3248
+20.0,H,F,Olympic,TEMPLE                       ST,BEVERLY                      BL,"-118.2878, 34.0728",2010-07-26,Monday,1415,2019,34.0728,-118.2878
+34.0,O,M,N Hollywood,CAHUENGA                     BL,LANKERSHIM                   BL,"-118.3633, 34.1372",2010-07-23,Friday,1615,1599,34.1372,-118.3633
+40.0,H,M,Hollenbeck,VALLEY,BOCA,"-118.1841, 34.0626",2010-12-08,Wednesday,1750,437,34.0626,-118.1841
+35.0,U,M,Southwest,MARLTON                      AV,SANTOS TOMAS                 DR,"-118.3403, 34.0126",2010-05-27,Thursday,1100,363,34.0126,-118.3403
+59.0,H,F,Northeast,LEXINGTON,VERMONT,"-118.2918, 34.0935",2010-09-18,Saturday,2025,1162,34.0935,-118.2918
+23.0,H,M,Hollenbeck,ALHAMBRA                     AV,LOMBARDY                     AV,"-118.1724, 34.0736",2010-07-16,Friday,1520,438,34.0736,-118.1724
+45.0,O,M,Northeast,TOWNSEND,YOSEMITE,"-118.2015, 34.1338",2010-09-26,Sunday,1240,1119,34.1338,-118.2015
+48.0,O,F,Topanga,SATICOY                      ST,CANOGA,"-118.5975, 34.2083",2010-01-29,Friday,1500,2136,34.2083,-118.5975
+23.0,B,F,77th Street,53RD,DENKER,"-118.3046, 33.9942",2010-09-18,Saturday,930,1215,33.9942,-118.3046
+18.0,W,M,Devonshire,WOODLEY,SAN FERNANDO MISSION,"-118.4847, 34.2719",2010-10-01,Friday,735,1738,34.2719,-118.4847
+21.0,B,F,Southeast,111TH                        PL,BROADWAY,"-118.2781, 33.9339",2010-05-17,Monday,2105,1842,33.9339,-118.2781
+53.0,A,M,Olympic,NORMANDIE                    AV,3RD                          ST,"-118.3004, 34.069",2010-05-16,Sunday,245,2029,34.069,-118.3004
+61.0,H,M,Hollywood,6600    SANTA MONICA                 BL,,"-118.3332, 34.0907",2010-02-24,Wednesday,1445,665,34.0907,-118.3332
+49.0,O,M,Van Nuys,HAZELTINE                    AV,BURBANK                      BL,"-118.44, 34.1721",2010-06-17,Thursday,1505,946,34.1721,-118.44
+26.0,W,M,Devonshire,SIGNATURE,EL ORO,"-118.5029, 34.2893",2010-11-26,Friday,2050,1716,34.2893,-118.5029
+56.0,W,F,Van Nuys,WOODMAN                      AV,101 FRWY,"-118.4312, 34.1557",2010-08-29,Sunday,2215,989,34.1557,-118.4312
+99.0,W,M,Harbor,ANAHEIM                      ST,ALAMEDA                      AV,"-118.2452, 33.7809",2010-08-12,Thursday,840,529,33.7809,-118.2452
+59.0,B,M,Mission,FOOTHILL                     BL,SAYRE                        ST,"-118.4373, 34.3129",2010-11-25,Thursday,2000,1917,34.3129,-118.4373
+33.0,W,F,West Valley,VANOWEN,RESEDA                       BL,"-118.536, 34.1939",2010-08-22,Sunday,2230,1024,34.1939,-118.536
+89.0,W,M,Wilshire,PICO                         BL,CRESCENT HEIGHTS             BL,"-118.3721, 34.0526",2010-11-29,Monday,1400,752,34.0526,-118.3721
+31.0,W,F,Hollywood,HOLLYWOOD                    BL,POINSETTIA                   PL,"-118.3478, 34.1016",2010-12-20,Monday,1110,643,34.1016,-118.3478
+44.0,A,M,Rampart,OCCIDENTAL                   BL,COUNCIL                      ST,"-118.2781, 34.0729",2010-07-14,Wednesday,1925,231,34.0729,-118.2781
+70.0,O,F,Topanga,SHERMAN,OWENSMOUTH,"-118.6016, 34.201",2010-10-01,Friday,650,2146,34.201,-118.6016
+32.0,H,F,Foothill,FOOTHILL                     BL,OSBORNE                      ST,"-118.3938, 34.2736",2010-05-17,Monday,1340,1634,34.2736,-118.3938
+35.0,H,M,Newton,48TH,SAN PEDRO,"-118.2696, 33.9998",2010-03-06,Saturday,1730,1362,33.9998,-118.2696
+53.0,H,F,Topanga,ROSCOE                       BL,DE SOTO                      AV,"-118.5885, 34.22",2010-08-28,Saturday,2215,2107,34.22,-118.5885
+35.0,H,M,Mission,OLIVE VIEW                   DR,COBALT                       ST,"-118.4508, 34.3241",2010-05-10,Monday,720,1902,34.3241,-118.4508
+56.0,H,M,Harbor,E                            ST,BAYVIEW                      AV,"-118.2678, 33.7739",2010-01-11,Monday,300,525,33.7739,-118.2678
+32.0,W,M,Pacific,MOTOR                        AV,PALMS                        BL,"-118.4074, 34.0249",2010-10-14,Thursday,1900,1406,34.0249,-118.4074
+41.0,H,F,Topanga,TOPANGA CANYON               BL,NORDHOFF                     ST,"-118.605, 34.2355",2010-11-22,Monday,1315,2103,34.2355,-118.605
+31.0,B,M,West LA,NATIONAL                     BL,VENICE                       BL,"-118.3881, 34.0294",2010-07-25,Sunday,2330,899,34.0294,-118.3881
+50.0,H,M,Foothill,STAGG                        ST,WHITSETT                     AV,"-118.4053, 34.2121",2010-05-09,Sunday,1330,1693,34.2121,-118.4053
+51.0,B,F,77th Street,5700 S  NORMANDIE                    AV,,"-118.3002, 33.9907",2010-10-28,Thursday,1830,1215,33.9907,-118.3002
+55.0,W,M,Wilshire,BEVERLY,ORANGE,"-118.3419, 34.0762",2010-03-03,Wednesday,2320,727,34.0762,-118.3419
+38.0,W,M,Hollywood,MELROSE                      AV,VINE                         ST,"-118.3266, 34.0835",2010-05-09,Sunday,1710,676,34.0835,-118.3266
+59.0,B,M,Southwest,LA BREA                      AV,ADAMS                        BL,"-118.3519, 34.0325",2010-03-08,Monday,800,331,34.0325,-118.3519
+23.0,H,F,Harbor,11TH                         ST,PALOS VERDES                 ST,"-118.2814, 33.7342",2010-11-23,Tuesday,1555,566,33.7342,-118.2814
+56.0,O,M,Topanga,CANOGA                       AV,SCHOENBORN                   ST,"-118.5976, 34.221",2010-11-02,Tuesday,1245,2115,34.221,-118.5976
+33.0,W,F,Northeast,SUNSET,VIRGIL,"-118.2862, 34.0976",2010-10-05,Tuesday,1745,1152,34.0976,-118.2862
+31.0,H,F,Southwest,CRENSHAW                     BL,JEFFERSON                    BL,"-118.3351, 34.0256",2010-10-19,Tuesday,915,334,34.0256,-118.3351
+44.0,W,M,Topanga,TOPANGA CANYON               BL,DE LA GUERRA                 ST,"-118.6058, 34.1652",2010-01-27,Wednesday,1750,2185,34.1652,-118.6058
+41.0,H,F,N Hollywood,VICTORY                      BL,BELLINGHAM                   AV,"-118.3987, 34.1867",2010-12-13,Monday,1720,1524,34.1867,-118.3987
+69.0,W,M,Harbor,500 S  GAFFEY                       ST,,"-118.2923, 33.7397",2010-01-11,Monday,830,557,33.7397,-118.2923
+27.0,H,M,Rampart,TEMPLE                       ST,PARK VIEW                    ST,"-118.2719, 34.0716",2010-07-05,Monday,100,235,34.0716,-118.2719
+30.0,H,M,Devonshire,ROSCOE                       BL,ZELZAH                       AV,"-118.523, 34.2209",2010-04-18,Sunday,1940,1795,34.2209,-118.523
+53.0,W,F,Harbor,PACIFIC COAST                HY,NORMANDIE,"-118.2975, 33.7899",2010-07-15,Thursday,2055,513,33.7899,-118.2975
+47.0,W,F,Foothill,FOOTHILL                     BL,TUJUNGA CANYON               BL,"-118.2761, 34.2465",2010-04-20,Tuesday,950,1658,34.2465,-118.2761
+47.0,W,M,Pacific,WASHINGTON                   WY,ABBOT KINNEY                 BL,"-118.4598, 33.988",2010-02-25,Thursday,2200,1441,33.988,-118.4598
+39.0,H,M,Mission,CHATSWORTH                   ST,SEPULVEDA                    BL,"-118.4673, 34.2646",2010-04-22,Thursday,1150,1945,34.2646,-118.4673
+48.0,X,M,Pacific,S  WORLD                        WY,E  WEST                         WY,"-118.402, 33.943",2010-12-23,Thursday,1955,1414,33.943,-118.402
+32.0,H,F,West Valley,BECKFORD,VALERIO,"-118.5514, 34.2048",2010-12-12,Sunday,1700,1011,34.2048,-118.5514
+43.0,O,M,West LA,SUNSET                       BL,CHAUTAUQUA                   BL,"-118.5174, 34.0417",2010-06-14,Monday,830,802,34.0417,-118.5174
+22.0,H,M,Foothill,GLENOAKS,MONTFORD,"-118.4164, 34.2782",2010-01-19,Tuesday,1400,1612,34.2782,-118.4164
+28.0,W,M,77th Street,VERMONT                      AV,78TH                         ST,"-118.2914, 33.9688",2010-09-29,Wednesday,2120,1257,33.9688,-118.2914
+22.0,W,F,Foothill,FOOTHILL                     BL,PIERCE                       ST,"-118.4002, 34.2794",2010-02-12,Friday,905,1613,34.2794,-118.4002
+22.0,H,M,Topanga,OXNARD                       ST,OWENSMOUTH                   AV,"-118.6015, 34.1793",2010-09-19,Sunday,320,2177,34.1793,-118.6015
+30.0,H,M,Mission,POLK,WOODCOCK,"-118.4534, 34.3043",2010-05-17,Monday,30,1913,34.3043,-118.4534
+51.0,H,M,Devonshire,BALBOA                       BL,SUPERIOR                     ST,"-118.5024, 34.2466",2010-06-17,Thursday,810,1768,34.2466,-118.5024
+27.0,H,M,Olympic,WASHINGTON                   BL,BUDLONG                      AV,"-118.2962, 34.04",2010-08-13,Friday,300,2097,34.04,-118.2962
+41.0,H,F,Foothill,12000    BRANFORD                     ST,,"-118.3945, 34.2546",2010-10-26,Tuesday,730,1654,34.2546,-118.3945
+90.0,B,F,Southwest,MARTIN LUTHER KING           BL,HILLCREST                    DR,"-118.3441, 34.0163",2010-12-08,Wednesday,1530,362,34.0163,-118.3441
+24.0,B,M,Olympic,7TH                          ST,IROLO                        ST,"-118.3009, 34.0598",2010-11-28,Sunday,1745,2034,34.0598,-118.3009
+56.0,B,M,Southeast,112TH                        ST,CROESUS                      AV,"-118.2335, 33.9334",2010-10-20,Wednesday,1015,1849,33.9334,-118.2335
+63.0,W,M,Rampart,OLYMPIC,HOOVER,"-118.2842, 34.0524",2010-09-09,Thursday,1745,271,34.0524,-118.2842
+20.0,B,M,West Valley,SATICOY                      ST,TAMPA                        AV,"-118.5535, 34.2084",2010-06-16,Wednesday,1630,1011,34.2084,-118.5535
+42.0,H,M,Northeast,EDENHURST                    AV,GARDENSIDE                   LN,"-118.2642, 34.1218",2010-09-16,Thursday,20,1123,34.1218,-118.2642
+39.0,B,F,Wilshire,VICTORIA PARK                DR,WINDSOR                      BL,"-118.3306, 34.0472",2010-07-27,Tuesday,100,766,34.0472,-118.3306
+35.0,O,M,N Hollywood,LAUREL CANYON                BL,MULHOLLAND                   DR,"-118.3775, 34.1236",2010-12-17,Friday,1005,1591,34.1236,-118.3775
+43.0,H,F,N Hollywood,LANKERSHIM                   BL,SHERMAN                      WY,"-118.3878, 34.2012",2010-11-16,Tuesday,750,1515,34.2012,-118.3878
+43.0,B,M,N Hollywood,LANKERSHIM                   BL,BURBANK                      BL,"-118.379, 34.1722",2010-07-27,Tuesday,1245,1538,34.1722,-118.379
+17.0,W,F,Wilshire,SIERRA BONITA                AV,WARING                       AV,"-118.3543, 34.0854",2010-03-27,Saturday,1415,702,34.0854,-118.3543
+19.0,O,F,Wilshire,BEVERLY                      BL,LA CIENEGA                   BL,"-118.3766, 34.0761",2010-11-20,Saturday,1730,722,34.0761,-118.3766
+26.0,K,F,Wilshire,MULLEN                       AV,8TH                          ST,"-118.3308, 34.061",2010-10-06,Wednesday,2015,749,34.061,-118.3308
+36.0,W,M,Mission,NOBLE                        AV,RAYEN                        ST,"-118.4611, 34.2329",2010-12-07,Tuesday,1900,1972,34.2329,-118.4611
+36.0,H,F,Hollenbeck,2ND                          ST,EVERGREEN                    AV,"-118.2026, 34.0386",2010-10-29,Friday,805,468,34.0386,-118.2026
+41.0,H,M,Foothill,GLENOAKS                     BL,PEORIA                       ST,"-118.3776, 34.2405",2010-11-17,Wednesday,1245,1665,34.2405,-118.3776
+52.0,H,M,Hollenbeck,TOPAZ                        ST,PYRITES                      ST,"-118.191, 34.0835",2010-03-04,Thursday,2320,407,34.0835,-118.191
+53.0,W,M,West Valley,BALBOA                       BL,VANOWEN                      ST,"-118.5011, 34.1939",2010-06-22,Tuesday,1150,1028,34.1939,-118.5011
+21.0,W,M,Topanga,ERWIN                        ST,VARIEL                       AV,"-118.5928, 34.1829",2010-05-27,Thursday,1800,2158,34.1829,-118.5928
+37.0,W,M,Pacific,VENICE,TULLER,"-118.418, 34.0124",2010-01-17,Sunday,1645,1437,34.0124,-118.418
+21.0,H,M,Northeast,SANTA MONICA                 BL,NORMANDIE                    AV,"-118.3005, 34.0908",2010-05-31,Monday,1600,1161,34.0908,-118.3005
+44.0,O,F,Newton,100 W  52ND                         ST,,"-118.274, 33.9956",2010-02-21,Sunday,300,1361,33.9956,-118.274
+37.0,O,M,N Hollywood,ETHEL                        AV,SATICOY                      ST,"-118.4178, 34.2089",2010-01-24,Sunday,2000,1501,34.2089,-118.4178
+25.0,B,F,Harbor,13TH                         ST,PALOS VERDES                 ST,"-118.2814, 33.7324",2010-09-12,Sunday,1330,566,33.7324,-118.2814
+60.0,H,F,Olympic,NEW ENGLAND                  ST,WASHINGTON                   BL,"-118.2877, 34.04",2010-03-21,Sunday,1800,2088,34.04,-118.2877
+47.0,A,M,Rampart,RAMPART                      BL,TEMPLE                       ST,"-118.2748, 34.0725",2010-06-22,Tuesday,820,233,34.0725,-118.2748
+24.0,H,F,Northeast,GLENDALE                     BL,EARL                         ST,"-118.2592, 34.0962",2010-03-28,Sunday,1950,1144,34.0962,-118.2592
+38.0,B,F,Southwest,48TH                         ST,8TH                          AV,"-118.3258, 34",2010-10-16,Saturday,1145,392,34,-118.3258
+21.0,H,M,Wilshire,2ND,POINSETTIA,"-118.3486, 34.071",2010-03-07,Sunday,1500,726,34.071,-118.3486
+50.0,W,M,Wilshire,BEVERLY,LAUREL,"-118.3648, 34.0761",2010-02-01,Monday,1930,723,34.0761,-118.3648
+40.0,B,F,Southwest,WEST                         BL,ADAMS                        BL,"-118.3417, 34.0326",2010-01-27,Wednesday,1605,332,34.0326,-118.3417
+53.0,A,F,Devonshire,GOYA                         ST,VAN GOGH                     ST,"-118.5046, 34.3045",2010-02-16,Tuesday,800,1705,34.3045,-118.5046
+27.0,W,F,Hollywood,SUNSET                       BL,CAHUENGA                     BL,"-118.3295, 34.098",2010-05-01,Saturday,130,666,34.098,-118.3295
+57.0,H,M,Van Nuys,HAZELTINE                    AV,HART                         ST,"-118.44, 34.1976",2010-03-30,Tuesday,1450,915,34.1976,-118.44
+40.0,B,M,Olympic,HOOVER                       ST,WILSHIRE                     BL,"-118.2842, 34.0617",2010-02-06,Saturday,300,2039,34.0617,-118.2842
+19.0,B,M,Southeast,93RD                         ST,BROADWAY,"-118.2781, 33.9519",2010-10-08,Friday,1925,1802,33.9519,-118.2781
+56.0,H,M,Mission,HUBBARD                      ST,GLADSTONE                    AV,"-118.4273, 34.3101",2010-04-17,Saturday,1240,1907,34.3101,-118.4273
+23.0,O,M,Southwest,30TH                         ST,HOOVER                       ST,"-118.284, 34.0274",2010-06-29,Tuesday,945,328,34.0274,-118.284
+61.0,W,M,Rampart,TOBERMAN                     ST,PICO                         BL,"-118.2761, 34.0438",2010-07-15,Thursday,1930,299,34.0438,-118.2761
+26.0,O,F,West Valley,VENTURA                      BL,BECKFORD                     AV,"-118.5512, 34.1726",2010-09-29,Wednesday,1520,1061,34.1726,-118.5512
+42.0,H,M,Newton,AVALON                       BL,57TH                         ST,"-118.2652, 33.9907",2010-04-23,Friday,820,1372,33.9907,-118.2652
+40.0,O,F,N Hollywood,ERWIN                        ST,COLDWATER CA                 BL,"-118.4095, 34.1849",2010-10-27,Wednesday,2010,1523,34.1849,-118.4095
+56.0,W,M,West Valley,HATTERAS,TAMPA,"-118.5535, 34.1758",2010-11-05,Friday,1610,1041,34.1758,-118.5535
+31.0,H,F,Mission,BRANFORD                     ST,SHARP                        AV,"-118.4167, 34.2384",2010-02-03,Wednesday,750,1969,34.2384,-118.4167
+29.0,H,F,Southeast,IMPERIAL                     HY,GRAND                        AV,"-118.2817, 33.931",2010-01-16,Saturday,230,1842,33.931,-118.2817
+18.0,B,F,Southeast,SAN PEDRO                    ST,MANCHESTER                   AV,"-118.2695, 33.9601",2010-06-18,Friday,1515,1803,33.9601,-118.2695
+30.0,W,M,Hollenbeck,SOTO                         ST,MULTNOMAH                    ST,"-118.1952, 34.069",2010-11-30,Tuesday,1430,424,34.069,-118.1952
+33.0,H,F,Rampart,TEMPLE                       ST,ROSELAKE                     AV,"-118.2701, 34.071",2010-02-28,Sunday,1750,235,34.071,-118.2701
+58.0,W,M,Hollywood,VINE                         ST,FRANKLIN                     BL,"-118.3267, 34.1052",2010-09-11,Saturday,1330,637,34.1052,-118.3267
+33.0,H,M,Newton,AVALON,VERNON,"-118.2652, 34.0039",2010-11-06,Saturday,1500,1353,34.0039,-118.2652
+37.0,B,F,77th Street,MANCHESTER                   AV,HOOVER                       ST,"-118.287, 33.9601",2010-02-12,Friday,605,1273,33.9601,-118.287
+31.0,B,M,Southwest,FIGUEROA                     ST,42ND                         ST,"-118.2827, 34.0074",2010-08-28,Saturday,1450,399,34.0074,-118.2827
+47.0,W,M,Hollenbeck,MISSION                      RD,GOLDEN STATE                 FY,"-118.2148, 34.0603",2010-09-17,Friday,1350,441,34.0603,-118.2148
+44.0,H,M,Harbor,SANTA CRUZ                   ST,S  PACIFIC                      AV,"-118.2879, 33.7442",2010-01-31,Sunday,1235,557,33.7442,-118.2879
+33.0,B,M,Northeast,FIGUEROA,AVENUE 22,"-118.2239, 34.0827",2010-04-19,Monday,1115,1177,34.0827,-118.2239
+45.0,B,M,Central,6TH                          ST,GLADYS                       AV,"-118.2413, 34.0398",2010-12-13,Monday,1520,157,34.0398,-118.2413
+83.0,B,M,77th Street,55TH,FIGUEROA,"-118.2827, 33.9924",2010-08-05,Thursday,1840,1218,33.9924,-118.2827
+38.0,H,F,West Valley,TAMPA,CANTARA,"-118.5536, 34.2193",2010-10-04,Monday,800,1001,34.2193,-118.5536
+40.0,H,M,Northeast,S  AVENUE 43,PASADENA                     FY,"-118.2063, 34.0933",2010-04-25,Sunday,1400,1179,34.0933,-118.2063
+39.0,B,M,Hollenbeck,NOAKES                       ST,CALZONA                      ST,"-118.1965, 34.0141",2010-11-17,Wednesday,1000,499,34.0141,-118.1965
+40.0,W,M,Van Nuys,HAZELTINE,RIVERSIDE,"-118.44, 34.1576",2010-08-18,Wednesday,1200,979,34.1576,-118.44
+38.0,W,M,Harbor,HAMILTON                     AV,CABRILLO                     AV,"-118.2946, 33.7209",2010-01-02,Saturday,1405,584,33.7209,-118.2946
+29.0,B,M,Hollywood,HIGHLAND                     AV,HAWTHORN                     AV,"-118.3387, 34.1006",2010-01-27,Wednesday,1920,645,34.1006,-118.3387
+40.0,O,F,West Valley,RESEDA                       BL,STRATHERN                    ST,"-118.5361, 34.2157",2010-06-24,Thursday,300,1004,34.2157,-118.5361
+17.0,H,M,N Hollywood,SHERMAN                      WY,LANKERSHIM                   BL,"-118.3878, 34.2012",2010-12-20,Monday,2010,1504,34.2012,-118.3878
+19.0,H,F,West LA,SANTA MONICA                 BL,COTNER                       AV,"-118.4461, 34.0471",2010-01-27,Wednesday,2330,854,34.0471,-118.4461
+40.0,O,M,Mission,CHATSWORTH,SEPULVEDA,"-118.4673, 34.2646",2010-08-26,Thursday,545,1955,34.2646,-118.4673
+17.0,H,M,Mission,RINALDI                      ST,LEV                          AV,"-118.4612, 34.279",2010-08-02,Monday,1100,1931,34.279,-118.4612
+39.0,H,F,Rampart,UNION                        AV,SHATTO                       ST,"-118.2696, 34.0562",2010-07-10,Saturday,1330,257,34.0562,-118.2696
+42.0,H,F,Topanga,VALLEY CIRCLE,BELL CANYON,"-118.6458, 34.213",2010-11-08,Monday,1450,2111,34.213,-118.6458
+44.0,H,F,N Hollywood,VICTORY                      BL,TUJUNGA                      AV,"-118.379, 34.1867",2010-02-26,Friday,430,1527,34.1867,-118.379
+55.0,A,M,Olympic,8TH                          ST,HOOVER                       ST,"-118.2842, 34.0577",2010-05-24,Monday,650,2039,34.0577,-118.2842
+42.0,H,M,Mission,VAN NUYS                     BL,ARMINTA                      ST,"-118.4488, 34.2143",2010-12-31,Friday,1430,1995,34.2143,-118.4488
+42.0,H,M,Topanga,VALLEY CIRCLE                BL,WOOLSEY CANYON               RD,"-118.6426, 34.2345",2010-02-15,Monday,625,2102,34.2345,-118.6426
+62.0,O,M,Newton,11TH                         ST,CENTRAL                      AV,"-118.2448, 34.031",2010-04-10,Saturday,920,1317,34.031,-118.2448
+30.0,H,F,Newton,BROADWAY,21ST                         ST,"-118.2671, 34.0294",2010-01-20,Wednesday,1115,1321,34.0294,-118.2671
+36.0,H,M,77th Street,VAN NESS,SLAUSON,"-118.3171, 33.9891",2010-09-28,Tuesday,1705,1211,33.9891,-118.3171
+67.0,W,F,Mission,NORDHOFF                     ST,SEPULVEDA                    BL,"-118.4676, 34.2355",2010-08-13,Friday,855,1971,34.2355,-118.4676
+33.0,A,M,Newton,WASHINGTON                   BL,ALAMEDA                      ST,"-118.2333, 34.019",2010-10-21,Thursday,1130,1309,34.019,-118.2333
+16.0,H,F,Hollenbeck,LORENA                       ST,LANFRANCO                    ST,"-118.1985, 34.0316",2010-01-14,Thursday,1530,469,34.0316,-118.1985
+24.0,B,F,Southeast,COMPTON                      AV,111TH                        ST,"-118.2463, 33.9348",2010-04-28,Wednesday,1420,1837,33.9348,-118.2463
+46.0,O,M,Pacific,VENICE,DURANGO,"-118.3933, 34.0266",2010-08-07,Saturday,1915,1409,34.0266,-118.3933
+23.0,H,F,Northeast,S  AVENUE 52,S  LONGFELLOW,"-118.1973, 34.1039",2010-09-20,Monday,400,1169,34.1039,-118.1973
+30.0,B,F,Harbor,NORMANDIE                    AV,190TH                        ST,"-118.2992, 33.8583",2010-06-19,Saturday,1720,504,33.8583,-118.2992
+46.0,W,F,Mission,LANGDON,DEVONSHIRE,"-118.4696, 34.2573",2010-01-22,Friday,1515,1952,34.2573,-118.4696
+23.0,W,F,Rampart,BEAUDRY,SUNSET,"-118.2492, 34.0652",2010-07-08,Thursday,2050,219,34.0652,-118.2492
+30.0,B,F,Pacific,GLENCOE,MAXELLA,"-118.4403, 33.9873",2010-04-06,Tuesday,1845,1453,33.9873,-118.4403
+60.0,H,M,West Valley,VICTORY                      BL,WILBUR                       AV,"-118.5448, 34.1866",2010-01-04,Monday,2115,1033,34.1866,-118.5448
+65.0,W,F,N Hollywood,RIVERSIDE,ENSIGN,"-118.3712, 34.1525",2010-04-21,Wednesday,1515,1566,34.1525,-118.3712
+32.0,W,F,Newton,35 TH                        ST,NAOMI                        AV,"-118.2719, 34.0223",2010-01-21,Thursday,1725,1331,34.0223,-118.2719
+34.0,H,M,Devonshire,PLUMMER                      ST,RESEDA                       BL,"-118.5361, 34.2428",2010-12-20,Monday,2350,1767,34.2428,-118.5361
+53.0,H,F,Mission,ALLOTT                       AV,LULL                         ST,"-118.4276, 34.2104",2010-09-04,Saturday,1830,1999,34.2104,-118.4276
+35.0,B,M,Hollenbeck,WASHINGTON,SOTO,"-118.22, 34.0173",2010-07-31,Saturday,1730,497,34.0173,-118.22
+61.0,B,F,Southeast,ANZAC                        AV,97TH                         ST,"-118.2374, 33.9482",2010-11-05,Friday,1845,1827,33.9482,-118.2374
+25.0,O,F,Devonshire,LINDLEY,PARTHENIA,"-118.5273, 34.2287",2010-03-22,Monday,1750,1795,34.2287,-118.5273
+39.0,O,M,Hollywood,SUNSET                       BL,CRESCENT HEIGHTS             BL,"-118.3656, 34.098",2010-04-01,Thursday,840,632,34.098,-118.3656
+44.0,W,M,Devonshire,THE OLD                      RD,SUNSHINE CANYON              RD,"-118.5202, 34.313",2010-03-16,Tuesday,830,1705,34.313,-118.5202
+22.0,H,M,Northeast,SUNSET,NORMANDIE,"-118.3005, 34.0981",2010-12-11,Saturday,1150,1151,34.0981,-118.3005
+22.0,W,M,Hollywood,CHEROKEE                     AV,SELMA                        AV,"-118.335, 34.1007",2010-01-08,Friday,155,646,34.1007,-118.335
+25.0,W,M,Van Nuys,VAN NUYS                     BL,BURBANK                      BL,"-118.4485, 34.1721",2010-09-18,Saturday,1655,943,34.1721,-118.4485
+58.0,O,F,Topanga,VICTORY,FALLBROOK,"-118.6234, 34.1864",2010-04-11,Sunday,1700,2143,34.1864,-118.6234
+55.0,H,M,Rampart,WILSHIRE                     BL,UNION                        AV,"-118.2702, 34.0554",2010-05-19,Wednesday,1230,257,34.0554,-118.2702
+25.0,W,M,Wilshire,LA CIENEGA                   BL,GUTHRIE                      AV,"-118.3764, 34.0404",2010-03-04,Thursday,1210,782,34.0404,-118.3764
+40.0,H,M,Hollenbeck,UNION PACIFIC                AV,CALADA                       DR,"-118.1965, 34.0165",2010-07-17,Saturday,1800,499,34.0165,-118.1965
+53.0,B,F,Southwest,JEFFERSON,12TH                         AV,"-118.3317, 34.0256",2010-09-23,Thursday,1745,334,34.0256,-118.3317
+29.0,W,M,West LA,GOSHEN                       AV,GRANVILLE                    AV,"-118.4633, 34.0491",2010-06-17,Thursday,2115,832,34.0491,-118.4633
+65.0,H,F,Topanga,VARIEL                       AV,LULL                         ST,"-118.5929, 34.2094",2010-09-18,Saturday,2000,2126,34.2094,-118.5929
+50.0,H,F,Olympic,NORMANDIE,11TH                         ST,"-118.3, 34.0509",2010-01-10,Sunday,2222,2055,34.0509,-118.3
+19.0,H,F,Mission,POLK,FOOTHILL,"-118.4408, 34.3156",2010-10-07,Thursday,750,1904,34.3156,-118.4408
+57.0,W,F,Wilshire,MARTEL                       AV,MELROSE                      AV,"-118.3511, 34.0836",2010-06-30,Wednesday,1540,702,34.0836,-118.3511
+60.0,H,F,Northeast,FIGUEROA                     ST,AVENUE 60,"-118.1891, 34.1114",2010-08-17,Tuesday,1145,1145,34.1114,-118.1891
+30.0,H,F,Newton,37TH,WOODLAWN,"-118.2728, 34.0149",2010-08-05,Thursday,810,1342,34.0149,-118.2728
+62.0,H,M,Southeast,MCKINLEY,111TH,"-118.2608, 33.9352",2010-02-24,Wednesday,1500,1844,33.9352,-118.2608
+25.0,H,M,Northeast,3200    CANYON                       DR,,"-118.3107, 34.1293",2010-03-19,Friday,1230,1101,34.1293,-118.3107
+29.0,H,M,Devonshire,LASSEN                       ST,OWENSMOUTH                   AV,"-118.6017, 34.25",2010-09-21,Tuesday,1035,1751,34.25,-118.6017
+27.0,W,F,Wilshire,BEVERLY                      BL,ORLANDO                      AV,"-118.3731, 34.0761",2010-06-28,Monday,1050,711,34.0761,-118.3731
+55.0,W,F,West Valley,VENTURA                      BL,WHITE OAK                    AV,"-118.5186, 34.1625",2010-01-20,Wednesday,1515,1065,34.1625,-118.5186
+49.0,H,M,Southeast,IMPERIAL                     HY,AVALON                       BL,"-118.2652, 33.931",2010-02-28,Sunday,1000,1844,33.931,-118.2652
+61.0,H,F,Northeast,AVENUE 26,HARBOR                       FY,"-118.2174, 34.0862",2010-07-16,Friday,1615,1189,34.0862,-118.2174
+38.0,H,M,Devonshire,SUPERIOR                     ST,CORBIN                       AV,"-118.5623, 34.2464",2010-05-30,Sunday,905,1764,34.2464,-118.5623
+23.0,H,M,Newton,VERNON,STAUNTON,"-118.242, 34.0039",2010-03-09,Tuesday,1730,1367,34.0039,-118.242
+51.0,W,M,77th Street,NORMANDIE                    AV,54TH                         ST,"-118.3002, 33.9932",2010-12-26,Sunday,930,1215,33.9932,-118.3002
+33.0,O,F,Wilshire,LA BREA                      AV,6TH                          ST,"-118.344, 34.0649",2010-04-21,Wednesday,850,706,34.0649,-118.344
+44.0,W,M,Newton,FLORENCE                     AV,SAN PEDRO                    ST,"-118.2695, 33.9747",2010-05-24,Monday,1737,1395,33.9747,-118.2695
+22.0,H,F,Rampart,N  ALVARADO                     ST,HOLLYWOOD                    FY,"-118.2666, 34.0724",2010-09-20,Monday,2210,216,34.0724,-118.2666
+26.0,W,F,West LA,SHERBOURNE,PICO,"-118.3796, 34.054",2010-05-29,Saturday,1400,849,34.054,-118.3796
+31.0,W,M,Pacific,BROOKS                       AV,LINCOLN                      BL,"-118.4626, 33.9988",2010-07-17,Saturday,1350,1414,33.9988,-118.4626
+21.0,W,F,Hollywood,GRACE                        AV,FRANKLIN                     AV,"-118.3321, 34.1053",2010-04-10,Saturday,200,636,34.1053,-118.3321
+31.0,W,M,Pacific,MOTOR                        AV,VENICE                       BL,"-118.4039, 34.0204",2010-03-10,Wednesday,200,1407,34.0204,-118.4039
+33.0,H,F,77th Street,SLAUSON                      AV,GRAMERCY                     PL,"-118.3139, 33.9891",2010-04-29,Thursday,815,1213,33.9891,-118.3139
+63.0,B,M,Olympic,ST ANDREWS                   PL,MELROSE                      AV,"-118.3112, 34.0835",2010-04-27,Tuesday,830,2002,34.0835,-118.3112
+47.0,B,M,Southeast,90TH                         ST,HOOVER                       ST,"-118.2869, 33.9551",2010-09-23,Thursday,855,1801,33.9551,-118.2869
+50.0,O,F,Pacific,SUPERIOR                     AV,VENICE                       BL,"-118.4522, 33.9945",2010-05-31,Monday,1200,1433,33.9945,-118.4522
+25.0,A,M,Hollywood,SANTA MONICA                 BL,MC CADDEN                    ST,"-118.3374, 34.0907",2010-06-06,Sunday,300,646,34.0907,-118.3374
+47.0,H,F,Hollywood,MELROSE                      AV,NORMANDIE                    AV,"-118.3016, 34.0836",2010-09-12,Sunday,1700,678,34.0836,-118.3016
+73.0,A,M,Southeast,11200 S  FIGUEROA                     ST,,"-118.2826, 33.9329",2010-11-06,Saturday,1030,1841,33.9329,-118.2826
+40.0,B,F,Pacific,MANCHESTER                   BL,BELLANCA                     AV,"-118.3805, 33.9599",2010-06-09,Wednesday,1925,1488,33.9599,-118.3805
+47.0,W,M,Wilshire,CRESCENT HEIGHTS             BL,3RD                          ST,"-118.3658, 34.0721",2010-02-19,Friday,2010,723,34.0721,-118.3658
+20.0,H,F,Rampart,ALVARADO                     ST,JAMES M WOOD                 BL,"-118.2798, 34.0517",2010-06-26,Saturday,1805,275,34.0517,-118.2798
+30.0,H,M,Rampart,VIRGIL                       AV,MARATHON                     ST,"-118.2868, 34.0846",2010-05-20,Thursday,1050,203,34.0846,-118.2868
+46.0,H,F,Southeast,92ND                         ST,MAIN                         ST,"-118.2739, 33.9529",2010-07-09,Friday,815,1802,33.9529,-118.2739
+20.0,W,F,Foothill,ROSCOE,WEBB,"-118.393, 34.2216",2010-10-04,Monday,1240,1684,34.2216,-118.393
+35.0,W,F,West LA,OVERLAND                     AV,NATIONAL                     BL,"-118.4176, 34.0325",2010-02-09,Tuesday,1330,893,34.0325,-118.4176
+21.0,O,F,West LA,WESTWOOD,OLYMPIC,"-118.4317, 34.0439",2010-05-12,Wednesday,2040,847,34.0439,-118.4317
+45.0,W,M,Central,5TH                          ST,WALL                         ST,"-118.2458, 34.0449",2010-04-05,Monday,2205,155,34.0449,-118.2458
+20.0,H,M,Olympic,MELROSE                      AV,PLYMOUTH                     AV,"-118.3207, 34.0835",2010-10-27,Wednesday,1525,2001,34.0835,-118.3207
+56.0,B,F,Rampart,6TH                          ST,WITMER                       ST,"-118.2656, 34.0555",2010-12-17,Friday,1545,257,34.0555,-118.2656
+56.0,W,M,Hollenbeck,ALHAMBRA,HOLLISTER                    AV,"-118.1681, 34.0771",2010-03-31,Wednesday,1540,438,34.0771,-118.1681
+50.0,O,M,Newton,FLORENCE,MAIN,"-118.2739, 33.9747",2010-05-24,Monday,1700,1393,33.9747,-118.2739
+27.0,W,M,Central,5TH                          ST,HILL                         ST,"-118.2519, 34.0489",2010-05-11,Tuesday,1540,152,34.0489,-118.2519
+51.0,W,M,N Hollywood,LAUREL CANYON,VENTURA,"-118.396, 34.1456",2010-01-04,Monday,1245,1583,34.1456,-118.396
+42.0,H,M,Rampart,ALVARADO                     ST,CLINTON                      AV,"-118.2654, 34.0745",2010-01-30,Saturday,1920,216,34.0745,-118.2654
+29.0,H,F,Hollenbeck,SOTO,WHITTIER,"-118.2157, 34.0344",2010-11-04,Thursday,1635,473,34.0344,-118.2157
+67.0,W,F,N Hollywood,LAUREL CANYON                BL,LA MAIDA                     ST,"-118.3965, 34.1585",2010-04-10,Saturday,1210,1553,34.1585,-118.3965
+54.0,B,M,Wilshire,BEVERLY                      BL,SYCAMORE                     AV,"-118.343, 34.0762",2010-02-22,Monday,1100,717,34.0762,-118.343
+37.0,H,M,Topanga,GAULT                        ST,OWENSMOUTH                   AV,"-118.6016, 34.1992",2010-12-06,Monday,1915,2146,34.1992,-118.6016
+43.0,W,F,N Hollywood,TUJUNGA                      AV,VICTORY                      BL,"-118.379, 34.1867",2010-02-28,Sunday,1240,1527,34.1867,-118.379
+55.0,B,M,Rampart,12TH                         ST,LAKE                         ST,"-118.2828, 34.0493",2010-11-28,Sunday,800,281,34.0493,-118.2828
+26.0,B,F,Rampart,OLYMPIC                      BL,UNION                        AV,"-118.2742, 34.0492",2010-07-16,Friday,945,279,34.0492,-118.2742
+15.0,H,F,Hollywood,HOLLYWOOD,HIGHLAND,"-118.3387, 34.1016",2010-04-13,Tuesday,900,666,34.1016,-118.3387
+33.0,B,M,Newton,WASHINGTON                   BL,COMPTON                      AV,"-118.2432, 34.0207",2010-12-17,Friday,1230,1317,34.0207,-118.2432
+21.0,W,M,West Valley,TAMPA                        AV,VICTORY                      BL,"-118.5535, 34.1866",2010-02-17,Wednesday,1315,1033,34.1866,-118.5535
+35.0,W,M,Northeast,LAMBETH                      ST,LOS FELIZ                    BL,"-118.2738, 34.1177",2010-12-03,Friday,1700,1122,34.1177,-118.2738
+49.0,W,M,N Hollywood,VINELAND,BURBANK,"-118.3703, 34.1722",2010-12-05,Sunday,1920,1539,34.1722,-118.3703
+43.0,H,F,Southeast,111TH                        ST,CENTRAL,"-118.2502, 33.9323",2010-04-29,Thursday,1540,1846,33.9323,-118.2502
+30.0,H,M,Pacific,LA CIENEGA                   BL,CENTURY                      BL,"-118.3701, 33.9454",2010-03-26,Friday,805,1498,33.9454,-118.3701
+29.0,B,M,Southwest,CLYDE                        AV,ADAMS                        BL,"-118.3677, 34.0325",2010-10-08,Friday,1710,311,34.0325,-118.3677
+54.0,O,M,Newton,SAN JULIAN                   AV,12TH                         ST,"-118.2543, 34.0344",2010-01-25,Monday,945,1303,34.0344,-118.2543
+33.0,O,M,Van Nuys,VAN NUYS,FRIAR,"-118.4487, 34.1857",2010-07-21,Wednesday,1710,935,34.1857,-118.4487
+24.0,H,F,Wilshire,LA CIENEGA,SAN VICENTE,"-118.3764, 34.0715",2010-12-10,Friday,1020,721,34.0715,-118.3764
+63.0,B,M,Mission,PLUMMER                      ST,BURNET                       AV,"-118.4632, 34.2428",2010-08-29,Sunday,1755,1962,34.2428,-118.4632
+19.0,W,F,N Hollywood,VICTORY                      BL,GENTRY                       AV,"-118.3932, 34.1867",2010-04-16,Friday,2220,1525,34.1867,-118.3932
+25.0,H,M,Southeast,90TH                         ST,AVALON                       BL,"-118.2651, 33.9547",2010-07-20,Tuesday,1430,1806,33.9547,-118.2651
+25.0,W,F,Rampart,SUNSET,VENDOME,"-118.2743, 34.0843",2010-10-11,Monday,915,205,34.0843,-118.2743
+22.0,H,F,Harbor,CABRILLO,9TH,"-118.2946, 33.7361",2010-08-24,Tuesday,1340,565,33.7361,-118.2946
+26.0,K,M,Olympic,11TH                         ST,WESTERN                      AV,"-118.309, 34.0508",2010-09-12,Sunday,1825,2062,34.0508,-118.309
+56.0,W,M,Central,E  4TH                          ST,CENTRAL                      AV,"-118.2381, 34.0433",2010-04-21,Wednesday,1700,158,34.0433,-118.2381
+43.0,H,M,Northeast,ROY                          ST,NEVA                         PL,"-118.185, 34.1228",2010-07-04,Sunday,1425,1127,34.1228,-118.185
+80.0,K,F,Olympic,OXFORD                       AV,3RD                          ST,"-118.3079, 34.069",2010-06-25,Friday,1045,2013,34.069,-118.3079
+51.0,W,M,Rampart,HOOVER                       ST,LONDON                       ST,"-118.2844, 34.0807",2010-09-23,Thursday,925,212,34.0807,-118.2844
+27.0,W,M,Harbor,CARSON                       ST,DENKER                       AV,"-118.3038, 33.8315",2010-10-30,Saturday,1220,506,33.8315,-118.3038
+34.0,H,M,Newton,51ST                         ST,CENTRAL,"-118.2565, 33.9971",2010-04-10,Saturday,1810,1364,33.9971,-118.2565
+40.0,H,M,Hollenbeck,STONE                        ST,GANAHL                       ST,"-118.1932, 34.0509",2010-11-10,Wednesday,30,449,34.0509,-118.1932
+34.0,W,M,Wilshire,LA CIENEGA BL,BLACKBURN,"-118.3765, 34.0725",2010-02-06,Saturday,1600,722,34.0725,-118.3765
+42.0,O,M,Harbor,EUBANK                       AV,E                            ST,"-118.2543, 33.776",2010-04-23,Friday,1035,529,33.776,-118.2543
+26.0,B,F,Wilshire,SAN VICENTE,CURSON,"-118.3581, 34.0553",2010-02-01,Monday,1230,753,34.0553,-118.3581
+33.0,B,F,Topanga,VASSAR                       AV,OXNARD                       ST,"-118.6044, 34.1792",2010-12-06,Monday,2100,2177,34.1792,-118.6044
+68.0,C,M,Central,BROADWAY,ALISO                        ST,"-118.2425, 34.0568",2010-04-21,Wednesday,1731,112,34.0568,-118.2425
+51.0,H,F,Olympic,OXFORD                       AV,BEVERLY                      BL,"-118.308, 34.0763",2010-05-03,Monday,1845,2004,34.0763,-118.308
+49.0,H,M,Hollywood,SANTA MONICA                 BL,LODI                         PL,"-118.3234, 34.0908",2010-10-22,Friday,720,656,34.0908,-118.3234
+63.0,H,M,Newton,CENTRAL                      AV,58TH                         ST,"-118.2564, 33.9886",2010-01-07,Thursday,1825,1385,33.9886,-118.2564
+39.0,O,M,Hollenbeck,MYERS                        ST,MISSION                      RD,"-118.228, 34.0458",2010-09-07,Tuesday,500,461,34.0458,-118.228
+34.0,O,F,Van Nuys,NOBLE                        AV,HARTLAND                     ST,"-118.4618, 34.1953",2010-12-14,Tuesday,1610,914,34.1953,-118.4618
+19.0,W,M,Mission,WOODMAN                      AV,CANTARA                      ST,"-118.4319, 34.2196",2010-04-13,Tuesday,1535,1999,34.2196,-118.4319
+28.0,B,M,Olympic,KINGSLEY                     DR,11TH                         ST,"-118.3031, 34.0509",2010-11-15,Monday,1820,2064,34.0509,-118.3031
+48.0,H,M,West LA,MULHOLLAND                   DR,COLDWATER CANYON,"-118.4034, 34.1264",2010-07-18,Sunday,110,809,34.1264,-118.4034
+33.0,H,M,Pacific,MINDANAO                     WY,90TH                         FY,"-118.4327, 33.9832",2010-07-17,Saturday,1930,1454,33.9832,-118.4327
+36.0,O,M,Wilshire,LARCHMONT,3RD,"-118.3236, 34.069",2010-12-10,Friday,1820,719,34.069,-118.3236
+53.0,W,F,West LA,OAKHURST                     DR,PICO                         BL,"-118.3907, 34.0553",2010-10-27,Wednesday,1020,857,34.0553,-118.3907
+38.0,A,M,Topanga,CANOGA                       AV,N  ROSCOE                       BL,"-118.5975, 34.2198",2010-12-05,Sunday,1900,2126,34.2198,-118.5975
+21.0,B,M,Rampart,INGRAHAM                     ST,BIXEL                        ST,"-118.2637, 34.0518",2010-10-09,Saturday,2355,257,34.0518,-118.2637
+65.0,H,M,Southeast,CENTURY,SAN PEDRO                    ST,"-118.2695, 33.9456",2010-02-14,Sunday,1645,1823,33.9456,-118.2695
+22.0,H,M,Northeast,EAGLE ROCK                   BL,YORK                         BL,"-118.2208, 34.1241",2010-08-27,Friday,640,1136,34.1241,-118.2208
+22.0,H,M,Mission,BURNET,PLUMMER,"-118.4631, 34.25",2010-06-04,Friday,410,1962,34.25,-118.4631
+60.0,H,F,Hollenbeck,OLYMPIC                      BL,LORENA                       ST,"-118.2052, 34.0188",2010-10-14,Thursday,1700,497,34.0188,-118.2052
+40.0,B,M,Southeast,VERMONT                      AV,CENTURY                      BL,"-118.2916, 33.9455",2010-01-05,Tuesday,1210,1821,33.9455,-118.2916
+20.0,H,M,Mission,ROSCOE                       BL,MAMMOTH                      AV,"-118.4341, 34.2217",2010-08-06,Friday,1310,1999,34.2217,-118.4341
+37.0,H,M,West LA,PACIFIC COAST                HY,ENTRADA                      DR,"-118.5188, 34.0279",2010-09-01,Wednesday,2145,872,34.0279,-118.5188
+23.0,O,M,Hollywood,HOLLYWOOD                    BL,SYCAMORE                     AV,"-118.3433, 34.1016",2010-01-26,Tuesday,1930,645,34.1016,-118.3433
+47.0,W,F,Topanga,MULHOLLAND                   DR,AVENUE SAN LUIS,"-118.6364, 34.1587",2010-12-22,Wednesday,1630,2183,34.1587,-118.6364
+31.0,W,M,Harbor,1ST                          ST,GAFFEY                       ST,"-118.2923, 33.7433",2010-12-23,Thursday,1040,557,33.7433,-118.2923
+63.0,H,M,Northeast,STADIUM,LANDA,"-118.2437, 34.0943",2010-08-24,Tuesday,1535,1145,34.0943,-118.2437
+33.0,W,M,West LA,BARRINGTON,PICO,"-118.4457, 34.0316",2010-08-30,Monday,1815,881,34.0316,-118.4457
+24.0,B,M,Southeast,102ND                        ST,MAIN                         ST,"-118.2739, 33.9438",2010-04-23,Friday,145,1822,33.9438,-118.2739
+54.0,H,F,Hollywood,SUNSET                       BL,WESTERN                      AV,"-118.3092, 34.0981",2010-04-01,Thursday,1730,638,34.0981,-118.3092
+27.0,A,M,Olympic,WILSHIRE                     BL,CATALINA                     AV,"-118.2954, 34.0618",2010-09-05,Sunday,125,2027,34.0618,-118.2954
+22.0,A,M,Northeast,DEL MAR,SANTA MONICA,"-118.2836, 34.0916",2010-02-26,Friday,800,1162,34.0916,-118.2836
+44.0,H,F,Hollenbeck,PASADENA                     AV,AVENUE 26,"-118.2157, 34.0765",2010-05-27,Thursday,108,412,34.0765,-118.2157
+37.0,B,F,Southeast,FIGUEROA                     ST,88TH                         ST,"-118.2827, 33.9574",2010-05-25,Tuesday,105,1802,33.9574,-118.2827
+99.0,O,M,Van Nuys,FRIAR                        ST,KESTER                       AV,"-118.4574, 34.1857",2010-06-18,Friday,2310,932,34.1857,-118.4574
+19.0,H,M,77th Street,FIGUEROA                     ST,VERNON                       AV,"-118.2827, 34.0038",2010-03-07,Sunday,1015,1209,34.0038,-118.2827
+39.0,W,F,Topanga,VANOWEN,VARIEL,"-118.5928, 34.1938",2010-06-03,Thursday,815,2157,34.1938,-118.5928
+75.0,W,F,Devonshire,DEVONSHIRE                   ST,ETON                         AV,"-118.5951, 34.2573",2010-02-17,Wednesday,950,1723,34.2573,-118.5951
+30.0,W,M,N Hollywood,CAHUENGA                     AV,MOORPARK                     ST,"-118.3615, 34.1504",2010-03-15,Monday,830,1569,34.1504,-118.3615
+69.0,A,M,Hollywood,EL CENTRO                    AV,SELMA                        AV,"-118.3237, 34.0998",2010-06-14,Monday,955,647,34.0998,-118.3237
+54.0,H,F,West Valley,BALBOA                       BL,BURBANK                      BL,"-118.5012, 34.1722",2010-10-13,Wednesday,340,1047,34.1722,-118.5012
+18.0,O,M,Northeast,LOS FELIZ                    BL,EDGEMONT                     AV,"-118.2975, 34.1101",2010-02-08,Monday,1945,1141,34.1101,-118.2975
+37.0,H,M,Harbor,AVALON,PACIFIC COAST                HY,"-118.2633, 33.7912",2010-08-23,Monday,1940,518,33.7912,-118.2633
+27.0,W,F,West LA,ROBERTSON                    BL,GREGORY                      WY,"-118.3835, 34.063",2010-04-01,Thursday,1640,849,34.063,-118.3835
+26.0,H,M,77th Street,46TH                         ST,FIGUEROA                     ST,"-118.2827, 34.002",2010-06-18,Friday,1615,1209,34.002,-118.2827
+67.0,H,M,West LA,PACIFIC COAST HIGHWAY,SUNSET,"-118.5606, 34.0401",2010-11-11,Thursday,1625,861,34.0401,-118.5606
+60.0,W,M,Mission,SEPULVEDA                    BL,ROSCOE                       BL,"-118.4677, 34.2214",2010-01-26,Tuesday,1730,1981,34.2214,-118.4677
+57.0,B,M,Newton,SAN PEDRO                    ST,27TH                         ST,"-118.2619, 34.0207",2010-10-06,Wednesday,650,1322,34.0207,-118.2619
+41.0,B,M,West Valley,VENTURA                      BL,BURBANK                      BL,"-118.5428, 34.1715",2010-05-05,Wednesday,1035,1063,34.1715,-118.5428
+44.0,W,M,West LA,SEPULVEDA,MORAGA,"-118.4693, 34.0776",2010-06-12,Saturday,1430,805,34.0776,-118.4693
+65.0,O,M,Van Nuys,MURIETTA,KITTRIDGE                    BL,"-118.4388, 34.1903",2010-09-01,Wednesday,1700,926,34.1903,-118.4388
+21.0,W,M,West Valley,VICTORY                      BL,WOODLEY                      AV,"-118.4836, 34.1867",2010-05-20,Thursday,900,1049,34.1867,-118.4836
+27.0,H,M,Olympic,VERMONT                      AV,2ND                          ST,"-118.2917, 34.0704",2010-11-15,Monday,1700,2017,34.0704,-118.2917
+39.0,O,F,Topanga,8200    TOPANGA CANYON               BL,,"-118.606, 34.2176",2010-01-22,Friday,915,2114,34.2176,-118.606
+40.0,H,F,Olympic,VENICE                       BL,VERMONT                      AV,"-118.2916, 34.0443",2010-12-10,Friday,625,2088,34.0443,-118.2916
+63.0,B,F,Harbor,1300 W  26TH                         ST,,"-118.3056, 33.7208",2010-02-04,Thursday,1930,583,33.7208,-118.3056
+44.0,H,M,Central,BROADWAY                     AV,5TH                          ST,"-118.252, 34.0467",2010-12-21,Tuesday,1230,153,34.0467,-118.252
+36.0,H,M,Devonshire,RESEDA                       BL,PLUMMER                      ST,"-118.5361, 34.2428",2010-03-19,Friday,1725,1767,34.2428,-118.5361
+45.0,H,F,N Hollywood,WEDDINGTON                   ST,LANKERSHIM                   BL,"-118.3752, 34.167",2010-01-09,Saturday,220,1548,34.167,-118.3752
+31.0,W,F,West LA,BELOIT                       AV,MASSACHUSETTES               AV,"-118.4491, 34.0445",2010-07-10,Saturday,2310,853,34.0445,-118.4491
+37.0,W,M,Mission,FOOTHILL,SAYRE,"-118.4338, 34.3102",2010-03-18,Thursday,1530,1918,34.3102,-118.4338
+24.0,A,F,Newton,30TH                         ST,OLIVE                        ST,"-118.2733, 34.023",2010-03-16,Tuesday,924,1331,34.023,-118.2733
+55.0,H,F,Topanga,VICTORY                      BL,CANOGA                       AV,"-118.5975, 34.1884",2010-04-03,Saturday,1825,2156,34.1884,-118.5975
+28.0,W,M,N Hollywood,VENTURA                      BL,BLUE CANYON                  DR,"-118.3848, 34.1403",2010-02-01,Monday,1930,1595,34.1403,-118.3848
+26.0,H,F,Van Nuys,SEPULVEDA,ERWIN,"-118.4662, 34.1867",2010-10-21,Thursday,1400,931,34.1867,-118.4662
+45.0,W,M,N Hollywood,TUJUNGA                      AV,MOORPARK                     ST,"-118.379, 34.1504",2010-03-23,Tuesday,1400,1563,34.1504,-118.379
+35.0,X,M,Van Nuys,COLBATH                      AV,VENTURA,"-118.436, 34.1488",2010-08-25,Wednesday,1750,985,34.1488,-118.436
+23.0,H,M,Southwest,5200    ROSELAND                     ST,,"-118.357, 34.0281",2010-12-24,Friday,1730,312,34.0281,-118.357
+50.0,C,M,Olympic,2700 W  OLYMPIC                      BL,,"-118.2916, 34.0526",2010-02-06,Saturday,1945,2056,34.0526,-118.2916
+23.0,H,M,Olympic,3RD                          ST,HOBART                       BL,"-118.3054, 34.069",2010-05-01,Saturday,1400,2023,34.069,-118.3054
+99.0,W,F,West LA,CORNING                      ST,HERVEY                       AV,"-118.3825, 34.034",2010-07-31,Saturday,2359,899,34.034,-118.3825
+57.0,H,M,N Hollywood,VINELAND                     AV,LEADWELL                     ST,"-118.3703, 34.2039",2010-11-15,Monday,1825,1518,34.2039,-118.3703
+21.0,B,F,Rampart,N  NEW HAMPSHIRE                AV,OAKWOOD                      ST,"-118.2932, 34.0777",2010-12-16,Thursday,845,221,34.0777,-118.2932
+54.0,W,M,77th Street,FLORENCE                     AV,FLOWER                       ST,"-118.2812, 33.9747",2010-09-14,Tuesday,930,1256,33.9747,-118.2812
+21.0,H,M,Olympic,NORMANDIE                    AV,20TH                         ST,"-118.3003, 34.0382",2010-09-04,Saturday,2130,2093,34.0382,-118.3003
+24.0,H,F,Hollenbeck,BOULDER                      ST,FICKETT                      ST,"-118.2041, 34.0486",2010-12-14,Tuesday,1630,457,34.0486,-118.2041
+31.0,H,F,N Hollywood,BURBANK                      BL,LANKERSHIM                   BL,"-118.381, 34.1722",2010-01-14,Thursday,730,1547,34.1722,-118.381
+22.0,W,M,Pacific,SEPULVEDA                    BL,LINCOLN                      BL,"-118.3961, 33.951",2010-12-18,Saturday,1920,1494,33.951,-118.3961
+51.0,H,M,77th Street,NORMANDIE,FLORENCE,"-118.3003, 33.9746",2010-06-28,Monday,555,1255,33.9746,-118.3003
+23.0,W,F,Pacific,CULVER,NICHOLSON,"-118.445, 33.9617",2010-01-14,Thursday,1948,1472,33.9617,-118.445
+85.0,A,M,Van Nuys,WOODMAN                      AV,VANOWEN                      ST,"-118.4312, 34.194",2010-11-03,Wednesday,950,926,34.194,-118.4312
+20.0,H,F,Rampart,MIRAMAR,LUCAS,"-118.2622, 34.0599",2010-04-04,Sunday,2030,237,34.0599,-118.2622
+39.0,H,M,Southwest,ADAMS,REDONDO,"-118.3563, 34.0325",2010-05-24,Monday,730,312,34.0325,-118.3563
+19.0,H,F,Hollenbeck,GAMBIER                      ST,MINTO                        CT,"-118.1819, 34.081",2010-10-02,Saturday,2100,427,34.081,-118.1819
+70.0,O,M,Devonshire,SEPULVEDA,SAN FERNANDO,"-118.4909, 34.3152",2010-03-09,Tuesday,800,1708,34.3152,-118.4909
+49.0,O,M,Harbor,NORMANDIE                    AV,FRANCISCO                    ST,"-118.2992, 33.8503",2010-06-29,Tuesday,1500,508,33.8503,-118.2992
+17.0,H,M,N Hollywood,VICTORY,VINELAND,"-118.3703, 34.1867",2010-06-14,Monday,1620,1527,34.1867,-118.3703
+24.0,W,F,Southwest,LA CIENEGA,RODEO                        RD,"-118.3723, 34.0217",2010-03-28,Sunday,1340,341,34.0217,-118.3723
+35.0,W,M,Wilshire,CRESCENT HEIGHTS,1ST,"-118.3658, 34.0743",2010-12-14,Tuesday,1555,711,34.0743,-118.3658
+34.0,H,F,N Hollywood,VICLAND                      PL,VINELAND                     AV,"-118.3703, 34.1867",2010-12-15,Wednesday,1145,1527,34.1867,-118.3703
+49.0,W,F,West Valley,BALBOA                       BL,CLARK                        ST,"-118.5011, 34.1688",2010-05-18,Tuesday,1640,1067,34.1688,-118.5011
+34.0,H,M,Hollywood,YUCCA                        ST,FRANKLIN                     AV,"-118.3325, 34.1034",2010-04-02,Friday,2315,636,34.1034,-118.3325
+53.0,X,M,Van Nuys,13500    VANOWEN                      ST,,"-118.4268, 34.194",2010-05-02,Sunday,2000,919,34.194,-118.4268
+73.0,W,M,Wilshire,OLYMPIC,MASSELIN,"-118.3547, 34.0574",2010-05-05,Wednesday,2135,743,34.0574,-118.3547
+33.0,W,F,Wilshire,CURSON,MELROSE,"-118.3553, 34.0837",2010-08-14,Saturday,1400,702,34.0837,-118.3553
+57.0,B,M,Southeast,92ND,MAIN,"-118.2739, 33.9529",2010-10-24,Sunday,2030,1844,33.9529,-118.2739
+36.0,H,M,Mission,SEPULVEDA,NORDHOFF,"-118.4676, 34.2355",2010-02-02,Tuesday,1200,1961,34.2355,-118.4676
+59.0,W,F,West Valley,VICTORY                      BL,TAMPA                        AV,"-118.5535, 34.1866",2010-10-09,Saturday,2330,1035,34.1866,-118.5535
+19.0,B,F,Wilshire,SAN VICENTE                  BL,LA BREA                      AV,"-118.3442, 34.0504",2010-04-18,Sunday,2145,754,34.0504,-118.3442
+25.0,H,M,Hollenbeck,2ND                          ST,SOTO                         ST,"-118.2096, 34.0416",2010-06-26,Saturday,1100,467,34.0416,-118.2096
+48.0,O,M,Pacific,RAMSGATE                     AV,INTERCEPTOR                  ST,"-118.3827, 33.9552",2010-07-24,Saturday,535,1414,33.9552,-118.3827
+24.0,B,M,West Valley,BURBANK                      BL,WHITE OAK                    AV,"-118.5185, 34.1723",2010-05-12,Wednesday,900,1045,34.1723,-118.5185
+26.0,W,F,Harbor,GAFFEY,15TH                         ST,"-118.2924, 33.7306",2010-06-13,Sunday,1810,563,33.7306,-118.2924
+40.0,W,F,West LA,WILKINS                      AV,VETERAN                      AV,"-118.4443, 34.0538",2010-03-25,Thursday,1240,833,34.0538,-118.4443
+36.0,H,M,Hollywood,LEXINGTON,EL CENTRO,"-118.3244, 34.0926",2010-09-14,Tuesday,1430,666,34.0926,-118.3244
+24.0,W,F,Wilshire,LA CIENEGA                   BL,18TH                         ST,"-118.3764, 34.0445",2010-09-04,Saturday,1940,782,34.0445,-118.3764
+22.0,H,M,Rampart,NEW HAMPSHIRE                AV,MELROSE                      AV,"-118.2928, 34.0836",2010-02-05,Friday,1910,201,34.0836,-118.2928
+32.0,W,M,Hollywood,SUNSET,MCCADDEN,"-118.3337, 34.0987",2010-07-17,Saturday,1335,646,34.0987,-118.3337
+41.0,H,M,Pacific,CENTINELA,CHARNOCK,"-118.4363, 34.0073",2010-08-20,Friday,2045,1432,34.0073,-118.4363
+49.0,U,M,Southwest,GIBRALTAR                    AV,AUGUST                       ST,"-118.3547, 34.0173",2010-04-13,Tuesday,730,361,34.0173,-118.3547
+67.0,A,F,West Valley,BALBOA                       BL,VICTORY                      BL,"-118.5011, 34.1866",2010-04-06,Tuesday,1300,1049,34.1866,-118.5011
+48.0,A,M,Northeast,3000    LA PAZ                       DR,,"-118.269, 34.1092",2010-03-03,Wednesday,1430,1132,34.1092,-118.269
+29.0,B,M,Van Nuys,HAZELTINE                    AV,GAULT                        ST,"-118.44, 34.1994",2010-09-29,Wednesday,745,915,34.1994,-118.44
+24.0,O,F,Pacific,ANDELUSIA,CABRILLO,"-118.4703, 33.988",2010-12-01,Wednesday,1200,1431,33.988,-118.4703
+25.0,B,F,Foothill,HAINES CANYON                AV,GREELEY                      ST,"-118.2794, 34.2486",2010-06-08,Tuesday,700,1658,34.2486,-118.2794
+60.0,B,M,Southeast,HOOVER,88TH,"-118.2869, 33.958",2010-11-07,Sunday,1835,1801,33.958,-118.2869
+33.0,H,F,N Hollywood,VINELAND                     AV,COHASSET                     AV,"-118.3703, 34.2067",2010-12-25,Saturday,1800,1506,34.2067,-118.3703
+67.0,K,F,Southwest,LA BREA                      AV,ADAMS                        BL,"-118.3519, 34.0325",2010-07-21,Wednesday,2100,331,34.0325,-118.3519
+10.0,W,M,Pacific,MORNINGSIDE,WALGROVE,"-118.4532, 34.0062",2010-09-07,Tuesday,2040,1415,34.0062,-118.4532
+22.0,W,M,Hollywood,GRACE                        RD,FRANKLIN                     AV,"-118.3333, 34.1053",2010-03-07,Sunday,100,635,34.1053,-118.3333
+25.0,H,F,Van Nuys,4400    COLBATH                      AV,,"-118.4366, 34.1504",2010-05-30,Sunday,1500,985,34.1504,-118.4366
+68.0,B,M,77th Street,SLAUSON                      AV,ANGELES VISTA                BL,"-118.3518, 33.9889",2010-08-18,Wednesday,2040,1231,33.9889,-118.3518
+19.0,O,M,N Hollywood,OXNARD                       ST,LANKERSHIM                   BL,"-118.3834, 34.1794",2010-03-06,Saturday,1240,1535,34.1794,-118.3834
+36.0,H,F,Southwest,VERMONT                      AV,EXPOSITION                   BL,"-118.2915, 34.0182",2010-11-23,Tuesday,930,379,34.0182,-118.2915
+39.0,W,M,West LA,PICO                         BL,SEPULVEDA                    BL,"-118.4351, 34.037",2010-11-16,Tuesday,1320,884,34.037,-118.4351
+38.0,H,M,Wilshire,VENICE                       BL,6TH                          AV,"-118.3237, 34.0436",2010-01-10,Sunday,1150,779,34.0436,-118.3237
+36.0,H,F,Van Nuys,VENTURA                      BL,ETHEL,"-118.4183, 34.1459",2010-12-11,Saturday,2030,998,34.1459,-118.4183
+28.0,H,M,Newton,SAN PEDRO                    ST,AVALON                       BL,"-118.2653, 34.0154",2010-04-09,Friday,2140,1333,34.0154,-118.2653
+74.0,W,F,Mission,ENCINITAS                    AV,ROXFORD                      ST,"-118.4789, 34.3039",2010-07-11,Sunday,1230,1921,34.3039,-118.4789
+51.0,W,M,Van Nuys,FULTON                       AV,MOORPARK                     ST,"-118.4225, 34.1504",2010-10-21,Thursday,2030,976,34.1504,-118.4225
+70.0,B,M,77th Street,NORMANDIE                    AV,MANCHESTER                   AV,"-118.3003, 33.96",2010-09-30,Thursday,540,1265,33.96,-118.3003
+25.0,O,M,77th Street,81ST                         ST,FIGUEROA                     ST,"-118.2827, 33.966",2010-08-11,Wednesday,1920,1266,33.966,-118.2827
+31.0,W,M,Olympic,SERRANO                      AV,7TH                          ST,"-118.3066, 34.0597",2010-07-21,Wednesday,830,2033,34.0597,-118.3066
+25.0,O,M,Central,FIGUEROA                     TR,CENTENNIAL                   ST,"-118.245, 34.0683",2010-02-19,Friday,2230,101,34.0683,-118.245
+32.0,H,M,Van Nuys,VANOWEN,FIRMAMENT,"-118.4729, 34.1939",2010-02-02,Tuesday,2130,911,34.1939,-118.4729
+21.0,H,M,Newton,CENTRAL                      AV,68TH                         ST,"-118.2564, 33.9784",2010-04-17,Saturday,2335,1395,33.9784,-118.2564
+91.0,W,M,West LA,SEPULVEDA                    BL,OHIO,"-118.4456, 34.0492",2010-10-29,Friday,1000,854,34.0492,-118.4456
+64.0,H,M,Newton,SAN PEDRO                    ST,70TH                         ST,"-118.2695, 33.9762",2010-03-29,Monday,2010,1395,33.9762,-118.2695
+24.0,B,M,Wilshire,WILSHIRE,MUIRFIELD,"-118.3291, 34.062",2010-10-06,Wednesday,1705,749,34.062,-118.3291
+56.0,W,M,Topanga,VENTURA,DON PIO,"-118.6038, 34.1685",2010-11-29,Monday,2329,2187,34.1685,-118.6038
+30.0,W,M,Northeast,AVE 56,ASH,"-118.1963, 34.1119",2010-10-20,Wednesday,1650,1118,34.1119,-118.1963
+30.0,H,F,Southeast,ZAMORA                       AV,E  112TH                        ST,"-118.2511, 33.9331",2010-12-26,Sunday,1230,1864,33.9331,-118.2511
+68.0,B,F,Newton,70TH                         ST,MAIN                         ST,"-118.2739, 33.9765",2010-12-13,Monday,1650,1393,33.9765,-118.2739
+57.0,W,F,Foothill,VINELAND                     AV,RATNER                       ST,"-118.3703, 34.2174",2010-05-14,Friday,1220,1687,34.2174,-118.3703
+29.0,H,M,Southeast,FIGUEROA                     ST,87TH                         ST,"-118.2827, 33.9587",2010-06-08,Tuesday,15,1802,33.9587,-118.2827
+45.0,O,F,Mission,HUBBARD,ADELPHIA,"-118.4316, 34.3063",2010-12-31,Friday,1430,1918,34.3063,-118.4316
+67.0,J,F,Central,4TH                          ST,MOLINO                       ST,"-118.2341, 34.043",2010-01-10,Sunday,2235,159,34.043,-118.2341
+36.0,H,M,Southeast,FIGUEROA                     ST,97TH                         ST,"-118.2827, 33.9483",2010-09-14,Tuesday,815,1821,33.9483,-118.2827
+61.0,H,M,Newton,64TH                         ST,BROADWAY,"-118.2783, 33.9814",2010-05-26,Wednesday,1825,1391,33.9814,-118.2783
+39.0,O,M,Hollywood,SANTA MONICA                 BL,KINGSLEY                     DR,"-118.3025, 34.0908",2010-08-09,Monday,1505,679,34.0908,-118.3025
+33.0,W,M,Topanga,FALLBROOK                    AV,ROSCOE                       BL,"-118.6235, 34.2206",2010-10-10,Sunday,1330,2102,34.2206,-118.6235
+20.0,B,F,Southwest,MARTIN LUTHER KING JR        BL,DALTON                       AV,"-118.3034, 34.0109",2010-11-27,Saturday,2215,397,34.0109,-118.3034
+42.0,F,F,Northeast,AVENUE 50,MALTA                        ST,"-118.2042, 34.1079",2010-04-03,Saturday,1500,1137,34.1079,-118.2042
+27.0,H,H,West Valley,ROSCOE,WOODLEY,"-118.4837, 34.2214",2010-12-15,Wednesday,330,1009,34.2214,-118.4837
+52.0,O,M,Foothill,GLENOAKS                     BL,SHELDON                      ST,"-118.3839, 34.2465",2010-10-28,Thursday,1700,1664,34.2465,-118.3839
+30.0,H,M,Harbor,PACIFIC COAST                HY,WILMINGTON                   BL,"-118.275, 33.7905",2010-01-25,Monday,1430,515,33.7905,-118.275
+29.0,O,F,Topanga,ROSCOE                       BL,MASON                        AV,"-118.5798, 34.2201",2010-11-21,Sunday,1840,2118,34.2201,-118.5798
+60.0,H,F,77th Street,45TH                         ST,BUDLONG                      AV,"-118.2959, 34.0027",2010-11-03,Wednesday,840,1204,34.0027,-118.2959
+38.0,W,M,Pacific,ROSE                         AV,SPEED                        WY,"-118.4765, 33.9933",2010-05-29,Saturday,1700,1412,33.9933,-118.4765
+87.0,B,F,Southwest,30TH                         ST,ROYAL                        ST,"-118.2808, 34.0263",2010-04-02,Friday,1610,328,34.0263,-118.2808
+26.0,H,F,Central,ALAMEDA                      ST,5TH                          ST,"-118.2382, 34.0414",2010-10-04,Monday,1315,158,34.0414,-118.2382
+30.0,H,F,Central,VIGNES                       ST,CESAR E CHAVEZ               AV,"-118.2319, 34.0566",2010-08-21,Saturday,40,119,34.0566,-118.2319
+39.0,H,M,West LA,WESTWOOD                     BL,MISSOURI                     AV,"-118.4341, 34.0467",2010-02-18,Thursday,800,835,34.0467,-118.4341
+43.0,W,M,Wilshire,LA CIENEGA,3RD,"-118.3765, 34.073",2010-10-04,Monday,1815,701,34.073,-118.3765
+47.0,W,F,Pacific,SAWTELLE                     BL,NATIONAL                     BL,"-118.4308, 34.0255",2010-12-21,Tuesday,2355,1426,34.0255,-118.4308
+55.0,W,M,N Hollywood,BURBANK                      BL,WILLOW CREST                 AV,"-118.3626, 34.1722",2010-02-02,Tuesday,1415,1539,34.1722,-118.3626
+50.0,A,F,Olympic,3RD                          ST,VERMONT                      AV,"-118.2917, 34.0691",2010-08-23,Monday,730,2029,34.0691,-118.2917
+20.0,H,M,Hollywood,SANTA MONICA                 BL,SANTA MONICA                 FY,"-118.3012, 34.0908",2010-07-01,Thursday,1550,679,34.0908,-118.3012
+33.0,H,M,Hollywood,FOUNTAIN                     AV,LA BREA                      AV,"-118.3441, 34.0944",2010-07-13,Tuesday,845,644,34.0944,-118.3441
+38.0,W,F,Harbor,35TH                         ST,MULLDAE                      AV,"-118.3206, 33.7211",2010-12-07,Tuesday,825,581,33.7211,-118.3206
+40.0,H,M,Southeast,GRAHAM,103RD                        ST,"-118.2425, 33.9432",2010-03-22,Monday,1000,1849,33.9432,-118.2425
+36.0,H,F,Hollenbeck,6TH                          ST,BREED                        ST,"-118.2144, 34.0378",2010-04-23,Friday,935,473,34.0378,-118.2144
+46.0,H,M,Van Nuys,KESTER,SHERMAN                      WY,"-118.4574, 34.2012",2010-04-05,Monday,705,914,34.2012,-118.4574
+59.0,W,F,Hollenbeck,CHARLOTTE,CORNWELL,"-118.2039, 34.0573",2010-11-01,Monday,1630,443,34.0573,-118.2039
+52.0,W,M,West LA,SUNSET                       BL,LAS LOMAS                    ST,"-118.5387, 34.0485",2010-08-22,Sunday,15,822,34.0485,-118.5387
+28.0,O,F,Rampart,CORONADO                     ST,WILSHIRE                     BL,"-118.2814, 34.0605",2010-02-21,Sunday,1230,251,34.0605,-118.2814
+59.0,W,M,Hollenbeck,AVENUE 60,MONTEREY                     RD,"-118.1843, 34.1056",2010-09-21,Tuesday,945,404,34.1056,-118.1843
+48.0,B,M,Southwest,ADAMS,FIGUEROA,"-118.2749, 34.0282",2010-12-17,Friday,1805,319,34.0282,-118.2749
+49.0,B,M,77th Street,VERMONT,59TH                         PL,"-118.2915, 33.9869",2010-12-24,Friday,1210,1239,33.9869,-118.2915
+50.0,W,M,Harbor,18TH                         ST,MEYLER                       ST,"-118.2968, 33.7279",2010-09-07,Tuesday,845,584,33.7279,-118.2968
+65.0,W,F,Harbor,GAFFEY                       ST,4TH                          ST,"-118.2923, 33.7406",2010-08-22,Sunday,1240,557,33.7406,-118.2923
+24.0,A,M,Rampart,BEVERLY                      BL,MADISON                      AV,"-118.2892, 34.0764",2010-06-04,Friday,1900,212,34.0764,-118.2892
+49.0,H,F,Northeast,SUNSET,ELYSIAN PARK,"-118.251, 34.0725",2010-07-24,Saturday,2015,1171,34.0725,-118.251
+26.0,W,F,Northeast,PASADENA                     FY,ACADEMY                      RD,"-118.2339, 34.0766",2010-01-10,Sunday,1700,1199,34.0766,-118.2339
+44.0,F,F,Hollenbeck,KINGSTON                     AV,POMEROY                      ST,"-118.2093, 34.0574",2010-12-21,Tuesday,815,445,34.0574,-118.2093
+35.0,H,M,Southwest,6TH                          AV,JEFFERSON                    BL,"-118.3236, 34.0256",2010-02-06,Saturday,1450,354,34.0256,-118.3236
+59.0,W,F,Pacific,SAWTELLE,STANWOOD,"-118.4294, 34.0237",2010-10-07,Thursday,1700,1425,34.0237,-118.4294
+54.0,H,F,Hollenbeck,1ST                          ST,BOYLE                        AV,"-118.2198, 34.0472",2010-09-10,Friday,1555,452,34.0472,-118.2198
+18.0,H,F,Newton,MAIN,49TH,"-118.274, 33.9984",2010-05-21,Friday,1705,1362,33.9984,-118.274
+37.0,W,F,Topanga,MULHOLLAND                   DR,VALMAR,"-118.6307, 34.1526",2010-06-20,Sunday,1800,2183,34.1526,-118.6307
+31.0,O,F,West LA,PACIFIC COAST,TEMESCAL CANYON,"-118.5357, 34.0359",2010-05-05,Wednesday,900,821,34.0359,-118.5357
+57.0,O,F,Northeast,CYPRESS                      AV,DIVISION                     ST,"-118.2363, 34.1027",2010-08-23,Monday,2210,1134,34.1027,-118.2363
+32.0,B,F,Newton,JEFFERSON                    BL,BROADWAY,"-118.2738, 34.0192",2010-05-04,Tuesday,745,1331,34.0192,-118.2738
+47.0,W,F,N Hollywood,OXNARD                       ST,RADFORD                      AV,"-118.3921, 34.1794",2010-09-30,Thursday,2135,1525,34.1794,-118.3921
+19.0,H,F,Hollenbeck,CESAR E CHAVEZ               AV,CUMMINGS                     ST,"-118.2123, 34.0488",2010-11-08,Monday,1125,455,34.0488,-118.2123
+23.0,A,F,Pacific,LA CIENEGA                   BL,FAIRVIEW                     BL,"-118.3701, 33.9799",2010-12-17,Friday,2050,1469,33.9799,-118.3701
+72.0,W,F,Topanga,TOPANGA CANYON               BL,DUMETZ                       ST,"-118.6058, 34.1569",2010-06-29,Tuesday,1720,2185,34.1569,-118.6058
+26.0,W,M,N Hollywood,MOORPARK                     ST,TROOST                       AV,"-118.3866, 34.1504",2010-11-06,Saturday,1255,1563,34.1504,-118.3866
+18.0,H,M,Pacific,CULVER                       BL,INGLEWOOD                    BL,"-118.4178, 33.9949",2010-03-24,Wednesday,930,1457,33.9949,-118.4178
+33.0,H,F,Mission,ARLETA                       AV,ARLETA                       ST,"-118.4355, 34.251",2010-02-19,Friday,2010,1959,34.251,-118.4355
+21.0,B,M,77th Street,79TH                         ST,BROADWAY,"-118.2783, 33.9679",2010-03-25,Thursday,1330,1268,33.9679,-118.2783
+23.0,H,F,West Valley,BALBOA                       BL,SHERMAN                      WY,"-118.5011, 34.2012",2010-04-16,Friday,1250,1017,34.2012,-118.5011
+42.0,H,F,Rampart,VIRGIL                       AV,CLINTON                      ST,"-118.2868, 34.0818",2010-09-07,Tuesday,600,212,34.0818,-118.2868
+25.0,O,M,Wilshire,WARING,VISTA,"-118.3522, 34.0854",2010-12-10,Friday,2200,702,34.0854,-118.3522
+58.0,B,F,Southwest,JEFFERSON                    BL,SAINT ANDREWS                PL,"-118.3119, 34.0256",2010-04-23,Friday,1715,355,34.0256,-118.3119
+47.0,O,F,77th Street,SLAUSON                      AV,FIGUEROA                     ST,"-118.2827, 33.9892",2010-10-27,Wednesday,1950,1239,33.9892,-118.2827
+26.0,K,M,Olympic,6TH                          ST,NEW HAMPSHIRE                AV,"-118.2929, 34.0636",2010-11-19,Friday,1400,2027,34.0636,-118.2929
+65.0,A,M,Foothill,HOLLYWOOD                    WY,GOLDEN STATE                 FY,"-118.3485, 34.2127",2010-09-21,Tuesday,2225,1677,34.2127,-118.3485
+25.0,B,M,Pacific,LINCOLN                      BL,ROSE                         AV,"-118.4679, 34.0014",2010-07-10,Saturday,430,1415,34.0014,-118.4679
+27.0,H,M,Olympic,VENICE,NORMANDIE,"-118.3008, 34.0437",2010-03-08,Monday,1240,2074,34.0437,-118.3008
+26.0,W,M,Wilshire,LA BREA                      AV,4TH                          ST,"-118.344, 34.0669",2010-11-10,Wednesday,1630,737,34.0669,-118.344
+19.0,B,F,77th Street,63RD                         ST,OVERHILL                     DR,"-118.3554, 33.9826",2010-02-16,Tuesday,1510,1231,33.9826,-118.3554
+26.0,A,M,Pacific,98TH                         ST,AVION                        DR,"-118.3909, 33.9472",2010-12-10,Friday,2300,1496,33.9472,-118.3909
+50.0,W,M,N Hollywood,HOLLYWOOD                    FY,VICTORY                      BL,"-118.4013, 34.1867",2010-11-17,Wednesday,825,1524,34.1867,-118.4013
+31.0,H,F,Harbor,ANAHEIM                      ST,FRIES                        AV,"-118.2648, 33.7799",2010-09-22,Wednesday,815,525,33.7799,-118.2648
