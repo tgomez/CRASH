@@ -30,8 +30,11 @@
                         <li class="nav-item">
                             <a href="#home">Home</a>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a href="#overview">Overview</a>
+                        </li> -->
+                        <li class="nav-item">
+                            <a href="#demographic">Demographics</a>
                         </li>
                         <li class="nav-item">
                             <a href="#gender">Gender</a>
@@ -40,10 +43,7 @@
                             <a href="#age">Age</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#demographic">Demographics</a>
-                        </li>
-                        <li class="nav-item">
-                                <a href="#weekly">Weekly</a>
+                                <a href="#weekly">Weekday</a>
                             </li>
                     </ul>
                 </div>
@@ -99,7 +99,7 @@
 
 
 
-            <!--- Accidents in 2018 -->
+            <!-- - Accidents in 2018
             <div id="overview"><a href="overview"></a></div>
             <div class="main container">
                 <div class="panel panel-default">
@@ -120,12 +120,38 @@
                 </div>
             </div>
         </div>
+ -->
 
+
+
+ <!--- Demographic -->
+<!-- Clifford made this beautiful visual. He's an amazing human being.-->
+<div id="demographic"><a href="demographic"></a></div>
+        <div class="container-fluid padding">
+        <div class="row padding">
+            
+                <div class="col-lg-6">
+                    <h3>
+                    Demographic Analysis
+                    <br></br>
+                    Herein is an illustration of the demographics of people who participated in car accidents.
+                    <br></br>
+                    The Hispanic/Latino population accounted for 39% of accidents. This may be due to the large Hispanic/Latino population in Los Angeles.
+                    </h3>
+                </div>
+
+                <div class="col-lg-6">
+                    <div id='pieChart'></div>
+                        <script type='text/javascript' src="{{ url_for('static', filename = 'logic.js') }}"></script>
+                    </div>
+                </div>
+        </div>
+        </div>
 
 
 
 <!--- Gender V2 -->
-<div id="age"><a href="age"></a>
+<div id="gender"><a href="gender"></a>
 </div>
     <div class="container-fluid padding">
     <div class="row padding">
@@ -186,29 +212,6 @@
 
 
 <br></br>
-        <!--- Demographic -->
-<!-- Clifford made this beautiful visual. He's an amazing human being.-->
-<div id="demographic"><a href="demographic"></a></div>
-        <div class="container-fluid padding">
-        <div class="row padding">
-            
-                <div class="col-lg-6">
-                    <h3>
-                    Demographic Analysis
-                    <br></br>
-                    Herein is an illustration of the demographics of people who participated in car accidents.
-                    <br></br>
-                    The Hispanic/Latino population accounted for 39% of accidents. This may be due to the large Hispanic/Latino population in Los Angeles.
-                    </h3>
-                </div>
-
-                <div class="col-lg-6">
-                    <div id='pieChart'></div>
-                        <script type='text/javascript' src="{{ url_for('static', filename = 'logic.js') }}"></script>
-                    </div>
-                </div>
-        </div>
-        </div>
 
 <!--- Weekly V2 -->
 <div id="weekly"><a href="weekly"></a>
@@ -220,7 +223,7 @@
                     <br>
                     </br>
                     <h3>
-                        Week Analysis
+                        Weekday Analysis
                     <br></br>
                     The bar graph seperates the collisions by day of the week.
                     <br></br>
@@ -294,18 +297,21 @@
             </div>
         </div>
 
-        <!--- Footer -->
-        <footer>
-            <div class="container-fluid padding">
-                <div class="row text-center">
-                    <div class="col-md-12">
-                        <hr class="light">
-                        <h2> &copy; CRASH 2018</h2>
-                        </hr>
+
+
+<!--- Footer -->
+     <footer>
+        <div class="container-fluid padding">
+            <div class="row text-center">
+                <div class="col-md-12">
+                    <hr class="light">
+                    <h2> &copy; CRASH 2018</h2>
+                    </hr>
                     </div>
-                    ]
                 </div>
             </div>
         </footer>
-    </body>
+
+
+</body>
 </html>
