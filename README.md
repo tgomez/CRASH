@@ -1,3 +1,4 @@
+A Dashboard App Analyzing Traffic Collision Data in Los Angeles created with Python, SQLite, SQLAlchemy and Bootstrap.
 # CRASH
 ![Alt Text](https://cdn.dribbble.com/users/176572/screenshots/1261789/dribbble_14.gif)
 ### Collaboraters:
