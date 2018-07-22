@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Thank you to Clifford, Taron and Chris for working on this project with me, it was amazing working with you all!-->
 <html lang="en">
     <head>
         <meta charset="utf-8">
@@ -47,6 +48,9 @@
                     </ul>
                 </div>
             </nav>
+
+
+
             <!-- Fun Fact Carousel to catch attenshun-->
             <div id="home"><a href="home"></a></div>
             <div id="slides" class="carousel slide" data-ride="carousel">
@@ -77,18 +81,24 @@
                     </div>
                 </div>
             </div>
+
+
             <!--- Jumbotron -->
             <div class="container-fluid">
                 <div class="row jumbotron">
-                    <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
+                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
                         <p class="lead">Traffic collisions are one of the leading causes of death in the United States. </p>
                         <p>For this reason traffic collisions are a great candidate for study.
                             By analyzing different factors involved in traffic collisions, we may unveil invaluable insights about these occurances.
                             We chose to analyze traffic collissions in Los Angeles County (LA), as it is a large commuter city.
+                            The graphs were made utilizing data from Los Angeles City for the year of 2018.
                         </p>
                     </div>
                 </div>
             </div>
+
+
+
             <!--- Accidents in 2018 -->
             <div id="overview"><a href="overview"></a></div>
             <div class="main container">
@@ -101,7 +111,7 @@
                             <iframe width="100%" height="520" frameborder="0" src="https://taronhakobyan.carto.com/builder/5ccb7601-4b19-4ca0-b878-f3d332948be7/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
                             <figcaption>
                             <p>
-                                This map displays locations of reports collisions taken place in 2108 within Los Angeles County.
+                                This map displays locations of reports collisions taken place in 2018 within Los Angeles County.
                             </p>
                         </p>
                         <p>More men are involved in accidents. Highest rate of accidents occur on Fridays. There is a higer rate of accidents around 4 pm. </p>
@@ -113,61 +123,71 @@
 
 
 
-        <!--- GENDER ANALYSIS-->
- <div id="gender"><a href="gender"></a></div>
 
-        <div class="main container">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h3 class="panel-title">Gender Analysis</h3>
+<!--- Gender V2 -->
+<div id="age"><a href="age"></a>
+</div>
+    <div class="container-fluid padding">
+    <div class="row padding">
+            
+                <div class="col-lg-6">
+                    <br>
+                    </br>
+                    <h3>
+                        Gender Analysis
+                    <br></br>
+                    The pie chart serates participants in collisions by gender.
+                    <br></br>
+                    The majorioty of accidents involved men. 
+                    </h3>
                 </div>
-                <div class="panel-body">
-                    <figure>
-                            <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~taronh/7.embed"></iframe>
-                        <figcaption>
-                        <p>
-                            Men are terrible. This translates into thier driving. Lets get them off the roads.
-                        </p>
-                    </p>
-                    <p></p>
-                    </figcaption>
-                </figure>
-            </div>
+
+                <div class="col-lg-6">
+                    <div id='bargraph'></div>
+                    <iframe width="450" height="400" frameborder="0" scrolling="no" src="//plot.ly/~taronh/7.embed"></iframe>
+                    </iframe>
+                    </div>
+                </div>
         </div>
-    </div>
+        </div>
 
 
+<br></br>
 
 
 
         
-        <!--- Age -->
-
-<div id="age"><a href="age"></a></div>
-        <div class="main container">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h3 class="panel-title">Age Analysis</h3>
+<!--- Age V2 -->
+<div id="age"><a href="age"></a>
+</div>
+    <div class="container-fluid padding">
+    <div class="row padding">
+            
+                <div class="col-lg-6">
+                    <br>
+                    </br>
+                    <h3>
+                        Age Analysis
+                    <br></br>
+                    The bar graph seperates the collisions by age.
+                    <br></br>
+                    Drivers in thier twenties participated in more traffic collisions than drivers in other age groups.
+                    </h3>
                 </div>
-                <div class="panel-body">
-                    <figure>
-                            <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~taronh/5.embed"></iframe>
-                        <figcaption>
-                        <p>
-                            Not surprisingly, new drivers have high collision rates as do people between 23 and 36.
-                        </p>
-                    </p>
-                    <p></p>
-                    </figcaption>
-                </figure>
-            </div>
+
+                <div class="col-lg-6">
+                    <div id='bargraph'></div>
+                    <iframe width="500" height="450" frameborder="0" scrolling="no" src="//plot.ly/~taronh/5.embed"></iframe>
+                    </iframe>
+                    </div>
+                </div>
         </div>
-    </div>
+        </div>
 
 
 <br></br>
         <!--- Demographic -->
-        <!-- Clifford-->
+<!-- Clifford made this beautiful visual. He's an amazing human being.-->
 <div id="demographic"><a href="demographic"></a></div>
         <div class="container-fluid padding">
         <div class="row padding">
@@ -178,7 +198,7 @@
                     <br></br>
                     Herein is an illustration of the demographics of people who participated in car accidents.
                     <br></br>
-                    The Hispanic/Latino population accounted for 39% of accidents. This may be due to the large Hispanic/Latino population in Los ANgeles.
+                    The Hispanic/Latino population accounted for 39% of accidents. This may be due to the large Hispanic/Latino population in Los Angeles.
                     </h3>
                 </div>
 
@@ -190,39 +210,35 @@
         </div>
         </div>
 
-
-
-
-<!-- Weekly Anaysis-->
-<div id="weekly"><a href="weekly"></a></div>
-        <div class="main container">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h3 class="panel-title">Week Analysis</h3>
+<!--- Weekly V2 -->
+<div id="weekly"><a href="weekly"></a>
+</div>
+    <div class="container-fluid padding">
+    <div class="row padding">
+            
+                <div class="col-lg-6">
+                    <br>
+                    </br>
+                    <h3>
+                        Week Analysis
+                    <br></br>
+                    The bar graph seperates the collisions by day of the week.
+                    <br></br>
+                    Fridays are a pretty exciting day of the week, however the highest frequency of incidents occured on fridays. Take caution when driving on friday afternoons.
+                    </h3>
                 </div>
-                <div class="panel-body">
-                    <figure>
-                            <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~taronh/3.embed"></iframe>
-                        <figcaption>
-                        <p>
-                            People have a tendency to get into trouble on Fridays.
-                        </p>
-                    </p>
-                    <p></p>
-                    </figcaption>
-                </figure>
-            </div>
+
+                <div class="col-lg-6">
+                    <div id='bargraph'></div>
+                    <iframe width="450" height="400" frameborder="0" scrolling="no" src="//plot.ly/~taronh/3.embed">
+                    </iframe>
+                    </div>
+                </div>
         </div>
-    </div>
+        </div>
 
 
-
-
-
-
-
-
-        <!--- Coworkers -->
+        <!--- Teammates -->
         <div class="container-fluid padding">
             <div class="row welcome text-center">
                 <div class="col-12">
@@ -231,9 +247,8 @@
             </div>
         </div>
 
+        <!-- Info Boxes -->
 
-
-        <!--- Boxes W info -->
         <div class"container-fluid padding">
             <div class="row padding">
                 <div class="col-md-3">
@@ -242,7 +257,7 @@
                         <div class="card-body">
                             <h4 class="card-title"></h4> Clifford Ferraren </h4>
                             <br></br>
-                            <p class="card-text">Clifford has over 11 years of progressive experience in the Research & Development/ Quality field. Over the last 2 years he has been actively transitioning from a technical individual contributor role to a technical analytical  role providing businesses with insights delivering the highest business value.</p>
+                            <p class="card-text">With over 11 years of progressive experience in the Research & Development/ Quality field, he's been transitioning from a technical contributor role to a technical analytical role providing businesses with insights delivering the highest business value.</p>
                         </div>
                     </div>
                 </div>
